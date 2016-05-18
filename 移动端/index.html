@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>标题</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" href="reset.css">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width,minimum-scale=0.5,maximum-scale=1.0,initial-scale=0.5,user-scalable=no" />
+<style>
+</style>
+</head>
+<body>
+</body>
+<script type="text/javascript" src="jquery-1.8.3.min.js"></script>
+<script>
+function bl(){
+	var s=document.documentElement.clientWidth;
+	var s2=s/640;
+	document.body.style.zoom=s2;
+}
+window.onload=window.onresize=function(){
+	bl();
+}
+</script>
+</html>
