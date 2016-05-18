@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<![endif]-->
+		 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+		<title>课程信息</title>
+		
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<!-- Google fonts -->
+		<link href='assets/css/fontcss.css' rel='stylesheet' type='text/css'>
+		<!-- Bootstrap -->
+		<link href="assets/css/bootstrap.css" rel="stylesheet">
+		<!-- Google fonts -->
+		<link href="assets/css/font-awesome.min.css" rel="stylesheet">
+		<link href="assets/css/jquery.fancybox.css" rel="stylesheet">
+		<link href="assets/css/global.css" rel="stylesheet">
+		<link href="assets/css/style.css" rel="stylesheet">
+		<link href="assets/css/responsive.css" rel="stylesheet">
+		<link href="assets/css/skin.css" rel="stylesheet">
+		
+		<!-- w0de -->
+		<link href="assets/css/index.css" rel="stylesheet">
+		
+		<script src="assets/js/modernizr.custom.js"></script>
+	</head>
+	<body id="homepage" class="">
+		<div id="wrapper">
+
+			<main id="main" role="main">
+				<section class="main-section main-section1 main-section11" id="main-section">
+					<div class="inner-main parallax inner-main1">
+						<!--Header Section Start-->
+						<header id="header" data-sticky="yes" class="horzz header1">
+							<div class="navbar navbar-fixed-top navbar1" role="navigation">
+								<div class="container">
+									<!-- head 右侧按钮 -->
+									<div class="navbar-header navbar-header1">
+										<a class="navbar-brand navbar-brand1" href="新网校首页.html" title="Air Dev | Homepage"><img src="assets/images/logo.png" alt="天道网校"></a>
+
+										<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
+											<span class="sr-only"></span>
+											<span class="icon-bar"></span>
+										</button>
+
+									</div>
+
+									<!-- Collect the nav links, forms, and other content for toggling -->
+									<nav class="collapse navbar-collapse collapse1" id="main-nav">
+
+										<ul class="nav navbar-nav">
+											<li class="active">
+												<a href="课程列表.html">课&nbsp;&nbsp;程</a>
+											</li>
+											<li>
+												<a href="javascript:;">拍摄计划</a>
+											</li>
+										</ul>
+										
+									</nav>
+
+									<!-- /.navbar-collapse -->
+								</div><!-- /.container-fluid -->
+							</div>
+						</header>
+						<header id="list_head">
+							<nav class="list_nav">
+								<div class="container">
+									<div class="navbar-header" style="padding:0;">
+										<a class="navbar-brand sort" href="#" title="">所有课程分类</a>
+									</div>
+								</div>
+							</nav>
+						</header>
+						<!--  -->
+						<div class="container clearfix">
+							<div class="row clearfix">
+								<div class="list_cont fl" style="display:none;margin-left:15px;">
+									<ul>
+										<li><a href="#" target="_blank">西班牙语</a></li>
+										<li><a href="#" target="_blank">雅思</a></li>
+										<li><a href="#" target="_blank">托福</a></li>
+										<li><a href="#" target="_blank">英语</a></li>
+										<li><a href="#" target="_blank">西班牙语</a></li>
+										<li><a href="#" target="_blank">西班牙语</a></li>
+										<li><a href="#" target="_blank">西班牙语</a></li>
+										<li><a href="#" target="_blank">西班牙语</a></li>
+									</ul>
+								</div>
+								<div class="list_contss fl">
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+									<div class="list_c1">
+										<h4><a href="#" target="_blank">求职/职场</a></h4>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">职场技能</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">职场技能</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">演讲与口才</a>
+										</p>
+										<p class="clearfix">
+											<a href="#" target="_blank" class="a_1">求&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职</a>
+											<a href="#" target="_blank">职业规划</a>
+											<a href="#" target="_blank">求职简历</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+											<a href="#" target="_blank">求职</a>
+										</p>
+										<h4><a href="#" target="_blank">办公技能</a></h4>
+									</div>
+								</div>
+							</div>
+						</div>
+							<div class="container">
+								<div class="row">
+									<div class="col-xs-12 col-md-6 col-md-661"></div>
+									<div class="col-xs-12 col-sm-12 col-md-6 col-md-push-6 col-md-push-634 xh_W100 col-md-push-65">
+									<section class="design-section design-section34">
+										<div class="container">
+											<section id="content">
+												<section class="main detail white">													
+													<p class="p_tit">互联网那点事儿<em></em></p>	
+													<p>【课程介绍】</p>
+													<p class="jianj">《多重视角透视20世纪的世界》是一门寓教于乐的历史类公开课。本课程以"点"（世界热点）、线（主要国家变迁脉络）、面（世界大战和冷战及战后秩序）为重点，回顾世界在20世纪的巨变，回顾世界在20世纪的巨变，回顾世界在20世纪的巨变，回顾世界在20世纪的巨变，回顾世界在20世纪的巨变，回顾世界在20世纪的巨变，回顾世界在20世世界在纪的巨变。</p>
+													<p class="p_tit">课程章节<em></em></p>
+													<article class="media media2 media2-xx ">
+														<dl class="">
+															<dt class="">
+																<div style="width:84%;">
+																	<p class="clearfix"><span class="span_1">[第一集]</span><span class="span_2"><i class="fa fa-clock-o"></i>90%</span></p>
+																	<p class="txt">互联网那些事儿</p>
+																</div>
+																<span><a href="拍摄计划.html" class="play_video"></a></span>
+																<div class="progress">
+																	<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="90%" style="width: 90%" title="90%"></div>
+																</div>
+
+															</dt>
+														</dl>
+														<dl class="">
+															<dt class="">
+																<div style="width:84%;">
+																	<p class="clearfix"><span class="span_1">[第二集]</span><span class="span_2"><i class="fa fa-clock-o"></i>56%</span></p>
+																	<p class="txt">互联网那些事儿</p>
+																</div>
+																<span><a href="拍摄计划.html" class="play_video"></a></span>
+																<div class="progress">
+																	<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="56%" style="width: 56%" title="56%"></div>
+																</div>
+
+															</dt>
+														</dl>
+														<dl class="">
+															<dt class="">
+																<div style="width:84%;">
+																	<p class="clearfix"><span class="span_1">[第三集]</span><span class="span_2"><i class="fa fa-clock-o"></i>32%</span></p>
+																	<p class="txt">互联网那些事儿</p>
+																</div>
+																<span><a href="拍摄计划.html" class="play_video"></a></span>
+																<div class="progress">
+																	<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="32%" style="width: 32%" title="32%"></div>
+																</div>
+
+															</dt>
+														</dl>
+														<dl class="">
+															<dt>
+																<div STYLE="WIDTH:84%;">
+																	<p class="clearfix"><span class="span_1">[第一集]</span><span class="span_2"><i class="fa fa-clock-o"></i>90%</span></p>
+																	<p class="txt">互联网那些事儿</p>
+																</div>
+																<span><a href="拍摄计划.html" class="play_video"></a></span>
+																<div class="progress">
+																	<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="80%" style="width: 80%" title="80%"></div>
+																</div>
+
+															</dt>
+														</dl>
+														<dl class="">
+															<dt class="">
+																<div style="width:84%;">
+																	<p class="clearfix"><span class="span_1">[第三集]</span><span class="span_2"><i class="fa fa-clock-o"></i>32%</span></p>
+																	<p class="txt">互联网那些事儿</p>
+																</div>
+																<span><a href="拍摄计划.html" class="play_video"></a></span>
+																<div class="progress">
+																	<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="32%" style="width: 32%" title="32%"></div>
+																</div>
+
+															</dt>
+														</dl>
+														<dl class="">
+															<dt>
+																<div style="width:84%;">
+																	<p class="clearfix"><span class="span_1">[第一集]</span><span class="span_2"><i class="fa fa-clock-o"></i>90%</span></p>
+																	<p class="txt">互联网那些事儿</p>
+																</div>
+																<span><a href="拍摄计划.html" class="play_video"></a></span>
+																<div class="progress">
+																	<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="80%" style="width: 80%" title="80%"></div>
+																</div>
+															</dt>
+														</dl>
+													</article>
+													<article>
+														<p>【课程评论】</p>
+														<div class="c_1 c_2 xx_c_2" style="">
+															<div>
+																<dl class="clearfix">
+																	<dt><img src="assets/images/t.png" alt=""></dt>
+																	<dd>
+																		<p><span class="time_xx"><em>2014-10-04</em><em>20:13:32</em></span><span>m187****1678</span></p>
+																		<p>发表了这个话题  2014-9-20  1个恢复 5次浏览</p>
+																	</dd>
+																	<dd>
+																		来自：<span>互联网那点事儿</span><span class="d">顶<em class="d_count">【0】</em></span><span class="reply">回复</span>
+																	</dd>
+																</dl>
+																<dl class="clearfix">
+																	<dt><img src="assets/images/t.png" alt=""></dt>
+																	<dd>
+																		<p><span class="time_xx"><em>2014-10-04</em><em>20:13:32</em></span>话题标题</p>
+																		<p>发表了这个话题  2014-9-20  1个恢复 5次浏览</p>
+																	</dd>
+																	<dd>
+																		来自：<span>互联网那点事儿</span><span class="d">顶<em class="d_count">【0】</em></span><span class="reply">回复</span>
+																	</dd>
+																</dl>
+															</div>
+															<figure>
+																<a class="fancybox" href="#inline1" title="">
+																	<p class="c_btn c_btn_xx">更多评论</p>
+																</a>
+
+															</figure>
+														</div>
+														<p class="c_btn1">关注课堂</p>
+													</article>
+												</section>	
+											</section>
+										</div>
+									</section>
+								</div>
+								</div>
+							</div>
+					</div>
+					</section>
+					<!-- 斜边 -->
+					<section class="design-section">
+						<div class="l-down"></div>
+					</section>
+					<div id="inline1" class="lightbox-gallery lightbox-gallery1 hide">		
+						<div id="itemContainer" class="itemContainer clearfix">
+
+						</div>
+						<div class="holder"></div>
+					</div>
+			</main>
+		</div>
+
+
+		<script src="assets/js/jquery-1.11.1.min.js"></script>
+		<script src="assets/js/bootstrap.js"></script>
+		<!-- 黑色蒙层 -->
+		<script src="assets/js/jquery.fancybox.js"></script>
+		<!-- 顶部滚动黑背景 -->
+		<script src="assets/js/site.js"></script>
+		
+		<script src="assets/js/highlight.pack.js"></script>
+		<script src="assets/js/tabifier.js"></script>
+		<script src="assets/js/jPages.js"></script>
+		<script src="assets/js/jquery.prettyPhoto.js"></script>  
+		 <script src="assets/js/jquery.grid-a-licious.min.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				$(".sort").hover(function(){
+					$(".list_cont").slideDown(function(){
+						$(".list_cont").hover(function(){
+							$(".list_cont").stop();
+						},function(){
+							$(".list_cont").slideUp();
+						});
+					});
+				},function(){
+					$(".list_cont").slideUp();
+				});
+				//左边课程分类
+				var sortIndex,_this;
+				$(".list_cont li").hover(function(){
+					sortIndex=$(this).index(),
+					_this=$(this);
+					_this.addClass("cur").siblings().removeClass("cur");
+					$(".list_contss .list_c1").eq(sortIndex).show().siblings().hide();
+					tab(_this);
+				},function(){
+					$(".list_cont li").removeClass("cur");
+					$(".list_contss .list_c1").hide();
+					tab(_this);
+				});	
+			});
+			function tab(_this){
+				$(".list_contss .list_c1").hover(function(){
+					$(".list_cont").stop();
+					_this.addClass("cur").siblings().removeClass("cur");
+					$(this).show().siblings().hide();
+				},function(){
+					$(".list_cont li").removeClass("cur");
+					$(".list_contss .list_c1").hide();
+					$(".list_cont").slideUp();
+				});
+			}	
+		</script>
+	<script src="assets/js/kcxx.js"></script>
+	</body>
+</html>

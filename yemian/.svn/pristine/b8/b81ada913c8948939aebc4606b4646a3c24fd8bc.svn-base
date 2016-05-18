@@ -1,0 +1,231 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>注册_个人中心_天道教育</title>
+<meta name="keywords" content="注册"/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<style type="text/css">
+		
+	/*  注册*/
+	p.xieyi {
+		font-size:1.2em;
+		color:#999;
+		padding:0 1em 1em 1em;
+	}
+	.xieyi a{
+		color:#30bbfa;
+	}
+	.zc_box{
+		position:relative;
+	}
+	.zc_1{
+		position:absolute;
+		display:none;
+		width:100%;
+	}
+	.zc_11{
+		display:block;
+	}
+	.care{
+		color:#ff857a;
+		display:none;
+		margin:0!important;
+		line-height:0;
+	}
+	.phone form p{
+		position:relative;
+		 margin:1.5em 0;
+	}
+	.form_dl p{
+		position:relative;
+	}
+	.form_dl p i{
+		position: absolute;
+		top: 0.6em;
+		right: 0.2em;
+		font-size: 2em;
+		color: #b7b7b7;
+		display:none;
+	}
+	.yzm{
+		display:block;
+		width:45%;
+		float:left;
+		position:relative;
+		margin-right:1em;
+	}
+	.yzm input{width:100%;}
+	input:focus{
+		border:1px solid #3bbcf6;
+	}
+	input.rong{
+		border:1px solid #ff857a;
+	}
+
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="#"><i class="fa"></i></a> 
+	    <h2>注册</h2>
+	</div>
+	<div class="h43"></div>
+	<div class="zc_box">
+		<div class="zc_1 zc_11">
+			<div class="phone">
+				<form action="" class="form_dl phoness_zh2">
+					<p><input type="" placeholder="输入手机号" class="phoneNum"/><i>x</i></p>
+					<p class="care care1">!手机号码已存在</p>
+					<p class="p_2 clearfix p_22"><em class="yzm"><input type="" placeholder="验证码" class="check"/><i class="checkXh">x</i></em><span class="checkss">获取短信验证码</span><span class="tip">60秒后重新发送</span></p>
+					<p class="care care2">!验证码错误</p>
+<!-- 					<p><input type="password" placeholder="密码" class="pwd"/><i>x</i></p>
+					<p class="care care3">!密码错误</p> -->
+				</form>
+			</div>
+			<p class="sure register"><a href="javascript:;">立即注册</a></p>
+			<p class="xieyi mt10">单击立即注册，即表示您同意并愿意遵守<a href="注册之用户协议.html">《天道用户及邮件订阅协议》</a>。</p>
+			
+		</div>
+		<div class="zc_1 zc_12">
+			<div class="myClass">
+				<p class="tc mt20"><img src="images/yj_succe.png" alt="" /></p>
+				<h2 class="tc mt20">注册成功</h2>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			var timer;
+			$(".checkss").on("click",function(){
+				clearInterval(timer);
+				timers($(this));
+				
+			});
+			//
+			var phoneReg1 =/^(0|86|17951)?(13[0-9]|15[012356789]|17[678]|18[0-9]|14[57])[0-9]{8}$/;
+			$(".phoneNum,.pwd,.check").focus(function(){
+				//
+			}).keydown(function(){
+				var _that=$(this);
+				_that.next().show();
+				_that.next().on("click",function(){
+					_that.val("");
+					$(this).hide();
+				});
+			}).blur(function(){
+				$(this).next().hide();
+			});
+		
+			$(".phoneNum").blur(function(){
+				var loginName = $(this).val();
+					if(loginName == ""){  //用户名为空
+						$(this).addClass("rong");
+						$(this).parent().next().show().html("！请输入手机号");
+					}else{
+						if(phoneReg1.test(loginName)){
+							$(this).removeClass("rong");
+							$(this).parent().next().hide();
+							$(this).parent().find("i").hide();
+							//点击登录
+							/*$(".loginBtn").on("click",function(){
+								$(".myZls1").fadeOut();
+								$(".myZls2").fadeIn();
+							});*/
+						}else{
+							$(this).addClass("rong");
+							$(this).parent().next().show().html("！账号名称格式错误");
+						}
+					}
+			});
+			var pwdReg3=/\S/;
+			$(".pwd").blur(function(){
+				var loginName = $(this).val();
+				if(loginName == ""){  
+					$(this).addClass("rong");
+					$(this).parent().next().show().html("！请输入您的密码");
+				}else{
+					if(pwdReg3.test(loginName)){
+						$(this).removeClass("rong");
+						$(this).parent().next().hide();
+						$(this).parent().find("i").hide();
+						//点击登录
+						/*$(".loginBtn").on("click",function(){
+							$(".myZls1").fadeOut();
+							$(".myZls2").fadeIn();
+						});*/
+					}else{
+						$(this).addClass("rong");
+						$(this).parent().next().show();
+					}
+				}
+			});
+			
+			//注册成功
+			$(".register").on("click",function(){
+				var phoneReg1 =/^(0|86|17951)?(13[0-9]|15[012356789]|17[678]|18[0-9]|14[57])[0-9]{8}$/;
+				var phoneval=$(".phoneNum").val(),
+					yzVal=$(".check").val(),
+					pwdVal=$(".pwd").val();
+					if(!phoneReg1.test(phoneval)){
+						$(".care1").show();
+						$(".phoneNum").addClass("rong");
+					}else{
+						//注册成功
+						$(".zc_11").fadeOut();
+						$(".zc_12").fadeIn();
+						//2.5秒后跳转到登录页
+						setTimeout(function(){
+							window.location.href="注册登录.html";
+						},2500);
+					}
+			});
+		});
+		
+		function timers(_this){
+			var t=120;
+			$(".tip").html("重新发送（"+ t +"s）");
+				$(".checkss").hide();
+				$(".tip").show();
+			 timer=setInterval(function(){
+				t--;
+				if(t > 0){
+					$(".tip").html("重新发送（"+ t +"s）");
+				}else{
+					$(".tip").hide();
+					$(".checkss").show();
+					clearInterval(timer);
+				}
+			},1000);
+		}
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

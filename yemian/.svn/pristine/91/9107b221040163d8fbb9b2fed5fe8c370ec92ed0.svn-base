@@ -1,0 +1,611 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>YYYYY（计划1-30的名字）_天道工具_天道教育</title>
+<meta name="keywords" content="YYYYY（计划1-30的名字）"/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/3d.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="工具.html"><i class="fa"></i></a> 
+	    <h2>30步DIY留学计划</h2>
+	<!-- 	<a href="#" class="phone ok bianji">重置</a> -->
+	</div>
+	<div class="h43"></div>
+	<div class="tt clearfix mb10">
+		<span class="fl">2015年5月28日</span>
+		<!-- <span class="fr">已用去：<i>5</i> 天</span> -->
+	</div>
+	<!-- <div class="tt clearfix mb10 tt2">
+		<span class="fl bg clearfix">
+			<em class="em1"><i>25%</i></em>
+			<em class="em2"><i>50%</i></em>
+			<em class="em3"><i>100%</i></em><img src="images/bg2.png" alt="" /></span>
+		<span class="fr"><a href="javascript:;">打卡></a></span>
+	</div> -->
+	<div class="bd">
+		<ul>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/01.html">
+					<span><img src="images/i1.png" alt="" /></span>
+					<span class="span_r">
+						<em>1 时间规划</em>
+					<div class="progress progresss1">
+						<div class="progress-bar progress-bar-info progress1" data-toggle="tooltip" data-original-title="100%" style="width: 100%" title="100%"></div>
+						<i class="fr">100%</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/02.html">
+					<span><img src="images/i2.png" alt="" /></span>
+					<span class="span_r">
+						<em>2 职业解析</em>
+					<div class="progress progresss2">
+						<div class="progress-bar progress-bar-info progress2" data-toggle="tooltip" data-original-title="50%" style="width: 50%" title="50%"></div>
+						<i class="fr">50%</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/03.html">
+					<span><img src="images/i3.png" alt="" /></span>
+					<span class="span_r">
+						<em>3 专业解析</em>
+					<div class="progress progresss3">
+						<div class="progress-bar progress-bar-info progress3" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">25%</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/04.html">
+					<span><img src="images/i4.png" alt="" /></span>
+					<span class="span_r">
+						<em>4 衡量GPA</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/05.html">
+					<span><img src="images/i5.png" alt="" /></span>
+					<span class="span_r">
+						<em>5 暑假安排</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/06.html">
+					<span><img src="images/i6.png" alt="" /></span>
+					<span class="span_r">
+						<em>6 出国考试</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/07.html">
+					<span><img src="images/i7.png" alt="" /></span>
+					<span class="span_r">
+						<em>7 实习经历</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/08.html">
+					<span><img src="images/i8.png" alt="" /></span>
+					<span class="span_r">
+						<em>8 社会活动</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/09.html">
+					<span><img src="images/i9.png" alt="" /></span>
+					<span class="span_r">
+						<em>9 论文发表</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/10.html">
+					<span><img src="images/i10.png" alt="" /></span>
+					<span class="span_r">
+						<em>10 科研项目</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/11.html">
+					<span><img src="images/i11.png" alt="" /></span>
+					<span class="span_r">
+						<em>11 头脑风暴</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/12.html">
+					<span><img src="images/i12.png" alt="" /></span>
+					<span class="span_r">
+						<em>12 项目研究</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/13.html">
+					<span><img src="images/i13.png" alt="" /></span>
+					<span class="span_r">
+						<em>13 选定学校</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/14.html">
+					<span><img src="images/i14.png" alt="" /></span>
+					<span class="span_r">
+						<em>14 文书初稿</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/15.html">
+					<span><img src="images/i15.png" alt="" /></span>
+					<span class="span_r">
+						<em>15 文书修改</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/16.html">
+					<span><img src="images/i16.png" alt="" /></span>
+					<span class="span_r">
+						<em>16 文书润色</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/17.html">
+					<span><img src="images/i17.png" alt="" /></span>
+					<span class="span_r">
+						<em>17 准备材料</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/18.html">
+					<span><img src="images/i18.png" alt="" /></span>
+					<span class="span_r">
+						<em>18 初步套磁</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/19.html">
+					<span><img src="images/i19.png" alt="" /></span>
+					<span class="span_r">
+						<em>19 学校网申</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/20.html">
+					<span><img src="images/i20.png" alt="" /></span>
+					<span class="span_r">
+						<em>20 状态跟踪</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/21.html">
+					<span><img src="images/i21.png" alt="" /></span>
+					<span class="span_r">
+						<em>21 深度套磁</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/22.html">
+					<span><img src="images/i22.png" alt="" /></span>
+					<span class="span_r">
+						<em>22 调整选校</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/23.html">
+					<span><img src="images/i23.png" alt="" /></span>
+					<span class="span_r">
+						<em>23 准备面试</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/24.html">
+					<span><img src="images/i24.png" alt="" /></span>
+					<span class="span_r">
+						<em>24 等待录取</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/25.html">
+					<span><img src="images/i25.png" alt="" /></span>
+					<span class="span_r">
+						<em>25 确定学校</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/26.html">
+					<span><img src="images/i26.png" alt="" /></span>
+					<span class="span_r">
+						<em>26 准备签证</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/27.html">
+					<span><img src="images/i27.png" alt="" /></span>
+					<span class="span_r">
+						<em>27 联系学校</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/28.html">
+					<span><img src="images/i28.png" alt="" /></span>
+					<span class="span_r">
+						<em>28 心理准备</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/29.html">
+					<span><img src="images/i29.png" alt="" /></span>
+					<span class="span_r">
+						<em>29 物质准备</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://m.tiandaoedu.com/tdgj/30diy/30.html">
+					<span><img src="images/i30.png" alt="" /></span>
+					<span class="span_r">
+						<em>30 成功飞跃</em>
+					<div class="progress">
+						<div class="progress-bar progress-bar-info" data-toggle="tooltip" data-original-title="25%" style="width: 25%" title="25%"></div>
+						<i class="fr">未解锁</i>
+					</div>
+					</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<!-- 30步蒙层 -->
+	<div class="black"></div>
+	<div class="contBox">
+		<div class="c_1">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu1.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_2">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu2.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_3">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu3.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_4">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu4.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_5">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu5.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_6">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu6.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_7">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu7.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_8">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu8.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_9">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu9.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_10">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu10.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_11">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu11.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_12">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu12.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_13">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu13.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_14">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu14.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_15">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu15.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_16">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu16.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_17">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu17.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_18">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu18.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_19">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu19.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_20">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu20.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_21">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu21.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_22">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu22.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_23">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu22.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_24">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu24.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_25">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu25.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_26">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu26.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_27">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu27.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_28">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu28.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_29">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu29.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+		<div class="c_30">
+			<p class="closeBtn"><img src="images/closeBtn.png" alt="" /></p>
+			<p class="picc"><img src="images/bu30.png" alt="" /></p>
+			<p class="shareBtn tc"><a href="#">分享</a></p>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?e9b1d6d81df83a6af9e328d0705ec432";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?9cbc6afe6436ce82c91f48d408a143e3";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+	<script type="text/javascript">
+		$(function(){
+			resizeScreen();
+			$(window).resize(function(){
+				resizeScreen();
+			});
+			
+			//
+			$(".closeBtn").on("click",function(){
+				$(".black,.contBox").hide();
+			});
+		});
+		function resizeScreen(){
+			var	screenW=document.documentElement.clientWidth ||　document.body.clientWidth,
+				screenH=document.documentElement.clientHeight ||　document.body.clientHeight;
+				$(".black").css("width",screenW);
+				$(".black").css("height",screenH);
+		}
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

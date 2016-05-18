@@ -1,0 +1,33 @@
+body{background:#f1f1f1; height:100%}
+.round1Con{background:#f1f1f1; padding:0.2rem 0.4rem}
+.round1Con h2{ color:#0692d3; font-size:0.35rem; font-weight:bold; text-align:center; margin-bottom:0.2rem}
+.discraption{ color:#666; font-size:0.25rem}
+.game_r1 p{ color:#666; font-size:0.25rem}
+.game_r1 p input{ border:none; border-bottom:solid 1px #666; width:2.13rem; background:none; border-radius:0}
+.btn{ width:2rem; height:0.6rem; background:#fa9410; color:#fff; font-size:0.25rem; border:none; border-radius:20px; margin:0.35rem auto; display:block}
+.busy{ color:#fa9410; font-size:0.25rem; display:block; text-align:center}
+.ju{ color:#666; font-size:0.3rem; text-align:center; margin:0.2rem 0 0}
+.ju b{ color:#fa9410; font-size:0.38rem; padding:0 0.15rem}
+.game_area{ background:url(../images/table.gif) no-repeat 0 0; width:5.46rem; height:5.46rem; background-size:5.46rem auto; margin:0.2rem auto; padding:0.04rem /*position:relative*/}
+.tsk{ width:5rem; background:#0091f7; border-radius:0.2rem; margin:50% auto 0; padding:0.2rem 0.2rem 0}
+.tishi span{ font-size:0.4rem}
+.tsk h3{ color:#fff; font-size:0.3rem}
+.tsk p{ color:#fff;margin-bottom: 0.2rem;}
+.tsk p input{ background:none; border-radius:none;  border:none; border-bottom:solid 1px #fff;}
+.btnsDiv{ border-top:solid 1px #0274c4; overflow:hidden}
+.btnsDiv input{ border:none; background:none; width:50%; border-right:solid 1px #0274c4; float:left; height:0.7rem; border-radius:0 }
+.btnsDiv a{ display:block; float:left; color:#fff; text-align:center; width:49.5%; height:0.7rem; line-height:0.7rem  }
+.t_con{ margin-bottom:0.3rem; display:none }
+.hideDiv{ position:absolute; top:0;left:0; width:100%; background:rgba(0,0,0,0.3); display:none}
+.orange{ background:#e9b035}
+.game_area ul{ overflow:hidden}
+.game_area ul li{width:0.54rem; height:0.54rem; font-size:0.12rem; float:left;color:#666;  text-align:center; line-height:0.53rem}
+.game_area ul li .blue{ color:#2bb6d4; font-size:0.1rem; line-height:0.25rem; float:left }
+.game_area ul li .white{ color:#fff; font-size:0.18rem }
+.ii{
+	color: #666;
+    position: relative;
+    top: 10px;
+    left: 5px;
+    font-size: 0.12rem;
+}

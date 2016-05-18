@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>留学报告-我的选校评估</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<style type="text/css">
+	.care{
+		color:#ff857a;
+		display:none;
+		margin:0!important;
+		line-height:0;
+	}
+	.phone form p{
+		position:relative;
+		 margin:1.5em 0;
+	}
+	.form_dl p{
+		position:relative;
+	}
+	.form_dl p i{
+		position: absolute;
+		top: 0.6em;
+		right: 0.2em;
+		font-size: 2em;
+		color: #b7b7b7;
+		display:none;
+	}
+	.yzm{
+		display:block;
+		width:45%;
+		float:left;
+		position:relative;
+		margin-right:1em;
+	}
+	.yzm input{width:100%;}
+	input:focus{
+		border:1px solid #3bbcf6;
+	}
+	input.rong{
+		border:1px solid #ff857a;
+	}
+
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="#"><i class="fa"></i><!-- <span>我的地址</span> --></a> 
+	    <h2>个人资料</h2>
+		<a href="javascript:;" class="dh"></a>
+	</div>
+	<div class="h43"></div>
+	<div class="phone" style="padding-bottom:0.5em">
+		<h2 class="tc mb20">我的手机号</h2>
+		<form action="" class="form_dl phoness_zh2">
+			<p><input type="" placeholder="输入手机号" class="phoneNum"/><i>x</i></p>
+			<p class="care care1">!手机号码已存在</p>
+			<p class="p_2 clearfix p_22"><em class="yzm"><input type="" placeholder="验证码" class="check"/><i class="checkXh">x</i></em><span class="checkss">获取短信验证码</span><span class="tip">60秒后重新发送</span></p>
+			<p class="care care2">!验证码错误</p>
+			<p class="mt20 text">目前仅支持中国大陆地区手机号，海外及港澳台用户请使用邮箱^^
+。</p>
+		</form>
+	</div>
+	<p class="sure mt20"><a href="#">确定</a></p>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			var phoneReg1 =/^(0|86|17951)?(13[0-9]|15[012356789]|17[678]|18[0-9]|14[57])[0-9]{8}$/;
+			$(".phoneNum,.check").focus(function(){
+				//
+			}).keydown(function(){
+				var _that=$(this);
+				_that.next().show();
+				_that.next().on("click",function(){
+					_that.val("");
+					$(this).hide();
+				});
+			})
+			
+			$(".phoneNum").blur(function(){
+				var loginName = $(this).val();
+					if(loginName == ""){  //用户名为空
+						$(this).addClass("rong");
+						$(this).parent().next().show().html("！请输入手机号");
+					}else{
+						if(phoneReg1.test(loginName)){
+							$(this).removeClass("rong");
+							$(this).parent().next().hide();
+							$(this).parent().find("i").hide();
+							//点击登录
+							/*$(".loginBtn").on("click",function(){
+								$(".myZls1").fadeOut();
+								$(".myZls2").fadeIn();
+							});*/
+						}else{
+							$(this).addClass("rong");
+							$(this).parent().next().show().html("！账号名称格式错误");
+						}
+					}
+			});
+		});
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+[
+	{
+		"name" : "China 中国",
+		"value" : "01"
+	}, {
+		"name" : "USA 美国",
+		"value" : "02"
+	}, {
+		"name" : "England 英格兰",
+		"value" : "02"
+	}, {
+		"name" : "England 英格兰2",
+		"value" : "02"
+	},{
+		"name" : "China 中国3",
+		"value" : "01"
+	}, {
+		"name" : "USA 美国4",
+		"value" : "02"
+	}, {
+		"name" : "England 英格兰5",
+		"value" : "02"
+	}, {
+		"name" : "England 英格兰6",
+		"value" : "02"
+	},{
+		"name" : "China 中国7",
+		"value" : "01"
+	}, {
+		"name" : "USA 美国8",
+		"value" : "02"
+	}, {
+		"name" : "England 英格兰9",
+		"value" : "02"
+	}, {
+		"name" : "England 英格兰10",
+		"value" : "02"
+	}
+	
+]

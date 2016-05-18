@@ -1,0 +1,288 @@
+body{
+	background:#d3f5ff;
+}
+img{width:100%;}
+.header{
+	background:#30bbfa;
+	height:62px;
+	width:100%;
+	min-width:320px;
+}
+.header a,.header a:hover{
+    color: #fff;
+    font-size: 1.5rem;
+    background: url(../images/ic1.png) no-repeat 0 center;
+   background-size:auto 20px;
+	padding-left:2rem;
+	font-weight:normal
+}
+.logo{
+	margin-top:2px;
+	z-index: 23;
+	position: absolute;
+}
+.icons{
+	background:#30bbfa;
+	z-index:22;
+	width:100%;
+}
+.icons a{
+	padding:0 2.5rem;
+	color:#2b4655;
+	font-size:1.6rem;
+	color: #fff;
+}
+.right{
+	float:right;
+}
+.shareBtn, .wo {
+    margin-top: 1.5rem;
+    float: left;
+}
+.shareBtn a:first-child{
+	background:url(../images/ic2.png) no-repeat left center;
+	background-size:15px auto;
+	 padding-left: 1.8rem;
+	 float:left;
+	 margin-right: 1rem;
+}
+.wo a:last-child{
+	background:url(../images/ic3.png) no-repeat left center;
+	background-size:15px auto;
+	padding-left: 1.8rem;
+	float:left;
+}
+.pic{position:relative;}
+.pic img{
+	min-width:320px;
+	min-height:160px;
+}
+.pic p{
+	position:absolute;
+	bottom:30px;
+	left:50%;
+	margin-left:-70px;
+}
+.pic p a{
+	display:block;
+	width:140px;
+	line-height:2em;
+	text-align:center;
+	color:#fff;
+	font-size:1.5em;
+	background:#40c69e;
+}
+.tit{
+	line-height:2em;
+	background:#fff;
+	color:#333;
+	font-weight:bold;
+	font-size:2em;
+	margin-bottom:1em;
+}
+.dls dl{
+	width:90%;
+	margin:3em auto 2em auto; 
+}
+.dl1{
+	position:relative;
+}
+.yd{
+	display:block;
+	position:absolute;
+	right: -33%;
+    top: -35%;
+}
+.yd img{
+	width:36%;
+}
+.down{
+	padding:0em 1em 2em 1em;
+	background:#fff;
+}
+.downsss{
+	background: #fff;
+	padding: 0.1em 0;
+}
+.txt p{
+	color:#696969;
+	font-size:1.25em;
+}
+.tit2{
+	background:#d3f5ff;
+}
+.d_tit a{
+	display:block;
+	background:#40c69e;
+	line-height:2em;
+	color:#fff;
+	text-align:center;
+	font-size:1.8em;
+}
+
+
+/* 移动端界面-微信服务 */
+.dls_wx dt{
+	margin-top:3em;
+}
+.dls_wx dl:last-child dt{
+	margin-top:2em!important;
+	   
+}
+.downs{
+	position:relative;
+	color:#353535;
+	height:100%;
+}
+.downs h1{
+	font-size:2.5em;
+	color:#2a6faf;
+	font-weight:bold;
+	line-height:1.5em;
+}
+.d_tits{
+	width:100%;
+	/* position: absolute;
+    z-index: 1; */
+	margin-top:-30%!important;
+	margin-bottom:0;
+}
+.d_tits img{
+	display:block;
+}
+
+.downs p{
+	font-size:1em;
+	line-height: 0.5rem;
+	color:#2a6faf;
+}
+.ewm{padding:1em 3em;}
+.ewm img{width:60%!important}
+.boxcc{
+	min-width:320px;
+	max-width:1000px;
+	margin:0 auto;
+}
+.ppic{
+	background:#d3f5ff
+}
+.dBox{
+	background:#b4eeff url(../images/yd2.jpg) no-repeat left top;
+	background-size:contain;
+}
+.qq h1{
+	margin-top:0;
+}
+
+.downB{
+	min-width:320px;
+	max-width:1000px;
+	margin:0 auto;
+    width: 100%;
+
+}
+.diaoyong{
+	padding:2rem 0;
+	height:600px;
+	background:#fff;
+	width:92%;
+	margin:0 auto;
+}
+.listIcon{
+	width: 92%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.w2 img{
+	width:auto;
+}
+.content{
+	overflow:hidden;
+}
+.content a{
+	float:left;
+	width: 45%;
+    display: block;
+    margin-right: 5%;
+}
+.content a,.content a:hover{
+	background:#e05035;
+	line-height:4rem;
+	display:block;
+	color:#fff;
+}
+.am-u-sm-122,.am-u-sm-122 .am-u-md-6{
+	padding-left:0;
+	padding-right:0;
+}
+.am-margin-tops{
+		margin-top:1.6rem;
+	}
+	.a2{
+	margin-left: 0;
+	margin-right:3%!important;
+}
+.a4{
+	float: right!important;
+    margin-right:0!important;
+}
+	.am-g .am-g{
+		margin-left:0!important;
+		margin-right:0!important;
+		padding-left:0;
+		padding-right:0;
+	}
+@media(min-width:640px){
+	.ewm img{width:20%!important}
+	.am-margin-tops{
+		margin-top:0;
+	}
+	.min640,.am-g.contents,.am-g .am-g{
+		margin-left:0!important;
+		margin-right:0!important;
+		padding-left:0;
+		padding-right:0;
+	}
+	.contents{
+		padding-left:0;
+		padding-right:0;
+		
+	}
+	.a2{
+		margin-left: 2%;
+		margin-right:3%!important;
+	}
+	.a3{
+		    margin-left: 3.5%;
+	}
+	
+}
+@media(max-width:640px){
+		.a2{
+		margin-left: 0;
+		margin-right:0!important;
+		float:right!important;
+	}
+	.a4{
+		float: right!important;
+		margin-right:0!important;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

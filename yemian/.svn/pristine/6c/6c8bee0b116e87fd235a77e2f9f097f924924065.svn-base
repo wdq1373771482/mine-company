@@ -1,0 +1,247 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面_名师说详情页</title>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+<link href="styles/framework.css" rel="stylesheet" type="text/css">
+<link href="styles/owl.theme.css" rel="stylesheet" type="text/css">
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link href="styles/font-awesome.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<style type="text/css">
+	.gallery.gallery_msxq li img{
+		width:50%;
+	}
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a>
+	    <a href="tel:400-019-0038" class="header-navigation show-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="#" class="header-navigation show-navigation hhh"><i class="fa fa-share-alt show-navigations"></i></a>
+	</div>
+	<div class="header-clear"></div>
+	<div class="slider-container clearfix">
+	<div class=" homepage-slider1" data-snap-ignore="true">
+	<div class="mainBox">
+	<!--banner-->
+		<div>
+			<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img" style="margin-bottom:0;"></a>
+		</div>
+		<div class="xq_1 xq_11 xq_ms" style="padding-bottom:2em;">    
+			<div class="content-heading w100">
+				<h3>
+					<a href="#" target="_blank">中法建交50周年，迎来法国留学美好时代</a>
+				</h3>
+				<p>美国>美研规划</p>
+			</div>
+			<p class="xq_btn clearfix" id="xq_btn"><a href="#" target="_blank" id="xq_btn1">留学方案</a><a href="#" target="_blank" id="xq_btn2">培训课程</a></p>
+		</div>
+		<div class="list3_del list3_dels">
+			<div class="hit"><i><img src="images/hd2.png" alt="" /></i>王婧（Jing.Wang）<i class="fa fa-angle-down fr"></i></div>
+			<div class="xq_list_1">
+				毕业于法国巴黎十二大（Universite Paris XII Val de Marne）经济管理专业. 在法国留学的五年收获了先进的知识，游历欧洲各国更加的丰富了业余生活，累积了深刻的生活经验和体会。归国后多年致力于教育行业，与欧洲众多国家的校方建立了稳定良好的交流合作关系，并一直负责以法国，荷兰为主的欧洲多国的留学事宜。曾为上百名学生提供准确真实的留学信息并制定合理的留学方案，帮助学生成功的踏出国门，实现留学梦想。
+				<p class="tc zan"><i class="fa fa-heart"></i><span class="count">20</span>人感谢<span class="time timess">+1</span></p>
+			</div>
+		</div>
+		<!-- 正文 -->
+		<div class="msBox xq_msBox">
+			<div class="content-heading">
+				<a href="#" target="_blank"><img src="images/2ww.jpg" alt="img"></a>
+			</div>   
+			<div class="content">
+				<div class="allTxt1 allTxt11">
+				<div class="xq_t1">
+					<p>近年来赴法国留学人数不断增长，法国以其独特的魅力，高质量的教学吸引着众多国际学生前往求学。习近平总书记为中法建交五十周年特展题序中说到：中国和法国文化交流源远流长，两国人民在历史发展中各自创造的独具特色、充满魅力的文化，使两国人民始终相互吸引。长期以来，中华文明和法兰西文明不断相互借鉴，为中法友好增添了绚丽色彩。</p>
+				</div>
+				<p class="y mt20"><span class="time">2015是法国留学的好时机</span></p>
+				<div class="xq_t1">
+					<p>2014年是中法建交五十周年，从目前发布的官方信息来看，我们得到了很多中法未来关系中合作与发展的利好消息。这些对于接下来计划去法国留学的中国学生来讲，是否是一个历史最好的时机?</p>
+				</div>
+				<div class="xq_t1">
+					<p>中法建交50周年加上近些年中法两国的互动越来越融合、频繁，更大力度的推动以及促进了中国留学生赴法的新局面。去法国留学生的数量每年都在大幅度的增加且法国政府针对国外留学生的各种福利政策也一直都保留施行，更加吸引了中国的留学生。依照整体的留法人员数据统计，2014年赴法留学的人数比之前增加了30%，除此之外，法国留学签证大家都知道成功率只有70%左右，但是依照2014年度整体留学签证情况来看，获签率相比往年增加了40%，也就是说，根据天道法国留学的整体情况以及数额统计，总体赴法留学的学生的获签率高达87%，这已经是一个相当大的跨越了。我相信，2015年以及未来，法国留学的形势会越来越好的。</p>
+				</div>
+				<p class="y mt20"><span class="time">留法专业及未来就业的建议</span></p>
+				<div class="xq_t1">
+					<p>近一两年，我碰到越来越多的学生和家长都会问我相同的一个问题：“老师，我想知道什么专业好就业?”。充分的说明了现在的学生对于留学的焦点已经不仅仅集中在文凭，知识这些方面了，更看重的是实用性，读完后是否能有一个好的就业前景和发展?从中法即将开展的重点合作领域来看，法国企业在华投资将成为越来越重要的组成部分。那么，哪些法国留学专业有望在回国后，获得不错的就业与发展机会?</p>
+				</div>
+			</div>
+		</div>
+		</div>
+	   <!-- 更多录取案例 -->
+	   <h2 class="titName">该顾问的其他文章</h2>
+	   <ul class="gallery round-thumb homepage-gallery gallery_2 gallery_3 mb76" id="">
+			<li><a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			<li><a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			<li><a href="#" target="_blank"><img src="images/3s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			<li><a href="#" target="_blank"><img src="images/4s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+		</ul>
+	</div>
+	<div class="mainBox">
+	<!--banner-->
+		<div>
+			<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img" style="margin-bottom:0;"></a>
+		</div>
+		<div class="xq_1 xq_11 xq_ms" style="padding-bottom:2em;">    
+			<div class="content-heading w100">
+				<h3>
+					<a href="#" target="_blank">中法建交50周年，迎来法国留学美好时代</a>
+				</h3>
+				<p>美国>美研规划</p>
+			</div>
+			<p class="xq_btn clearfix" id="xq_btn"><a href="#" target="_blank" id="xq_btn1">留学方案</a><a href="#" target="_blank" id="xq_btn2">培训课程</a></p>
+		</div>
+		<div class="list3_del list3_dels">
+			<div class="hit"><i><img src="images/hd2.png" alt="" /></i>王婧（Jing.Wang）<i class="fa fa-angle-down fr"></i></div>
+			<div class="xq_list_1">
+				毕业于法国巴黎十二大（Universite Paris XII Val de Marne）经济管理专业. 在法国留学的五年收获了先进的知识，游历欧洲各国更加的丰富了业余生活，累积了深刻的生活经验和体会。归国后多年致力于教育行业，与欧洲众多国家的校方建立了稳定良好的交流合作关系，并一直负责以法国，荷兰为主的欧洲多国的留学事宜。曾为上百名学生提供准确真实的留学信息并制定合理的留学方案，帮助学生成功的踏出国门，实现留学梦想。
+				<p class="tc zan"><i class="fa fa-heart"></i><span class="count">20</span>人感谢<span class="time timess">+1</span></p>
+			</div>
+		</div>
+		<!-- 正文 -->
+		<div class="msBox xq_msBox">
+			<div class="content-heading">
+				<a href="#" target="_blank"><img src="images/2ww.jpg" alt="img"></a>
+			</div>   
+			<div class="content">
+				<div class="allTxt1 allTxt11">
+				<div class="xq_t1">
+					<p>近年来赴法国留学人数不断增长，法国以其独特的魅力，高质量的教学吸引着众多国际学生前往求学。习近平总书记为中法建交五十周年特展题序中说到：中国和法国文化交流源远流长，两国人民在历史发展中各自创造的独具特色、充满魅力的文化，使两国人民始终相互吸引。长期以来，中华文明和法兰西文明不断相互借鉴，为中法友好增添了绚丽色彩。</p>
+				</div>
+				<p class="y mt20"><span class="time">2015是法国留学的好时机</span></p>
+				<div class="xq_t1">
+					<p>2014年是中法建交五十周年，从目前发布的官方信息来看，我们得到了很多中法未来关系中合作与发展的利好消息。这些对于接下来计划去法国留学的中国学生来讲，是否是一个历史最好的时机?</p>
+				</div>
+				<div class="xq_t1">
+					<p>中法建交50周年加上近些年中法两国的互动越来越融合、频繁，更大力度的推动以及促进了中国留学生赴法的新局面。去法国留学生的数量每年都在大幅度的增加且法国政府针对国外留学生的各种福利政策也一直都保留施行，更加吸引了中国的留学生。依照整体的留法人员数据统计，2014年赴法留学的人数比之前增加了30%，除此之外，法国留学签证大家都知道成功率只有70%左右，但是依照2014年度整体留学签证情况来看，获签率相比往年增加了40%，也就是说，根据天道法国留学的整体情况以及数额统计，总体赴法留学的学生的获签率高达87%，这已经是一个相当大的跨越了。我相信，2015年以及未来，法国留学的形势会越来越好的。</p>
+				</div>
+				<p class="y mt20"><span class="time">留法专业及未来就业的建议</span></p>
+				<div class="xq_t1">
+					<p>近一两年，我碰到越来越多的学生和家长都会问我相同的一个问题：“老师，我想知道什么专业好就业?”。充分的说明了现在的学生对于留学的焦点已经不仅仅集中在文凭，知识这些方面了，更看重的是实用性，读完后是否能有一个好的就业前景和发展?从中法即将开展的重点合作领域来看，法国企业在华投资将成为越来越重要的组成部分。那么，哪些法国留学专业有望在回国后，获得不错的就业与发展机会?</p>
+				</div>
+			</div>
+		</div>
+		</div>
+	   <!-- 更多录取案例 -->
+	   <h2 class="titName">该顾问的其他文章</h2>
+	   <ul class="gallery round-thumb homepage-gallery gallery_2 gallery_3 mb76" id="">
+			<li><a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			<li><a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			<li><a href="#" target="_blank"><img src="images/3s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			<li><a href="#" target="_blank"><img src="images/4s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+		</ul>
+	</div>
+	</div>
+</div>
+		<!-- 分享 -->
+		<div class="share">
+			<div class="shareIcon">
+				<div class="d_box">
+					<div class="bdsharebuttonbox">
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"><p>朋友圈</p></a>
+						<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"><p>微信</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+						<a href="#" class="bds_copy" data-cmd="" title="分享到复制网址"><p>复制网址</p></a>
+					<!-- 	<a href="#" class="bds_more" data-cmd="more"></a> -->
+					</div>
+					<script>
+						window._bd_share_config={
+							"common":{
+								"bdSnsKey":{},
+								"bdText":"",
+								"bdMini":"2",
+								"bdMiniList":false,
+								"bdPic":"",
+								"bdStyle":"1",
+								"bdSize":"32"
+							},
+							"share":{
+								"bdSize":32
+							}
+						};
+						with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+				</div>
+			</div>
+		</div> 
+		<div class="menu-wrapper-background"></div>
+		<div class="header-clears"></div>
+		<a class="phone" id="phone" href="tel:400-019-0038">
+			<p>电话咨询</p>
+		</a>
+	<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/framework.plugins.js"></script>
+	<script type="text/javascript" src="scripts/custom.js"></script>
+	<script type="text/javascript" src="http://img3.job1001.com/js/ZeroClipboard/jquery.zclip.min.js"></script>   
+	<script type="text/javascript">
+		var q=document.getElementById("xq_btn").getElementsByTagName("a");
+		function qq(){
+			for(var i=0;i<q.length;i++){
+				q[i].className="";
+			}
+			this.className="ona";
+		}
+		for(var i=0;i<q.length;i++){
+			q[i].addEventListener("touchstart",qq);
+		}
+		var phone=document.getElementById("phone");
+		phone.addEventListener("touchstart",function(){
+			this.style.background="#d4741a";
+		});
+		(function($){
+			$(".hhh i").not(":first").on("tap",function(){
+				$(this).css("color","#fff661");
+			});
+			$(".phoness").on("tap",function(){
+				$(this).addClass("on1");
+			});
+			$(".list3_del .hit").toggle(function(){
+				$(this).css("marginBottom",0);
+				$(this).find("i:last").removeClass("fa-angle-down").addClass("fa-angle-up");
+				$(this).next().slideDown("slow");
+			},function(){
+				$(this).find("i:last").removeClass("fa-angle-up").addClass("fa-angle-down");
+				$(this).next().slideUp("slow");
+			});
+			//list里的心
+			$(".zan").on("tap",function(e){
+				e.stopPropagation();
+				e.preventDefault();
+				$(".timess").show();
+				setTimeout(function(){
+					$(".timess").hide();
+				},1000);
+				$(this).css("color","#ea7b2a");
+				$(this).find("i").css("color","#ea7b2a");
+			});
+		})(jQuery);	
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

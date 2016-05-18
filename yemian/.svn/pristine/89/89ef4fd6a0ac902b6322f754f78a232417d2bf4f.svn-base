@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>首页(在线课堂)移动端</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/index.css"/>
+</head>
+<body style="overflow:hidden;background:none"> 
+	<script type="text/javascript" src="js/head.js"></script>
+	<div class="cont">
+		<div class="txtss">
+			<a href="javascript:;" class="btn1">领零花钱喽！</a>
+			<p>“零花钱”可用于天道在线课堂的课程兑换与购买</p>
+		</div>
+	</div>
+</body>
+</html>

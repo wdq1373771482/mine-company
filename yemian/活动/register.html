@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalabel=0" />
+		<title>注册</title>
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/_header.css"/>
+		<link rel="stylesheet" type="text/css" href="css/login_register.css" />
+		<link rel="stylesheet" type="text/css" href="css/share.css"/>
+		<script src="js/zepto.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<script type="text/javascript" src="js/head.js"></script>
+		<section class="log_main">
+			<div class="content">
+				<section class="gg_bt">
+				<strong>
+				 	记录挑战脚步，由此开始
+				 </strong>
+					<p>
+						如果已经有天道在线课堂账号，请申请 <a class="register" href="">登入</a> ~
+					</p>
+				</section>
+				<section class="login_form">
+					<form action="" method="post">
+						<p class="dl">完善信息</p>
+						<div class="dl_info">
+							<p class="phone underline">
+								<label for="phone_num">手机号</label>
+								<input type="text" id="phone_num" placeholder="您的手机号" autocomplete="off" maxlength="11" />
+							</p>
+							<p class="name underline">
+								<label for="name">姓名</label>
+								<input type="text" id="name" placeholder="您的姓名" autocomplete="off" maxlength="12" />
+							</p>
+							<p class="password underline">
+								<label for="password">密码</label>
+								<input type="text" id="password" placeholder="请输入密码" autocomplete="off" maxlength="12" />
+							</p>
+							<p class="reg_cord">
+								<label for="password">短信验证</label>
+								<input type="text" id="reg_cord" placeholder="请输入验证码" autocomplete="off" maxlength="6" />
+								<span class="have_cord">获取</span>
+								<!-- <input class="have_cord" type="text" value="获取" /> -->
+							</p>
+						</div>
+						<p class="log_submit">
+							登入
+						</p>
+					</form>
+					<p style="margin-bottom: 52px;" class="zhu">
+					       注：请填写正确的手机号码，大奖非你莫属，请勿浪费呦~~
+				     </p>
+				</section>
+			</div>
+		</section>
+		<div class="blacks"></div>
+<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+					<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"><p>朋友圈</p></a>
+					<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"><p>微信</p></a>
+					<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					<a href="#" class="bds_copy" id="bds_copy" data-cmd="" title="分享到复制网址"><p>复制网址</p></a>
+				<!-- 	<a href="#" class="bds_more" data-cmd="more"></a> -->
+				</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+				<p class="quxiao">取消</p>
+		</div>
+	</div>
+			<script>
+			/*
+			 * 注册检测
+			 */
+			
+			$(".log_submit").click(function(){
+				var tel = $("#phone_num").val();
+				var pas=$("#password").val().length;
+				var name=$("#name").val();
+				var cord=$("#reg_cord").val()
+                var telReg = !!tel.match(/^(0|86|17951)?(13[0-9]|15[012356789]|17[678]|18[0-9]|14[57])[0-9]{8}$/);
+						//如果手机号码不能通过验证
+						if(telReg == false){
+						   alert("请输入正确的手机号");
+						   return false;
+						}
+						if(name=="")
+						{
+							alert("请输入姓名")
+							return false
+						}
+						if(pas<6)
+						{
+							alert("请输入正确的密码");
+							return false
+						}
+						if(cord=="")
+					  {
+					  	alert("请输入获取到的验证码")
+					  	return false
+					  }
+						
+			    })
+</script>
+<script src="js/share.js" type="text/javascript"></script> 
+	</body>
+
+</html>

@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端-哥伦比亚大学</title>
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+
+</head>
+<body class="body2"> 
+	  <!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<h2>哥伦比亚大学</h2>
+		<a href="tel:400-012-0038" class="header-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="javascript:;" class="header-navigation hhhBtn"><i class="fa show-navigations"></i></a>
+	</div>
+	<div class="h43"></div>
+	<div class="container">
+		<dl class="dl1">
+			<dt class="thumb-left fl"><img src="images/g.png" alt="img"></dt>
+			<dd class="fl">
+				<strong>哥伦比亚大学</strong><span>Columbia University</span>
+			</dd>
+		</dl>
+		<p class="p11"><span>G同学</span><a href="http://m.tiandaoedu.com/cgal/197280.html" target="_blank">爽朗女生情系哥大,“有情人终成眷属”</a></p>
+		<div class="mt20 down">
+			<p><span class="lans">基本成绩：</span>上海财经大学 国际金融和银行专业 GPA 3.68 ;GMAT730 ;TOEFL106;工商银行两年工作经验</p>
+			<p><span class="lans">录取学校：</span>哥伦比亚大学</p>
+			<p><span class="lans">加入天道时间：</span>2014年03月08日    <span class="lans">获得录取时间：</span>2014年12月02日</p>
+		</div>
+	</div>
+	<div class="conts contss">
+		
+		<h2 class="titName">TA为什么会成功？</h2>
+		<ul class="gallery round-thumb gallery_2 mt10 mb20" style="overflow: hidden;" id="">
+			<li>
+				<img src="images/g1.png" alt="img">
+				<p>工作经验丰富</p>
+			</li>
+			<li>
+				<img src="images/g2.png" alt="img">
+				<p>硬性条件优秀</p>
+			</li>
+			<li>
+				<img src="images/g3.png" alt="img">
+				<p>文书充满魅力</a></p>
+			</li>
+		</ul>
+		<h2 class="titName">案例分析</h2>
+		<div class="allTxt1 allTxt1111">
+		    <div class="container no-bottom" style="padding-bottom:0;">
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/jy.png" alt="img"></dt>
+		        	<dd>
+						<p>
+							
+							在查看她的众多工作经验后，发现W同学的MPA专业工作经验较少。也就是说：虽然W同学的工作经验背景不错，但是她的工作经验和申请专业不够吻合。鉴于这样的情况，W同学的首要任务就是要提升申请背景。因此，天道老师建议W同学要在申请前期努力加入一些MPA相关专业的实践活动或者是科研项目中。
+						
+						</p>
+					</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/cj.png" alt="img"></dt>
+		        	<dd>
+						 <p>
+							
+
+							我们根据W同学的需求，一边鼓励她好好参加GMAT考试，一边为她做好留学申请规划工作。而对于W同学而言，在前期申请阶段，她一直努力为自己打造更好的申请背景，并且忙中偷闲地参加GMAT考试。这些前期准备工作不仅为W同学的申请文书增色不少，而且为她准备了良好的硬件条件。
+
+
+						</p>
+		        	</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/k.png" alt="img"></dt>
+		        	<dd>
+		                <p>
+							将商科专业的背景转化成文科背景，转化成MPA这样的慈善管理机构需要一定的技巧。W同学除了金融工作之外，她对儿童关注很热情，她的热情感染了其她人，和自己的同事一起去搞了一次义演活动，就是搞了一个全国性的音乐演唱会，从而进行了募捐活动，以帮助贫穷地区的地方的儿童。另外，W同学也有在基金会实习过。
+
+						</p>
+		        	</dd>
+		        </dl>
+			   </div>
+		    </div>
+			<h2 class="titName">案例分析</h2>
+			<div class="dBox mb20">
+			<h2 class="lan lann">G同学录取信</h2>
+			<div class="txt tPic">
+				<img src="images/gw.png" alt="" />
+			</div>
+			<h2 class="lan mt20 lann">天道往年录取数据</h2>
+			<div class="txt1">
+				<div class="tPic"><img src="images/gd.png" alt="" /></div>
+				<div class="mt20 link">
+					<p class="lan">更多哥大案例</p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/196823.html" target="_blank"> 用细节叩开哥大之门</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/193163.html" target="_blank"> 内向女孩的自我提升</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/197099.html" target="_blank"> 内向女孩圆梦留学名校</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/176273.html" target="_blank"> 吃货的春天——圆梦哥大</a></p>
+				</div>
+			</div>
+			</div>
+	</div>
+	  <div class="header-clears"></div>
+	<script type="text/javascript" src="scripts/footer.js"></script>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/daxue.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

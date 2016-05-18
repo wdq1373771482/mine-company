@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>注册成功页面</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<style>
+html,body{width: 100%; height: 100%; overflow-x: hidden; text-align: center;}
+img{width: 100%; display: block;}
+body{background: url(images/down.png) left 100% no-repeat; height: 100%; background-size: 100% 110px;}
+section{background: url(images/img02.png) 0 0 no-repeat; height: 11.9rem; background-size: 100%; margin: 0 auto;}
+.inp{width: 13.25rem; height: 3.28rem; background-color: #ff8a00; font-size: 1.1875rem; color: #fff; text-align: center; line-height: 3.28rem; margin: 1.5rem auto 0 auto; border-radius: 5px;}
+.zhu{font-size: 0.56rem; color: #999; margin: 0 1rem;}
+@media only screen and (min-device-width: 320px) and (max-device-width: 375px){
+	section{height: 10.5rem;}
+	.inp{margin-top: 0;}
+	.zhu{margin: 0 0.5rem;}
+	body{background-size: 100% 60px;}
+}
+@media only screen and (max-device-width: 320px){
+	section{height: 8.9rem;}
+	.inp{margin-top: 0;}
+	.zhu{margin: 0 0.5rem 2rem 0.5rem;}
+	body{background-size: 100% 60px;}
+}
+</style>
+</head>
+<body> 
+	<script type="text/javascript" src="js/head.js"></script>
+	<article>
+		<img src="images/img01.png" style="margin-bottom:1.5rem;">
+		<section class="p2"></section>
+		<a href="#"><p class="inp">领 取</p></a>
+		<p class="zhu">注："零花钱"为天道在线课堂虚拟货币形式，不具有现金流通价值。</p>
+	</article>
+</body>
+</html>

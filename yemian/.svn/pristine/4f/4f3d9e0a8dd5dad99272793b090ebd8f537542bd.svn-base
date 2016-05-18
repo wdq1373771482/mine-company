@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>一分钟了解留学_个人中心_天道教育</title>
+<meta name="keywords" content="一分钟了解留学"/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/swiper.css"/>
+<link rel="stylesheet" type="text/css" href="css/yfz.css"/>
+</head>
+<style>
+	
+</style>
+<body>
+	<div class="header clearfix">
+		<a href="#"><img src="images/arr.png" alt="" /></a> 
+		<h2>一分钟了解留学</h2>
+	</div>
+	<div id="box" class="swiper-container">
+		<div id="box-nav" class="swiper-wrapper">
+			<div class="nav-1 nac-child swiper-slide">
+				<img src="images/nav_1_title.png">
+				<h2 class="h22">大多数人面临的3大留学障碍 ></h2>
+				<div class="dls dls1">
+			<dl class="clearfix">
+				<dt><img src="images/yf1.png"></dt>
+				<dd>
+					<p><strong>选校不准确</strong></p>
+					<p>数量太多或偏少</p>
+					<p>选校没有梯度</p>
+					<p>只认学校排名</p>
+					<p>以个别他人例子为标准</p>
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt><img src="images/yf2.png"></dt>
+				<dd>
+					<p><strong>规划意识不强</strong></p>
+					<p>时间不够用</p>
+					<p>考试不出分</p>
+					<p>背景活动缺乏亮点</p>
+					<p>扎堆申请</p>
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt><img src="images/yf3.png"></dt>
+				<dd>
+					<p><strong>坚持不下来</strong></p>
+					<p>难度太大</p>
+					<p>没有人支持</p>
+					<p>中途分心</p>
+					<p>没想好为什么留学</p>
+				</dd>
+			</dl>
+		</div>
+			</div>
+			<div class="nav-2 nac-child swiper-slide mb20">
+				<img src="images/nav-2-title.png" alt="" class="big11" />
+				<h2 class=" mb10 h22">拒绝抛开自己选学校 &gt;</h2>
+				<div class="text">
+					<p>我的条件<strong>match</strong>学校的要求</p>
+					<p><strong>10</strong>所左右的申请数量</p>
+					<p><strong>学校排名</strong>仅是参考要素之一</p>
+				</div>
+				<div class="text text1 mt20">
+					<ul class="clearfix pl0">
+						<li class="li1"><strong>冲刺</strong><p>3所</p></li>
+						<li class="li2"><strong>目标</strong><p>4-5所</p></li>
+						<li class="li3"><strong>保底</strong><p>2-3所</p></li>
+					</ul>
+				</div>
+				<h2 class="tc mb10 nor h22">有哪些人与我竞争？</h2>
+				<img src="images/yf4.png" alt="" class="img" />
+			</div>
+			<div class="nav-3 nac-child swiper-slide">
+				<img src="images/nav_3_1.png">
+				<h2 class="mb10 h22 h222 h2222">不同背景，申请结果差异巨大！></h2>
+				<img src="images/nav_3_2.png" alt=""  class="img3" />
+				<img src="images/nav_3_3.png" class="img3">
+				<h2 class="mb10 h22 h222 mt20 h2222">就算 DIY失利，也不等于失去希望！></h2>
+				<dl class="clearfix dl2 w1000">
+					<dt>
+						<span><img src="images/yf8.png" alt="" class="img3"></span>
+						<p class="p1">第一年的他们</p>
+						<p>全拒</p>
+					</dt>
+					<dd>
+						<span><img src="images/yf9.png" alt="" class="img3"></span>
+						<p class="p1">第二年的他们</p>
+						<p>哥伦比亚大学</p>
+						<p>宾夕法尼亚大学</p>
+						<p>约翰霍普金斯大学</p>
+						<p>卡内基梅隆大学</p>
+						<p>南加州大学</p>
+						<p>......</p>
+					</dd>
+				</dl>
+
+			</div>
+			<div class="nav-4 nac-child swiper-slide mt20">
+				<img src="images/nav_4_1.png" class="tu">
+				<h2 class="mb10 h22">按部就班完成计划，就能成功！ ></h2>
+				<div class="dls dlss">
+			<dl class="clearfix">
+				<dt><img src="images/yf11.png"></dt>
+				<dd>
+					<p> 提前规划时间</p>
+					<p>了解职业愿景</p>
+					<p> 明确专业方向</p>
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt class="mtop"><img src="images/yf12.png"></dt>
+				<dd>
+					<p>有针对性地提升学术背景</p>
+					<p>联系合适的推荐人</p>
+					<p>补充实习与实践经验</p>
+					<p>及时刷分</p>
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt class="mtop"><img src="images/yf13.png"></dt>
+				<dd>
+					<p>研究申请项目，合理选校</p>
+					<p>写出有特色的文书</p>
+					<p>网申不出错，套磁找准人</p>
+					<p>面试说对话</p>
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt><img src="images/yf14.png"></dt>
+				<dd>
+					<p>搞定签证</p>
+					<p>熟悉海外文化与生活方式</p>
+					<p>成功飞跃</p>
+				</dd>
+			</dl>
+		</div>
+			</div>
+			<div class="nav-5 nac-child swiper-slide">
+				<img src="images/nav_5_1.png">
+				<img src="images/nav_5_2.png" class="img mt10">
+				<p class="tc hui mt20">从现在开始，发现属于我的留学</p>
+				<p class="btns "><a href="#">我已了解</a></p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

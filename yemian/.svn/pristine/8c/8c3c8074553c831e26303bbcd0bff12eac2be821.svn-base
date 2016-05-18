@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>安全验证-邮箱验证</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBoxs">
+		<!-- 手机重置 -->
+		<section class="section section4">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>安全验证</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="zc_box">
+				<div class="zc_1 zc_11 phone_11">
+					<div class="phoness phoness_zh">
+						<p class="tit">为了保护账号安全，需要验证邮箱有效性</p>
+						<p class="phoneNumTip">点击发送邮件按钮，将会发送一条有验证码的邮件至邮箱
+<span class="green">ech**************du.com</span></p>
+					</div>
+					<p class="sure next2"><a href="邮箱验证2.html">发送邮件</a></p>
+					<p class="changeOther"><a href="选择手机注册.html">换用其他验证方式</a></p>
+				</div>
+			</div> 
+		</section>
+
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

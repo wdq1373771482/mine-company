@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport"content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,minimal-ui"/>
+<title>公开课移动端H5页面制作</title>
+
+<link rel="stylesheet" type="text/css" href="css/global.css" />
+<link rel="stylesheet" type="text/css" href="css/adv.css" />
+<link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/jquery.fullPage.js"></script>
+
+</head>
+<body>
+
+<style>
+.u-arrow{width:23px;height:auto;margin-left:-12px;position:absolute;}
+.text{
+	width:100%;
+	height:100%;
+	background:url(images/bg1.png) no-repeat;
+	background-size:100% 100%;
+}
+</style>
+
+<div id="fullpage">
+	<div class="section p1">
+		<div class="text">
+			<!-- <img src="images/bg1.png" /> -->
+		</div>
+		<div class="u-arrow" id="up"><img src="images/arrow1.png"/></div>
+	</div>
+	<div class="section p2">
+		<!-- fadeIn animated -->
+		<div class="fg hide"><img src="images/fg.png" alt="" /></div> 
+		<div class="hb hb1"><em class="g_1"><img src="images/g.png" alt="" /></em><a href="#"><img src="images/hb1.png" class=""/></a><em class="g_2"><img src="images/g.png" alt="" /></em></div>
+		<div class="hb hb2"><a href="#"><img src="images/hb2.png" class=""/></a></div>
+		<div class="hb hb3"><a href="#"><img src="images/hb3.png" class=""/></a></div>
+		<div class="hb hb4"><a href="#"><img src="images/hb4.png" class=""/></a></div>
+		<div class="hb hb5"><a href="#"><img src="images/hb5.png" class=""/></a></div>
+		<div class="hb hb6"><a href="#"><img src="images/hb6.png" class=""/></a></div>
+		<div class="hb hb7"><a href="#"><img src="images/hb7.png" class=""/></a></div>
+		<div class="hb hb8"><a href="#"><img src="images/hb8.png" class="hb8pic"/></a><em class="hand"><img src="images/ss.png" alt="" width="50%" /></em><span class="gg"></span></div>
+		<div class="z z1"><a href="#"><img src="images/z1.png" alt="" /></a></div>
+		<div class="z z2"><a href="#"><img src="images/z2.png" alt="" /></a></div>
+		<div class="z z3"><a href="#"><img src="images/z3.png" alt="" /></a></div>
+		<div class="z z4"><a href="#"><img src="images/z4.png" alt="" /></a></div>
+		<div class="z z5"><a href="#"><img src="images/z5.png" alt="" /></a></div>
+		<div class="z z6"><a href="#"><img src="images/z6.png" alt="" /></a></div>
+		<div class="z z7"><a href="#"><img src="images/z7.png" alt="" /></a></div>
+		<div class="z z8"><a href="#"><img src="images/z8.png" alt="" /></a></div>
+		<div class="z z9"><a href="#"><img src="images/z9.png" alt="" /></a></div>
+		<!--  zoomIn animated1 -->
+		<div class="qz hide">
+			<img src="images/q.png" alt="" />
+		</div>
+		<!--  swing animated -->
+		<p class="tips hide">每周四来天道，<strong>公开课</strong>免费加餐！</p>
+	</div>
+	
+</div>
+<script type="text/javascript">
+
+function actions(i){
+	
+}
+
+$(document).ready(function () {
+	$('#fullpage').fullpage({
+		//anchors: ['firstPage', 'secondPage', '3rdPage'],
+		scrollingSpeed:500,
+		easing:'',
+		sectionsColor: ['', '', ''],
+		navigation:0,
+		slidesNavigation: true,
+		loopHorizontal:0,
+		afterRender: function (anchorLink, index, slideAnchor, slideIndex) {
+			//load
+		},
+		afterSlideLoad: function (anchorLink, index, slideAnchor, slideIndex) {
+			//slide
+		},
+		afterLoad: function (anchorLink, index) {
+			//page
+		}
+	});
+	$("#fullpage").on("touchend",function(){
+		
+	});
+	//$(this).addClass("swing animated");
+	
+});
+
+</script>
+</body>
+</html>

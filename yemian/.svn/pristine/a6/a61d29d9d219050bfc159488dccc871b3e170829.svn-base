@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>安全验证-手机短信验证</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBoxs">
+		<!-- 手机重置 -->
+		<section class="section section4">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>注册</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="zc_box">
+				<div class="zc_1 zc_11 phone_11">
+					<div class="phoness phoness_zh form_dls phoness_zh3 phoness_zh3s">
+						<p class="tit">请选择验证方式</p>
+						<p class="p_2 clearfix p_22 mt25"><input type="radio" class="fl"/>通过注册邮箱接收验证邮件</p>
+					</div>
+					<p class="sure mt20 next4 clearfix"><a href="javascript:;">下一步</a><a href="#" class="backBtn">返回</a></p>
+					<p class="changeOther"><a href="javascript:;">返回</a></p>
+				</div>
+			</div> 
+		</section>
+
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$(".next4").on("click",function(){
+				if($(".p_22 input")[0].checked){
+					window.location.href="邮箱验证.html";
+				}
+			});
+			//点击返回
+			$(".backBtn").on("click",function(){
+				window.location.href="手机短信验证.html";
+			});
+		});
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

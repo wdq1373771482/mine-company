@@ -1,0 +1,205 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+img {
+	zoom: 0.5;
+}
+body {
+	background-color: #fff;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	text-align: center;
+	position: relative;
+	font-size: 14px;
+	line-height: 20px;
+}
+.maxWidth {
+	width: 100%;
+	position: relative;
+}
+.infoAbsolute {
+	position: absolute;
+	width: 100%;
+	top: 2em;
+	left: 0em;
+	z-index: 5;
+}
+.page {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.pageUl {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+	width: 100%;
+	height: 100%;
+}
+.pageUl li {
+	width: 100%;
+	height: 100%;
+	float: left;
+	position: relative;
+}
+.pageUl li .titleDom {
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.pageUl li .titleDom .title {
+	margin-top:4em;
+}
+.pageUl li .titleDom .titleBg2 {	
+}
+.bottomContent {
+	text-align: left;
+}.bottomContent2 img{	width:100%;}
+.bottomContent img:first-child {
+	
+}
+.bottomImgLeftRight {
+	width: 100%;
+	position: relative;
+}
+.bottomImgLeftRight div {
+	display: inline-block;
+ *display:inline;
+	zoom: 1;
+	text-align: center;
+}
+.bottomBlue {
+	width: 100%;
+	height: 200px;
+	position: absolute;
+	left: 0em;
+	top: 208px;
+}
+.openInfo {
+	width: 278px;
+	height: 24px;
+	position: absolute;
+	left: 22px;
+	cursor: pointer;
+}
+.infoText {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0em;
+	top: 0em;
+	z-index: 100000000000;
+	background: rgba(0, 0, 0, 0.8)!important;
+	filter: Alpha(opacity=80);
+	background: #000;
+	display: none;
+}
+.infoDom {
+	width: 90%;
+	height: 90%;
+	margin: 0 auto;
+	background: #fff;
+}
+.infoDom .titleDom {
+	height: 36px;
+	background: #28A7E1;
+	color: #fff;
+	position: relative;
+	font-weight: bold;
+	text-align: left;
+	font-size: 17px;
+}
+.infoDom .titleDom .number {
+	width: 36px;
+	height: 100%;
+	background: #00628D;
+	text-align: center;
+	line-height: 36px;
+	display: inline-block;
+*display:inline;
+	zoom: 1;
+	font-size: 19px;
+}
+.infoDom .titleDom .title {
+	display: inline-block;
+ *display:inline;
+	zoom: 1;
+}
+.infoDom .titleDom .close {
+	position: absolute;
+	right: 0em;
+	top: 0em;
+	width: 36px;
+	height: 100%;
+	text-align: center;
+	cursor: pointer;
+}
+.infoDom .titleDom .close img {
+	margin-top: 26px;
+}
+.infoDom .info {
+	width: 96%;
+	margin: 0em auto;
+	line-height: 25px;
+	font-size: 13px;
+	color: #6b6666;
+	text-align: left;
+	margin-right: 6px;
+	word-wrap: break-word;
+}
+.lastPage {
+	width: 100%;
+	height: auto;
+	top: 4em;
+}
+.centerImg {
+	width: 100%;
+	height: 100%;
+	display: table-cell;
+	text-align: center;
+}.centerImg img{	margin-top:5%;}
+.mCSB_scrollTools {
+	margin-right: -6px;
+}
+.mCSB_scrollTools a+.mCSB_draggerContainer {
+	margin: 0em;
+}
+.mCSB_scrollTools .mCSB_draggerRail {
+	background: rgba(229,229,229,0.0);
+}
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+	background: rgba(0,0,0,0.4);
+}
+.mCSB_scrollTools .mCSB_buttonUp, .mCSB_scrollTools .mCSB_buttonDown {
+	display: none;
+}
+.oper5 {
+	width: 286px;
+	height: 164px;
+	position: absolute;
+	left: 50%;
+	margin-left: -143px;
+	top: 23px;
+	z-index: 100;
+}
+.openInfo5 {
+	width: 25%;
+	float: left;
+	height: 75px;
+	cursor: pointer;
+}
+.oper5 .last .openInfo5 {
+	width: 20%;
+}
+.music {
+	position: absolute;
+	right: 0em;
+	top: 0em;
+	padding: 1em;
+	z-index: 10000;
+}
+.pageUl li.li_1{	background:#35acff;}.pageUl li.li_2{	background:url(../images/bg2.png) no-repeat;	background-size:100% auto;}.pageUl li.li_3{	background:url(../images/bg3.png) no-repeat;	background-size:100% auto;}.li_3 .p3{	margin:6% auto;}.bottomContent3 img{	margin:-3em 0 0 26%}.pageUl li.li_4,.pageUl li.li_5,.pageUl li.li_6,.pageUl li.li_7,.pageUl li.li_9{	background:url(../images/bg4.png) no-repeat;	background-size:100% auto;}.bottomImgLeftRight4 div:first-child{	position:absolute;	left:50%;	top:3%;	margin-left:-25%;} .bottomImgLeftRight4 div:last-child{	position:absolute;	left:50%;	top:3%;	margin-left:-12%;}.infoAbsolute5{	top:1em;}.maxWidth7{	top:17%;}.maxWidth7 img{	display:block;	margin:0 auto;}.maxWidth77 img{width:95%;display:block;	margin:0 auto;}.infoAbsolute7{	top:59%;}.pageUl li.li_8{	background:url(../images/bg8.png) no-repeat;	background-size:100% auto;}.infoAbsolute8{	top:28%}/* 眼睛 */  /*左边的眼睛*/ .maiBox{	width:200px;	height:100px;	position:absolute;	 top:50%;	 left:50%;	 margin-top: -50px;	 margin-left: -100px;   }    .round1 {      width: 75px;      height: 80px;      border-radius: 50% 60%;      background: white;      position: absolute;      left: 21px;      top:11px;      transform:rotate(65deg);    -ms-transform:rotate(65deg); 	/* IE 9 */    -moz-transform:rotate(65deg); 	/* Firefox */    -webkit-transform:rotate(65deg); /* Safari 和 Chrome */    -o-transform:rotate(65deg);    border:1px solid #8e8d8b;    }    .round2 {      width: 32px;      height: 24px;      border-radius: 100% 100%;      background: #63513c;      position: absolute;      left: 30px;      top:14px;	  transform:rotate(30deg);	-ms-transform:rotate(30deg); 	/* IE 9 */	-moz-transform:rotate(30deg); 	/* Firefox */	-webkit-transform:rotate(30deg); /* Safari 和 Chrome */	-o-transform:rotate(30deg);	border:1px solid #50442a;    }    .round3 {      width: 8px;      height: 8px;      background: white;      position: absolute;      left: 3px;      top:7px;	  z-index:1;      border-radius: 30px;    }	.round7 {      width: 14px;      height: 18px;      background: black;      position: absolute;      left:4px;      top: 3px;      border-radius: 100%;	  transform:rotate(90deg);	-ms-transform:rotate(90deg); 	/* IE 9 */	-moz-transform:rotate(90deg); 	/* Firefox */	-webkit-transform:rotate(90deg); /* Safari 和 Chrome */	-o-transform:rotate(90deg);    }    /*右边的眼睛*/    .round4 {      width: 75px;      height: 80px;      border-radius: 50% 60%;      background: white;      position: absolute;      right: 21px;      top: 11px;	  transform:rotate(-65deg);	-ms-transform:rotate(-65deg); 	/* IE 9 */	-moz-transform:rotate(-65deg); 	/* Firefox */	-webkit-transform:rotate(-65deg); /* Safari 和 Chrome */	-o-transform:rotate(-65deg);	border:1px solid #8e8d8b;    }    .round5 {      width: 32px;      height: 24px;      border-radius: 100% 100%;      background: #63513c;      position: absolute;      left: 11px;      top: 8px;	  transform:rotate(-50deg);	-ms-transform:rotate(-50deg); 	/* IE 9 */	-moz-transform:rotate(-50deg); 	/* Firefox */	-webkit-transform:rotate(-50deg); /* Safari 和 Chrome */	-o-transform:rotate(-50deg);	border:1px solid #50442a;    }    .round6 {     width: 8px;      height: 8px;      background: white;      position: absolute;      right: 3px;      top: 0;      z-index:1;      border-radius: 30px;    }.round8 {      width: 14px;      height: 18px;      background: black;      position: absolute;      right: 5px;      top: 0px;      border-radius: 100%;	  transform:rotate(80deg);	-ms-transform:rotate(80deg); 	/* IE 9 */	-moz-transform:rotate(80deg); 	/* Firefox */	-webkit-transform:rotate(80deg); /* Safari 和 Chrome */	-o-transform:rotate(80deg);    }.round6,.round3 {  -webkit-animation: async .7s  infinite  linear;  -moz-animation: async .7s  infinite linear;  -ms-animation: async .7s  infinite linear;  -o-animation: async .7s  infinite linear;  animation: async .7s  infinite linear;}@-webkit-keyframes async {      0% {        -webkit-transform: translate(-1px, 2px) scale(0.8);       /* opacity: .3;*/      }}@keyframes async {      0% {        transform: translate(-1px, 2px) scale(0.8);       /* opacity: .3;*/      }}.round1,.round4 {  -webkit-animation: zs .7s  1  linear;  -moz-animation: zs .7s  1 linear;  -ms-animation: zs .7s  1 linear;  -o-animation: zs .7s  1 linear;  animation: zs .7s  1 linear;}.round4{    -webkit-animation-name: ys;    -moz-animation-name: ys;    -0-animation-name: ys;    -ms-animation-name: ys;    animation-name: ys;}@-webkit-keyframes zs {      0% {        -webkit-transform: translate(-100px,0px) scale(0.8);       /* opacity: .3;*/      }}@keyframes zs {      0% {        transform: translate(100px, 0px) scale(0.8);       /* opacity: .3;*/      }}@-webkit-keyframes ys {      0% {        -webkit-transform: translate(100px,0px) scale(0.8);       /* opacity: .3;*/      }}@keyframes ys {      0% {        transform: translate(100px, 0px) scale(0.8);       /* opacity: .3;*/      }}.b2{		margin-top:64%;	}.p8{	margin:6% 0;	width:82%;}.infoAbsolute4{	top:0.5em!important;}.infoAbsolute5 > div{	margin-top:3em;}.infoAbsolute5 > div:first-child{	margin-top:1em;}.infoAbsolute6 > div{	margin-top:2em;}.infoAbsolute6 > div:first-child{	margin-top:-1em;}.infoAbsolute7 > div:first-child{	margin-top:3em;}.pageUl li .titleDom3 .title{	margin-top:2em;}.p9{		position:absolute;left:0em;bottom:-48%;width:100%;text-align:center;	}.dt1{	top:-1%;left:0;}.dt2{	top:36%;left:0;}.dt3{	top:76%!important;left:0}.tip span{display:inline-block;position:relative;visibility:hidden;}.tip em{	font-style:normal;	font-family:"微软雅黑";	color:#fff;	font-size:1em;	position:absolute;	display:block;	}.yesyes em{	top:16%;	left:10%}.nono em{	top:18%;	left:5%}.nono em.no1{left:18%!important;top:18%;}.tip img{	/* display:none; */}.dati,.dt p{	font-size:1em;	font-weight:bold;	color:#323232;	border-radius:16px;	margin:0.2em 0;}.dati{	margin:1em 0;	width:95%;	margin-left:auto;	margin-right:auto;	font-family:"微软雅黑"}.dt p{list-style:none;text-align:left;font-family:"微软雅黑"}.dati{	line-height:3em;	border:1px dashed #323232;}.dt{width:100%;}.dt p{	position:relative;}.dt p em{		position:absolute;		left:0;		top:0;		display:none;}.btn{width:416px;text-align:center;position:absolute;bottom:5%;left:50%;margin-left:-208px;}@media(max-width:320px){	.b2{		margin-top:55%;	}	.maxWidth7{		top:6%;	}	.p9{		position:absolute;left:0em;bottom:-48%;width:100%;text-align:center;	}	.infoAbsolute5 > div{		margin-top:2em;	}	.lastPage {		width: 100%;		height: auto;		top: -1em;	}	.li_3 img{		width:61%;	}	.bottomContent3 img{		margin:-3em 0 0 8em;	}	.li_8 img{		width:80%;	}}@media (device-height:480px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone4/4s */    .infoAbsolute8 img{		width:63%!important;	}}@media (device-height:568px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone5 */    .li_3 img{		width:75%;	}	.bottomContent3 img{		margin:-5em 0 0 6em;	}}@media (device-height:667px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone6 */    .bottomContent3 img{		margin: -3em 0 0 28%;	}}@media (device-height:736px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone6 Plus */   .bottomContent3 img{		margin: -3em 0 0 28%;	}}

@@ -1,0 +1,32 @@
+html,body{width: 100%; height: 100%; overflow-x: hidden; text-align: center;}
+img{width: 100%; display: block;}
+body{background: url(../images/down.png) left 100% no-repeat; height: 100%; background-size: 100% 110px;}
+section{background: url(../images/img02.png) 0 0 no-repeat; height: 11.9rem; background-size: 100%; margin: 0 auto;}
+.inp{width: 13.25rem; height: 3.28rem; background-color: #ff8a00; font-size: 1.1875rem; color: #fff; text-align: center; line-height: 3.28rem; margin: 1.5rem auto 0 auto; border-radius: 5px;}
+.zhu{font-size: 0.56rem; color: #999; margin: 0 1rem;}
+
+body{background-color: #f3f4f4;}
+h2{background-color: #d8f2ff; width: 100%; height: 1.875rem; font-size: 1rem; color: #056ac3; line-height: 1.875rem;}
+.login{background-color: #fff; padding: 1rem; font-size: 0.9rem;}
+.login p{border-bottom: 1px solid #e5e5e5; color: #999; text-align: left; height: 3rem; line-height: 3rem;}
+.login p.lg_p1{height: 2.2rem; border-color: #a5f4f1; color: #000;}
+.login p.lg_p2{background: url(../images/login03.png) left center no-repeat; padding-left: 28px; background-size: 12px auto;}
+.login p.lg_p3{background: url(../images/login02.png) left center no-repeat; padding-left: 28px; background-size: 15px auto;}
+input{width: 15rem; height: 2rem; border: 0;}
+i{background: url(../images/login_18.png) center center no-repeat; width: 34px; height: 16px; float: right; margin-top: 14px; background-size: 25px auto;}
+.find{display: block; color: #df1932; float: right;}
+.zhu span{color: #df1932;}
+@media only screen and (min-device-width: 320px) and (max-device-width: 375px){
+	section{height: 10.5rem;}
+	.inp{margin-top: 0;}
+	.zhu{margin: 0 0.5rem;}
+	body{background-size: 100% 60px;}
+	input{width: 13rem;}
+}
+@media only screen and (max-device-width: 320px){
+	section{height: 8.9rem;}
+	.inp{margin-top: 0;}
+	.zhu{margin: 0 0.5rem 2rem 0.5rem;}
+	body{background-size: 100% 60px;}
+	input{width: 10rem;}
+}

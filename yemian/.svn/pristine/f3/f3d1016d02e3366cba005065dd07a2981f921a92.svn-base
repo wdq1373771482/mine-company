@@ -1,0 +1,70 @@
+.share{
+	width:100%;
+	margin:0 auto;
+	display:none; 
+	position:fixed;
+	bottom:0;
+	right:0;
+	z-index:999999999;
+  background-color: rgba(0,0,0,0.6);
+}
+.shareIcon{text-align:center;}
+.gallery.gallery_msxq li img{
+	border-radius:0!important;
+	display:block;
+	margin:0 auto;
+}
+.gallery_msxq  li {
+	width:32.333333%;
+}
+.gallery_msxq  li p{
+	color:#fff;
+}
+ .shareIcon .d_box{
+	 display:inline-block;
+	margin:0em auto 0em auto;
+}
+.shareIcon .bdsharebuttonbox a{
+	/* margin:0 8%; */
+}
+.bdshare_dialog_box,.bdshare_popup_box{
+	z-index:1000000!important;
+}
+.bdsharebuttonbox a{
+	width: 92px!important;
+	text-indent:0!important;
+	height:85px!important;
+}
+.bdsharebuttonbox a{
+	display:block;
+}
+.bdshare-button-style1-32 a{
+	background-position:center 8px!important;
+	position:relative;
+	margin-bottom:-20px!important;
+}
+.bdsharebuttonbox a p{
+	color:#fff;
+	width:100%;
+	position:absolute;
+	left:0;
+	bottom:-26px;
+	text-align:center;
+	font-size:1rem;
+}
+.bdshare-button-style1-32 .bds_qzone{
+	background:url(../images/f5.png) no-repeat 0 0;
+	background-size:50px auto;
+}
+.bdshare-button-style1-32 .bds_tsina{
+	background:url(../images/f3.png) no-repeat 0 0;
+	background-size:50px auto;
+}
+.bdshare-button-style1-32 .bds_sqq{
+	background:url(../images/f4.png) no-repeat 0 0;
+	background-size:50px auto;
+} 
+
+.bd_weixin_popup{
+	z-index:999999999!important;
+}

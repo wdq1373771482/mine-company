@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+    <head>
+        <title></title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/slicebox.css" />
+		<link rel="stylesheet" type="text/css" href="css/custom.css" />
+		<link rel="stylesheet" type="text/css" href="css/btn.css" />
+		<link rel="stylesheet" type="text/css" href="css/btn1.css" />	
+		<link rel="stylesheet" type="text/css" href="css/myIndex.css" />		
+		<script type="text/javascript" src="js/modernizr.custom.46884.js"></script>
+		<script>
+			//图片预加载
+			var imgPath='images/';
+			var imgArr=['1.jpg', '2.jpg', '3.jpg', '4.jpg','5.jpg', '6.jpg', '7.jpg', '8.jpg','9.jpg', '10.jpg', '11.jpg', '12.jpg','13.jpg', '14.jpg', '15.jpg', '16.jpg','17.jpg', '18.jpg', '19.jpg', '20.jpg','21.jpg'];
+			var gImages = [];
+			for(var i=0;i<imgArr.length;i++){
+				var src=imgPath + imgArr[i];
+				gImages.push(new Image());
+				gImages[i].onload=function(){
+					//console.log(this.src);
+				};
+				gImages[i].src=src;
+			}
+		</script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="wrapper">
+				<ul id="sb-slider" class="sb-slider">
+					<li>
+						<a href="#" target="_blank"><img src="images/1.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/2.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/3.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/4.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/5.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/6.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/7.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/8.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/9.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/10.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/11.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/12.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/13.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/14.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/15.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/16.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/17.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/18.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/19.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/20.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+					<li>
+						<a href="#" target="_blank"><img src="images/21.jpg" alt="image1"/></a>
+						<div class="button-wrapper">
+							<a href="index.html" class="a-btn">
+								<span class="a-btn-text"><small>&nbsp;&nbsp;</small> 返回目录</span> 
+								<span class="a-btn-icon-right"><span></span></span>
+							</a>
+						</div>
+					</li>
+				</ul>
+				<div id="nav-arrows" class="nav-arrows">
+					<a href="#">Next</a>
+					<a href="#">Previous</a>
+				</div>
+			</div>
+		</div>
+		<div class="load"></div>
+		<script type="text/javascript" src="http://cdn.staticfile.org/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.slicebox.js"></script>
+		<script type="text/javascript">
+			document.onreadystatechange = subSomething;//当页面加载状态改变的时候执行这个方法. 
+			setting();
+			subSomething();
+			$(window).resize(function(){
+				setting();
+				subSomething();
+			});
+			$(function() {
+				var Page = (function() {
+					var search = location.search,
+					sIndex = search.indexOf("?"),
+					lastIndex = search.substr(sIndex+1);
+					var $navArrows = $( '#nav-arrows' ).hide(),
+						$shadow = $( '#shadow' ).hide(),
+						slicebox = $( '#sb-slider' ).slicebox( {
+							onReady : function() {
+
+								$navArrows.show();
+								$shadow.hide();
+
+							},
+							orientation : 'r',
+							cuboidsRandom : true,
+							disperseFactor : 30,
+							current:lastIndex
+						} ),
+						
+						init = function() {
+
+							initEvents();
+							
+						},
+						initEvents = function() {
+
+							// add navigation events
+							$navArrows.children( ':first' ).on( 'click', function() {
+
+								slicebox.next();
+								return false;
+
+							} );
+
+							$navArrows.children( ':last' ).on( 'click', function() {
+								
+								slicebox.previous();
+								return false;
+
+							} );
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+
+			});
+			
+			function subSomething() 
+			{ 
+				if(document.readyState == "complete"){
+					$(".load").hide();
+				}else{
+					$(".load").show();
+				}
+				
+			} 
+			function setting(){
+				var W=document.documentElement.clientWidth || document.body.clientWidth,
+					H=document.documentElement.clientHeight || document.body.clientHeight;
+					$(".load").css({"width":W+"px","height":H+"px"});
+			}
+		</script>
+
+	</body>
+</html>	

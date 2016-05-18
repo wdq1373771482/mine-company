@@ -1,0 +1,18 @@
+html,body{width: 100%; height: 100%; overflow-x: hidden; text-align: center;}
+img{width: 100%; display: block;}
+body{background: url(../images/down.png) left 100% no-repeat; height: 100%; background-size: 100% 110px;}
+section{background: url(../images/img02.png) 0 0 no-repeat; height: 11.9rem; background-size: 100%; margin: 0 auto;}
+.inp{width: 13.25rem; height: 3.28rem; background-color: #ff8a00; font-size: 1.1875rem; color: #fff; text-align: center; line-height: 3.28rem; margin: 1.5rem auto 0 auto; border-radius: 5px;}
+.zhu{font-size: 0.56rem; color: #999; margin: 0 1rem;}
+@media only screen and (min-device-width: 320px) and (max-device-width: 375px){
+	section{height: 10.5rem;}
+	.inp{margin-top: 0;}
+	.zhu{margin: 0 0.5rem;}
+	body{background-size: 100% 60px;}
+}
+@media only screen and (max-device-width: 320px){
+	section{height: 8.9rem;}
+	.inp{margin-top: 0;}
+	.zhu{margin: 0 0.5rem 2rem 0.5rem;}
+	body{background-size: 100% 60px;}
+}

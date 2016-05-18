@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面-论坛 - 板块页</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/wo.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="留学报告.html"><i class="fa"></i></a> 
+	    <h2>关于我</h2>
+		<a href="tel:400-012-0038" class="header-navigation hhh hhhs phoneNums">400-012-0038<i class="phoness fl"></i></a>
+	</div>
+	<div class="h43"></div>
+	<div class="jj">
+		<div class="yhzx">
+			<a href="个人资料.html">
+				<dl class="clearfix">
+					<dt class="fl"><img src="images/wo.png" alt="" /></dt>
+					<dd class="fl dd_2">
+						<h2>韩梅梅</h2>
+						<p>常住地：北京</p>
+					</dd>
+				</dl>
+			</a>
+		</div>
+		<!-- <p class="xyk">校园卡积分：<em>1000</em> <i class="pt">普通学员</i></p> -->
+		<div class="dd mt10 mb20">
+			<p class="tc gz">我的关注</p>
+			<ul class="clearfix mt10">
+				<li>10 学校</li>
+				<li> 3 方案</li>
+				<li>2 课程</li>
+			</ul>
+		</div>
+	</div>
+	<div class="xq_1 xq_1111">
+		<ul class="list_hd list_hd333 list_hd333ss">
+			<li><a href="广播列表.html"><i><img src="images/w6.png" alt=""></i><p class="p_1">小道消息<span>6</span></p><i class="fa  fr"></i></a></li>
+			<li><a href="#"><i><img src="images/w5.png" alt=""></i><p class="p_1">留学报告</p><i class="fa  fr"></i></a></li>
+			<li><a href="http://s.tiandaoedu.cn"><i><img src="images/w4.png" alt=""></i><p class="p_1">在线课堂</p><i class="fa  fr"></i></a></li>
+			<li><a href="设置.html"><i><img src="images/w1.png" alt=""></i><p class="p_1">设置</p><i class="fa  fr"></i></a></li>
+			<li><a href="#"><i><img src="images/x_3.png" alt=""></i><p class="p_1">联系我们 </p><i class="fa fr"></i></a></li>
+		</ul>
+	</div>
+	<div class="hdown"></div>
+	<p class="tcdl"><a href="#">退出登录</a></p>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

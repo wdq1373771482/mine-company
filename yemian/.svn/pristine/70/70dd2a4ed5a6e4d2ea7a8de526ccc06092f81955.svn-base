@@ -1,0 +1,14 @@
+html,body,p,ul,dl,dd,dt{margin:0;padding:0;}
+img{display:block;width:100%;}
+.txt1{margin:20px 0;}
+.box{padding:10px 15px;}
+.tit{margin:10px 0 20px 0;}
+.box dt,.box dd{float:left;width:50%;}
+.box dt img{margin-top:30%;}
+.clearfix:after{display:block; zoom:1;content:'.'; clear:both; line-height:0; visibility:hidden;}
+.tit2{margin:15px 0;}
+.links a{text-align:right;color:#ffb321;display:block;text-decoration:none;font-family:"微软雅黑";font-size: 14px;}
+.tit4{margin-bottom:0;}
+.tit3{padding:15px;margin:0;}
+dd p{color:#ffac2a;font-family:"微软雅黑";text-align:center;font-size:14px;line-height:20px;}
+dd p.firstp{margin-top:10px!important;}

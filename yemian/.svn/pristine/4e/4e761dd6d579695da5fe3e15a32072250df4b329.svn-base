@@ -1,0 +1,116 @@
+.share{
+	width:100%;
+	margin:0 auto;
+	display:none; 
+	position:fixed;
+	bottom:0;
+	right:0;
+	z-index:999999999;
+  background-color:#fcf9f9;
+}
+.shareIcon{text-align:center;}
+.gallery.gallery_msxq li img{
+	border-radius:0!important;
+	display:block;
+	margin:0 auto;
+}
+.gallery_msxq  li {
+	width:32.333333%;
+}
+.gallery_msxq  li p{
+	color:#fff;
+}
+ .shareIcon .d_box{
+	display:inline-block;
+	margin:1em auto 6em auto;
+}
+.shareIcon .bdsharebuttonbox a{
+	margin:0 6.8%;
+}
+.bdshare_dialog_box,.bdshare_popup_box{
+	z-index:1000000!important;
+}
+.bdsharebuttonbox a{
+	width:65px!important;
+	text-indent:0!important;
+	height:96px!important;
+}
+.bdsharebuttonbox a{
+	
+	display:block;
+}
+.bdshare-button-style1-32{
+	width: 90%;
+    margin: 0 auto;
+}
+.bdshare-button-style1-32 a{
+	background-position:center 8px!important;
+	position:relative;
+}
+.bdsharebuttonbox a p{
+	color:#333;
+	width:100%;
+	position:absolute;
+	left:0;
+	bottom:-8px;
+	text-align:center;
+	font-size:0.9em;
+}
+.bdshare-button-style1-32 .bds_qzone{
+	background:url(../images/f5.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_tsina{
+	background:url(../images/f3.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_tqq{
+	background:url(../images/f2.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_weixin{
+	background:url(../images/f1.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_sqq{
+	background:url(../images/f4.png) no-repeat 0 0;
+	background-size:100% auto;
+} 
+.bdshare-button-style1-32 .bds_copy{
+	background:url(../images/f6.png) no-repeat 0 0;
+	background-size:100% auto;
+} 
+.bd_weixin_popup{
+	z-index:999999999!important;
+}
+
+
+.blacks{
+	filter:alpha(opacity=76);
+	-moz-opacity:0.76!important;
+	-khtml-opacity: 0.76!important;
+	opacity: 0.76!important;
+	background:#000;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:999999;
+	display:none;
+}
+.quxiao{
+	line-height:2em;
+	background:#fff;
+	text-align:center;
+	font-size:1.8em;
+	position:absolute;
+	bottom:0;
+	left:0;
+	z-index:999999999;
+	width:100%;
+	color:#333;
+}
+@media(max-width:360px){
+	.shareIcon .bdsharebuttonbox a{
+		margin:0 5%;
+	}
+}

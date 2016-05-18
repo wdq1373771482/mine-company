@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<![endif]-->
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<title>新网校首页</title>
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<!-- Google fonts -->
+		<link href='assets/css/fontcss.css' rel='stylesheet' type='text/css'>
+		<!-- Bootstrap -->
+		<link href="assets/css/bootstrap.css" rel="stylesheet">
+		<!-- Google fonts -->
+		<link href="assets/css/font-awesome.min.css" rel="stylesheet">
+		<link href="assets/flexslider/flexslider.css" rel="stylesheet">
+		<link href="assets/css/jquery.fancybox.css" rel="stylesheet">
+		<link href="assets/css/animate.css" rel="stylesheet">
+		<link href="assets/owl-carousel/owl.carousel.css" rel="stylesheet">
+		<link href="assets/css/global.css" rel="stylesheet">
+		<link href="assets/css/style.css" rel="stylesheet">
+		<link href="assets/css/responsive.css" rel="stylesheet">
+		<link href="assets/css/skin.css" rel="stylesheet">
+		
+		<!-- w0de -->
+		<link href="assets/css/index.css" rel="stylesheet">
+		
+		<script src="assets/js/modernizr.custom.js"></script>
+	</head>
+	<body id="homepage" class="">
+		<div id="wrapper">
+
+			<main id="main" role="main">
+				<section class="main-section main-section1" id="main-section">
+					<div class="inner-main parallax inner-main1">
+						<!--Header Section Start-->
+						<header id="header" data-sticky="yes" class="horzz header1">
+							<div class="navbar navbar-fixed-top navbar1" role="navigation">
+								<div class="container">
+									<!-- head 右侧按钮 -->
+									<div class="navbar-header navbar-header1">
+										<a class="navbar-brand navbar-brand1" href="#" title="Air Dev | Homepage"><img src="assets/images/logo.png" alt="天道网校"></a>
+
+										<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
+											<span class="sr-only"></span>
+											<span class="icon-bar"></span>
+										</button>
+
+									</div>
+
+									<!-- Collect the nav links, forms, and other content for toggling -->
+									<nav class="collapse navbar-collapse collapse1" id="main-nav">
+
+										<ul class="nav navbar-nav">
+											<li>
+												<a href="课程列表.html">课&nbsp;&nbsp;程</a>
+											</li>
+											<li>
+												<a href="拍摄计划.html">拍摄计划</a>
+											</li>
+										</ul>
+										
+									</nav>
+
+									<!-- /.navbar-collapse -->
+								</div><!-- /.container-fluid -->
+							</div>
+						</header>
+						<!--Header Section End-->
+						<!--Intro Section-->
+						<section class="intro-section intro-section1">
+							<div class="container container1">
+								<div class="row">
+									<div class="col-xs-12 col-sm-12 col-md-6 col-md-push-6" style="">
+										<div class="cont1"><img src="assets/images/pic.png" alt="" /></div>
+										<div class="login">
+											<form role="form" class="enquiry-form enquiry-form1">
+												<div class="clearfix">
+													<div class="input-group fl">
+														<input type="text" class="form-control" id="uesrN">
+														<label class="label-text" for="uesrN">用户名*</label>
+														<span class="input-group-btn"> <label for="uesrN" class="btn btn-default"> <i class="fa fa-userss"></i> </label> </span>
+													</div>
+													
+													<span class="fl tip">用户名错误,请您重新输入!</span>
+												</div>
+												<div class="clearfix">
+													<div class="input-group fl">
+														<input type="text" class="form-control" id="pwd">
+														<label class="label-text" for="userN">密码*</label>
+														<span class="input-group-btn"> <label for="pwd" class="btn btn-default"> <i class="fa fa-lockss"></i> </label> </span>
+													</div>
+													<span class="fl tip">密码错误,请您重新输入!</span>
+												</div>
+												<div class="clearfix">
+													<div class="input-group fl">
+														<input type="text" class="form-control check" id="check">
+														<label class="label-text" for="check">验证码*</label>
+														<span class="input-group-btn"> <label for="check" class="btn btn-default btns"> <i class=""></i> </label> </span>
+													</div>
+													<span class="fl tip">密码错误,请您重新输入!</span>
+												</div>
+												<button type="button" class="btn btn-theme1" id="submits">
+													立即登录
+												</button>
+											</form>
+										</div>
+									</div> 
+									<div class="col-xs-12 col-sm-12 col-md-6 col-md-pull-6 col-md-pull-666">
+										<div class="jumbotron jumbotron1">
+											<p class="f27">我们开始起步！</p>
+											<p>
+												互联网教育事业部作为天道最年轻的部门，几个月来，从团队组建，产品策划，设计，实施都得到了公司各个部门的鼎力帮助，经过两个多月的努力，我们初步建立了自己的开发团队。
+											</p>
+											<p>天道网校第一个版本，主要是给每一个天道人提供视频点播服务，通过这个平台，您可以看到我们已经拍摄的课程，提出你得意见建议，为我们整个天道互联网服务体系打上您的印记。</p>
+											<p>后续的版本中我们会增加直播、学习管理、课程管理，1vs1学习等功能，我们也希望能发挥您在留学、培训中的经验，给我们指出一条更好的道路。</p>
+											<p>有您和我们在一起，天道更精彩。</p>
+											<p class="f17">互联网教育事业部</p>
+											<form role="form" class="" style="margin-top:6%;">
+												<div class="form-group">
+												
+													<button class="btn btn-theme btn-theme111" type="button">
+														开始学习 <i class="fa fa-arrow"></i>
+													</button>
+													
+												</div>
+											</form>
+											<div id="partner-slide" class="site-logo owl-carousel owl-theme" style="display: block;">
+												
+											</div>
+
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</section>
+						<!--Intro Section End-->
+					</div>
+					</section>
+
+				<section class="design-section">
+					<div class="l-down"></div>
+					<div class="container">
+						<div class="row">
+							
+							
+						</div>
+					</div>
+				</section>
+				
+				
+			</main>
+
+		</div>
+
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="assets/js/jquery-1.11.1.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="assets/js/bootstrap.js"></script>
+		<script src="assets/js/jquery.easing.js"></script>
+		<script src="assets/flexslider/jquery.flexslider.js"></script>
+		<script src="assets/owl-carousel/owl.carousel.js"></script>
+		<script src="assets/js/jquery-animate-css-rotate-scale.js"></script>
+		<script src="assets/js/jquery.fancybox.js"></script>
+		<script src="assets/js/jquery.circliful.js"></script>
+		<script src="assets/js/jquery.fancybox.js"></script>
+		<script src="assets/js/jquery.fancybox-buttons.js"></script>
+		<script src="assets/js/jquery.fancybox-media.js"></script>
+		<script src="assets/js/masonry.pkgd.js"></script>
+		<script src="assets/js/imagesloaded.js"></script>
+		<script src="assets/js/site.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				$(".form-group button").on("click",function(){
+					$(".cont1").slideUp();
+					$(".login").slideDown();
+				});
+				var label,curTxt,_this;
+				$(".enquiry-form1 input").focus(function(){
+					_this=$(this);
+					label=$(this).next();
+					label.stop().animate({"top":-14 + "px"},200,function(){});
+				}).blur(function(){
+					curTxt=$(this).val();
+					var reg=/^\S+$/;
+					if(reg.test(curTxt) ){
+						label.stop().animate({"top":-14 + "px"},200,function(){});
+					}else{
+						label.stop().animate({"top":16 + "px"},200,function(){_this.val("");});
+					}
+				});
+				isShow();
+				function isShow(){
+					$(".enquiry-form .tip").each(function(){
+						if($(this).is(":visible")){
+							$(".cont1").hide();
+							$(".login").show();
+						}
+					});
+				}
+			});
+		</script>
+	</body>
+</html>

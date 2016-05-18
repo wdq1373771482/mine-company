@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端-耶鲁大学</title>
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+
+</head>
+<body class="body2"> 
+	<!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<h2>耶鲁大学</h2>
+		<a href="tel:400-012-0038" class="header-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="javascript:;" class="header-navigation hhhBtn"><i class="fa show-navigations"></i></a>
+	</div>
+	<div class="h43"></div>
+	<div class="container">
+		<dl class="dl1">
+			<dt class="thumb-left fl"><img src="images/y.png" alt="img"></dt>
+			<dd class="fl">
+				<strong>耶鲁大学</strong><span>Yale University</span>
+			</dd>
+		</dl>
+		<p class="p11"><span>G同学</span><a href="http://m.tiandaoedu.com/cgal/197443.html" target="_blank">一路前行的心 执著于你</a></p>
+		<div class="mt20 down">
+			<p><span class="lans">基本成绩：</span>北京航空航天大学 GPA 3.84/3.8, G319, I7.5, 十篇论文发表、五篇一作论文、一个专利</p>
+			<p><span class="lans">录取学校：</span>耶鲁大学 全奖博士 电子工程</p>
+			<p><span class="lans">加入天道时间：</span>2014年10月   <span class="lans">获得录取时间：</span>2015年2月</p>
+		</div>
+	</div>
+	<div class="conts contss">
+		
+		<h2 class="titName">TA为什么会成功？</h2>
+		<ul class="gallery round-thumb gallery_2 mt10 mb20" style="overflow: hidden;" id="">
+			<li>
+				<img src="images/y1.png" alt="img">
+				<p>良好的硬件</p>
+			</li>
+			<li>
+				<img src="images/y2.png" alt="img">
+				<p>实践丰富</p>
+			</li>
+			<li>
+				<img src="images/y3.png" alt="img">
+				<p>注重细节</p>
+			</li>
+		</ul>
+		<h2 class="titName">案例分析</h2>
+		<div class="allTxt1 allTxt1111">
+		    <div class="container no-bottom" style="padding-bottom:0;">
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/yj.png" alt="img"></dt>
+		        	<dd>
+						<p>
+							
+							G同学的基础条件非常好，他是北京航天航空大学本硕连读生，就读大三期间就想要出国留学进修。就出国留学申请而言，他的优势非常突出，GPA成绩高，雅思和GRE等语言成绩也不错。不仅如此，他拥有很强的科研能力，大学期间曾参加过国际会议，结识了不少国外老师，参加过相关的交流活动。
+						
+						</p>
+					</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/sj.png" alt="img"></dt>
+		        	<dd>
+						 <p>
+							
+
+							就文书简历方面，硕士申请范围是广泛的，看重申请人的知识面，因此申请人需要不断地扩宽自身眼界，增加一些实践项目。而博士申请强调的是专业度，学校看重申请人的专业深度，也就是专业技能。而G同学恰好具备了这样的专业性，因此对G同学而言，硕博连读或许是一个最佳的选择;从另一个方面也体现了天道老师专业的服务态度。
+
+
+						
+						</p>
+		        	</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/ii3.png" alt="img"></dt>
+		        	<dd>
+		                <p>
+							在套磁方面，天道老师也帮助了他完成了一系列申请活动。天道老师在官网上查找了专业信息，特别是耶鲁大学教授的一些信息，并且及时将信息反馈给G同学。毕竟，知己知彼百战不殆，申请人只有先了解教授们本身的研究方向和兴趣点，然后才有针对性地和他们沟通，获得他们的青睐。你套磁的教授越多，获得教授青睐的机会就越大。
+
+						
+						</p>
+		        	</dd>
+		        </dl>
+			   </div>
+		    </div>
+			<h2 class="titName">案例分析</h2>
+			<div class="dBox mb20">
+			<h2 class="lan lann">G同学录取信</h2>
+			<div class="txt tPic">
+				<img src="images/yw.png" alt="" />
+			</div>
+			<h2 class="lan mt20 lann">天道往年录取数据</h2>
+			<div class="txt1">
+				<div class="tPic"><img src="images/yd.png" alt="" /></div>
+				<div class="mt20 link">
+					<p class="lan">更多耶鲁案例</p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/167974.html" target="_blank"> 有志者事竟成</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/163094.html" target="_blank"> 由信任带来的效率</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/164141.html" target="_blank"> 励志女神誓做人生赢家</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/162906.html" target="_blank"> 两姐妹耶鲁再相聚</a></p>
+				</div>
+			</div>
+			</div>
+	</div>
+	 <div class="header-clears"></div>
+	<script type="text/javascript" src="scripts/footer.js"></script>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/daxue.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

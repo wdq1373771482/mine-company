@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<title>移动端界面_活动首页</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/huodong.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="#"><i class="fa"></i></a> 
+		<h2>活动</h2>
+		<a href="tel:400-012-0038" class="a_r a_rs a_rssss">400-012-0038</a>
+	</div>
+	<div class="h43"></div>
+	<!-- 正文 -->
+	<div class="msBox xq_msBox hdBox">
+		<div class="content-heading">
+		    <a href="#"><img src="images/3.jpg" alt="img"></a>
+		</div>   
+		<div class="content">
+			<div class="tt mb10">
+				<h2 class="white"><i class="fa fa-star-o"></i>星座奇缘<i class="fa fa-star-o"></i>情人节，就送TA这个吧！</h2>
+				<p>不知道你今天会做什么，我们可全都准备好了!</p>
+			</div>
+			<div>
+				<p>活动时间：<span class="yellows">即日起~3月1日</span></p>
+				<p style="line-height:1.3em;">参与规则：关注“天道教育”或“天道本科留学”微信号，回复“星座奇缘”进入测试页面。请一定，一定，一定全部做完，点“参加抽奖”哦。</p>
+				<p class="mt20">*本活动最终解释权归天道教育所有</p>
+			</div>
+		</div>
+	</div>
+	<!-- 线上活动 -->
+	<h2 class="titName">线上活动</h2>
+	<div class="xq_1 xq_1111">
+		<ul class="list_hd clear">
+			<li><i><img src="images/hd1.png" alt="" /></i><div class="pp"><p class="p_1">微信背单词</p><p class="p_2">背完就是赚到！</p></div></i>
+			</li>
+			<li><i><img src="images/hd2.png" alt="" /></i><div class="pp"><p class="p_1">论坛每周送书</p><p class="p_2">推荐给留学前的孩纸们必看</p></div></i>
+			</li>
+			<li><i><img src="images/hd3.png" alt="" /></i><div class="pp"><p class="p_1">主题活动3</p><p class="p_2">真好玩呀真好玩</p></div>
+			</li>
+		</ul>
+		<p class="p_center">更多线上活动</p>
+	</div>
+	<!-- 线下活动 -->
+	<h2 class="titName">线下活动</h2>
+	<div class="xq_1 xq_1111">
+		<ul class="list_hd clear">
+			<li><i><img src="images/hd1.png" alt="" /></i><div class="pp"><p class="p_1">天道寒假毅伟课程程</p><p class="p_2">北京 2月26日-2月28日 每天</p></div></i>
+			</li>
+			<li><i><img src="images/hd5.png" alt="" /></i><div class="pp"><p class="p_1">讲座2</p><p class="p_2">北京 2015年2月28日</p></div>
+			</li>
+			<li><i><img src="images/hd5.png" alt="" /></i><div class="pp"><p class="p_1">讲座3</p><p class="p_2">北京 2015年2月28日</p></div>
+			</li>
+		</ul>
+		<p class="p_center">更多线下活动</p>
+	</div>
+	<div class="header-clearsss"></div>
+	<!-- 底部-->
+	<div class="footer" id="footer">
+	    <ul>
+	    	<li class="li_1 curPage"><a href="index.html"><span></span><p>主页</p></a></li>
+	    	<li class="li_2"><a href="#"><span></span><p>发现</p></a></li>
+	    	<li class="li_3"><a href="http://m.tiandaoedu.com/tdgj/"><span></span><p>工具</p></a></li>
+	    	<!-- <li class="li_4"><a href="#"><span></span><p>论坛</p></a></li>
+	    	<li class="li_5"><a href="http://m.tiandaoedu.com/u/"><span></span><p>我</p></a></li> -->
+	    </ul>
+	</div>
+	<div class="menu-wrapper-background"></div>
+	
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/zepto.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	
+	<script type="text/javascript">
+		(function($){
+			$(".phoness").on("tap",function(){
+				$(this).addClass("on1");
+			});
+			//
+			$(".list_hd li").on("tap",function(){
+				$(this).addClass("onnn").siblings().removeClass("onnn");
+			});
+			//
+			$(".p_center").on("tap",function(){
+				$(this).addClass("onnss");
+				var _this=$(this);
+				setTimeout(function(){
+					_this.removeClass("onnss");
+				},50);
+			});
+			$(".phone").on("tap",function(e){
+				e.stopPropagation();
+				if($(".share").is(":visible")){
+					$(".share").slideUp(250);
+					$(this).css("color","#fff");
+				}else{
+					$(".share").slideDown(250);
+					$(this).css("color","#fff661");		
+				}
+			});
+		})(jQuery);
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

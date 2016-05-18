@@ -1,0 +1,116 @@
+@charset "gb2312";
+/*base*/
+body, ul, ol, dl, dd, li, p, h1, h2, h3, h4, h5, h6, form, table, td, img, div { margin: 0; padding: 0; border: 0;color:#3d3d3d }
+ul, ol { list-style-type: none; }
+select, input, img { vertical-align: middle; }
+div { font: 12px "Î¢ÈíÑÅºÚ"; }
+.clearFloat { clear: both; }
+a { text-decoration: none;  color:#3b3b3b }
+a, area { blr:expression(this.onFocus=this.blur())
+}
+:focus { outline-style: none; }
+body{ background:#FFF; }
+body,html{font-family:"Î¢ÈíÑÅºÚ"}
+/*»ù´¡¹«ÓÃÑùÊ½*/
+.lf { float: left }
+.rf { float: right }
+.yh { font-family: "Î¢ÈíÑÅºÚ" }
+.mag { margin-left: auto; margin-right: auto }
+.cb { clear: both }
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 99999;
+    height: 43px;
+    background: #30bcfa;
+	font-family: "Î¢ÈíÑÅºÚ";
+}
+.header h2 {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    line-height: 43px;
+    font-size: 1.4em;
+    font-family: "Î¢ÈíÑÅºÚ";
+    float: left;
+	font-weight:normal;
+}
+.header .a_r, .phone {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    font-size: 2em;
+    color: #fff;
+    height: 43px;
+}
+.header a:first-child {
+    display: block;
+    width: 30px;
+    height: 100%;
+    background: url(../images/back.png) no-repeat center 15px;
+    background-size: 10px auto;
+    margin-left: 1px;
+}
+.header a:first-child {
+    font-size: 3em;
+    position: absolute;
+    left: 0;
+    top: -2px;
+    z-index: 99;
+    color: #fff;
+    height: 43px;
+    line-height: 1.5em;
+    width: 30px;
+}
+.a_rssss {
+    font-size: 1.2em!important;
+    height: 100%;
+    line-height: 43px;
+}
+/* footer sliderTab */
+.sliderTab{position:relative;width:auto;overflow:hidden;margin:30px 10px 46px;padding:0 30px;}
+.slidesPrev,.slidesNext{width:36px;height:41px;overflow:hidden;position:absolute;top:0;background:url(../images/slidebtn.png) no-repeat;}
+.slidesPrev{left:0;background-position:0 0;}
+.slidesNext{right:0;background-position:-36px 0;}
+.sliderTag{position:relative;width:auto;height:31px;overflow:hidden;background:#ebebeb}
+.sliderTag .sliderButtons,.slidesWrap .slides-container{position:absolute;left:0;top:0;}
+.sliderButtons ul li{float:left;text-align:center;width:56px;overflow:hidden;font-size:14px;}
+.sliderButtons ul li span{cursor:pointer;display:block;line-height:31px; font-size:17px}
+.sliderButtons ul li span.selected{background:#FFF}
+.slidesWrap{position:relative;height:140px;width:305px;overflow:hidden;left:-18px;}
+.sliderItem{margin:20px 0 0 0;float:left;width:305px;overflow:hidden;}
+.sliderItem .add span{ background:url(../images/telbg_03.png) no-repeat 0 center; padding-left:20px; }
+.sliderItem .add{ font-size:15px; line-height:30px;width:280px;}
+
+/*µ×²¿¹Ì¶¨µç»°*/
+#phone {
+    width: 100%;
+    background: #f38e2f;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 999999;
+    cursor: pointer;
+    display: block;
+    line-height: 3em;
+}
+#phone p {
+    width:235px;
+    margin: 0 auto;
+    font-size: 18px;
+    background: url(../images/phone.png) no-repeat right center;
+    background-size: 30px auto;
+    display: block;
+    color: #fff;
+	font-family:"Î¢ÈíÑÅºÚ"
+}
+.h50{
+	height:70px;
+}
+.h43{
+	height:43px;
+}
+::-webkit-scrollbar { 
+   display: none;
+}

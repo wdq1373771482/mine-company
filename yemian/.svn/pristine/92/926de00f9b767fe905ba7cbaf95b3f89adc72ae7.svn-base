@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>登陆_个人中心_注册</title>
+<meta name="keywords" content="登陆"/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+<style type="text/css">
+
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBox">
+		<!-- 登录 -->
+		<section class="sectionBox section3 active">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>注册</h2>
+				<a href="注册登录.html" class="dh dl_zc">登录</a>
+			</div>
+			<div class="h43"></div>
+			<div class="loginBox">
+				<div class="myZls myZls1">
+					<p class="tit w100 tc mt20">您注册的手机号码为<span class="green">18500594710</span></p>
+					<div class="bd_login phoness_zh phoness_sz">
+						
+						<p class="tit tit2 mb20">请设置您的密码：</p>
+						<form action="" class="form_dl">
+							<p><input type="password" placeholder="请输入新密码" class="loginName"/><i>x</i></p>
+							<p class="mb20 tip_rong"><span class="tips tips1">！邮箱格式错误</span></p>
+							<p class=""><input type="password" placeholder="请输入确认密码" class="checkPwd" data-index="1"/><i>x</i></p>
+							<p class="mb20 tip_rong"><span class="tips tips2 tips3">密码长度不少于6位，数字、字母、字符至少包含两种</span></p>	
+						</form>
+					</div>
+				</div>
+				<p class="tc loginBtn loginBtn_box"><a href="#">提交</a></p>
+			</div>
+		</section>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			//重置密码
+			var pwdReg3=/(?!^[0-9]+$)(?!^[A-z]+$)(?!^[^A-z0-9]+$)^.{6,}$/;
+			$(".loginName").focus(function(){
+				$(".tip_rong .tips3").show();
+			}).keydown(function(){
+				var _that=$(this);
+				_that.next().show();
+				del(_that.next());
+			}).blur(function(){
+				var loginName = $(this).val();
+				if(loginName == ""){  
+					$(this).removeClass("rong");
+					$(this).parent().next().find(".tips").hide();
+					$(".tip_rong .tips3").hide();
+				}else{
+					if(pwdReg3.test(loginName)){
+						$(this).next().hide();
+						$(this).removeClass("rong");
+						$(this).parent().next().addClass("mb20").find(".tips").hide();
+						del($(this).next());
+						$(this).next().hide();
+						$(".tip_rong .tips3").hide();
+					}else{
+						$(this).addClass("rong");
+						$(this).parent().next().removeClass("mb20").find(".tips").show().html("！密码格式不正确");
+					}
+				}
+			});
+			//确认密码
+			$(".checkPwd").focus(function(){
+				//$(".tip_rong .tips3").show();
+			}).keydown(function(){
+				var _that=$(this);
+				_that.next().show();
+				del(_that.next());
+			}).blur(function(){
+				var val1=$(".loginName").val(),
+					val2=$(".checkPwd").val();
+					if(val2 == ""){  
+						$(this).removeClass("rong");
+						$(this).parent().next().find(".tips").hide();
+						$(".tip_rong .tips3").hide();
+					}else{
+						if(pwdReg3.test(val2)){
+							//del($(this).next());
+							if(val1 != val2){
+								$(this).addClass("rong");
+								$(this).next().show();
+								$(".tips3").show().html("！两次输入密码不一致");
+							}else{
+								$(this).removeClass("rong");
+								$(this).next().hide();
+								$(".tips3").hide();
+							}
+						}else{
+							$(this).addClass("rong");
+							$(this).parent().next().removeClass("mb20").find(".tips").show().html("！密码格式不正确");
+						}
+					}
+			});
+		});
+		
+		function del(_this){
+			_this.on("click",function(e){
+				e.preventDefault();
+					$("input").val("");
+					$(this).hide();
+				});
+		}
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,274 @@
+html,body{
+	width:100%;
+	height:100%;
+	overflow-x:hidden;
+	font-family:"Microsoft Yahei";
+}
+body{
+	background:#f3f4f4 url(../images/down.png) no-repeat left bottom;
+	background-size:100% auto;
+}
+.bg_pics{
+	width: 100%;
+    height: 110px;
+    display: block;
+}
+img{
+	width:100%;
+	display:block;
+}
+.cont{
+	background:url(../images/p2.png) no-repeat;
+	background-size:100% 100%;
+	height:100%;
+	position:relative;
+}
+.txtss{
+	position:absolute;
+	left: 50%;
+    bottom: 5rem;
+	margin-left: -132px;
+	top: 82%;
+    height: 72px;
+}
+.txtss p{
+	color:#fff;
+}
+.btn1{
+	width:13.2rem;
+	height:3rem;
+	line-height:3rem;
+	text-align:center;
+	color:#056ac3;
+	font-size:1.1rem;
+	font-family:"Microsoft Yahei";
+	background:#fff;
+	border-radius:5px;
+	display:block;
+	margin:0 auto;
+}
+.btn3{
+	background:#ff8a00;
+	color:#fff;
+	top:18rem;
+}
+.succe{
+	background:#fff;
+	padding:40px 0px;
+}
+.succe p{
+	font-size:1.5rem;
+	margin-top:6rem;
+	text-align:center;
+}
+.cont3{
+}
+.txt{
+	background:#d8f2ff;
+	color:#056ac3;
+	font-size:1rem;
+	text-align:center;
+	line-height:2rem;
+}
+.forms{
+	margin:0rem 0.6rem;
+}
+#huoqu{
+	background: #1885e7;
+    color: #fff;
+    width: 30%;
+	line-height:2rem;
+	height:2rem;
+}
+.tit{
+	font-size:0.9rem;
+	border-bottom:1px solid #a5f4f1;
+	line-height:3rem;
+	font-family:"Microsoft Yahei";
+}
+.ps p{
+	line-height:3rem;
+	position:relative;
+}
+.ps label{
+	color:#999;
+	font-size:0.9rem;
+	padding-left:24px;
+	background-size: 18px auto;
+	display: inline-block;
+}
+.ps p input{
+	line-height:2rem;
+	border:0;
+	background:transparent;
+	font-family:"Microsoft Yahei";
+	width: 13rem;
+}
+.cont_2{
+	background:#fff;
+}
+.ps p input:-moz-placeholder { 
+    color: #e5e4e4;  
+}
+
+.ps p input::-moz-placeholder { 
+    color: #e5e4e4;
+}
+.ps p input:-ms-input-placeholder,
+.ps p input:-ms-input-placeholder {
+    color: #e5e4e4;
+}
+
+.ps p input::-webkit-input-placeholder,
+.ps p input::-webkit-input-placeholder {
+    color: #e5e4e4;
+}
+i.rOrf{
+	background:url(../images/login05.png) no-repeat center center;
+	background-size:20px auto;
+	display:inline-block;
+	width:22px;
+	height:22px;
+	position: absolute;
+    top: 12px;
+    right: 0;
+}
+i.fs{
+	background:url(../images/f.png) no-repeat center center;
+	background-size:20px auto;
+	display:inline-block;
+	width:22px;
+	height:22px;
+	position: absolute;
+    top: 12px;
+    right: 0;
+}
+.bg_1 {
+	background: url(../images/login03.png) no-repeat 2px center;
+	background-size: 12px auto!important;
+}
+.bg_2 {
+	background: url(../images/login01.png) no-repeat 2px center;
+}
+.bg_3,.bg_4{
+	background: url(../images/login02.png) no-repeat 2px center;
+}
+.bg_5 {
+	background: url(../images/login04.png) no-repeat 2px center;
+}
+.bg_6 {
+	background: url(../images/login04.png) no-repeat 2px center;
+}
+i.eye{
+	display:inline-block;
+	width:34px;
+	height:16px;
+	background:url(../images/login_18.png) no-repeat center center;
+	background-size: 90% auto;
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+.yz_pic{
+	width: 32%;
+    display: inline-block;
+    position: relative;
+    top: 12px;
+}
+.yz_dx{
+	display: inline-block;
+    background: #1885e7;
+    color: #fff;
+    text-align: center;
+    width: 5rem;
+    float: right;
+}
+em{
+	font-size:1rem;
+	line-height:3rem;
+}
+.btn3{
+	position:static;
+	margin:2rem auto 6rem auto;
+}
+.down_p{
+	color:#df1932;
+	text-align:center;
+	color:#999;
+	margin-top: -5rem;
+	margin-bottom:2rem;
+	font-size:0.9rem
+}
+.down_p a{
+	color:#df1932;
+}
+
+@media(min-width:320px){
+	.yz_inputs{
+		width: 12rem!important;
+	}
+	.yz_pic {
+		width: 25%;
+	}
+}
+@media screen and (min-width:360px) and (max-width:414px) {
+	.ps p input {
+		width:14rem;
+	}
+	.ps p input{
+		font-size:0.8rem;
+	}
+	.ps p input.yz_input{
+		width:10rem!important;
+	}
+	.ps p input.yz_inputs{
+		width:8rem!important;
+	}
+}
+@media(min-width:414px){
+	.ps p input {
+		width:18rem;
+	}
+	.yz_input{
+		width:13rem!important;
+	}
+}
+@media(max-width:320px){
+	input.yzm{
+		width:12rem!important;
+	}
+	.yz_input{
+		width:7rem!important;
+	}
+	.yz_inputs{
+		width:6rem!important;
+	}
+	em{
+		font-size:0.9rem;
+	}
+}
+@media(max-width:375px){
+	.bg_pics {
+		height:65px!important;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>登录页</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<style>
+	body{background-color: #f3f4f4;}
+	h2{background-color: #d8f2ff; width: 100%; height: 1.875rem; font-size: 1rem; color: #056ac3; line-height: 1.875rem;}
+	.login{background-color: #fff; padding: 1rem; font-size: 0.9rem;}
+	.login p{border-bottom: 1px solid #000; color: #999; text-align: left; height: 3rem; line-height: 3rem;}
+	.login p.lg_p1{height: 2.2rem;}
+	.login p.lg_p2{background: url(images/login03.png) left center no-repeat; padding-left: 28px; background-size: 12px auto;}
+	.login p.lg_p3{background: url(images/login02.png) left center no-repeat; padding-left: 28px; background-size: 15px auto;}
+	input{width: 15rem; height: 2rem; border: 0;}
+	i{background: url(images/login_18.png) center center no-repeat; width: 34px; height: 16px; float: right; margin-top: 14px; background-size: 25px auto;}
+	.find{display: block; color: #df1932; float: right;}
+</style>
+</head>
+<body> 
+	<script type="text/javascript" src="js/head.js"></script>
+	<div class="con">
+		<h2>老用户登陆后领取零花钱</h2>
+		<div class="login">
+			<p class="lg_p1">登录：</p>
+			<p class="lg_p2">手机号：
+				<input type="text" name="" value="">
+			</p>
+			<p class="lg_p3">密码：
+				<input type="text" name="" value="">
+				<i></i>
+			</p>
+			<p style="border:0;">
+				<a href="#"><span class="find">找回密码</span></a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>最红星期六</title>
+<link rel="stylesheet" type="text/css" href="css/index.css"/>
+</head>
+<body> 
+	<div>
+		<img src="images/z1.png" alt="" />
+	</div>
+	<div class="txt1"><img src="images/zz1.png" alt="" /></div>
+	<div class="tu1"><img src="images/z2.png" alt="" /></div>
+	<div class="box">
+		<div class="tit"><img src="images/zz2.png" alt="" /></div>
+		<dl class="clearfix">
+			<dt><img src="images/w1.png" alt="" /></dt>
+			<dd><a href="images/z3.png"><img src="images/z3.png" alt="" /></a>
+				<p class="firstp">轻触上方二维码</p>
+				<p>弹出单独图片后</p>
+				<p>长按识别关注</p>
+			</dd>
+		</dl>
+		<div class="tit2"><img src="images/zz3.png" alt="" /></div>
+	</div>
+	<div class="box">
+		<div class="tit"><img src="images/zz4.png" alt="" /></div>
+		<dl class="clearfix">
+			<dt><img src="images/w2.png" alt="" /></dt>
+			<dd><a href="images/z4.png"><img src="images/z4.png" alt="" /></a>
+				<p class="firstp">轻触上方二维码</p>
+				<p>弹出单独图片后</p>
+				<p>长按识别关注</p>
+			</dd>
+		</dl>
+		<div class="tit2"><img src="images/zz5.png" alt="" /></div>
+	</div>
+	<div class="box">
+		<div class="tit"><img src="images/zz6.png" alt="" /></div>
+		<dl class="clearfix">
+			<dt><img src="images/w3.png" alt="" /></dt>
+			<dd><a href="images/z5.png"><img src="images/z5.png" alt="" /></a>
+				<p class="firstp">轻触上方二维码</p>
+				<p>弹出单独图片后</p>
+				<p>长按识别关注</p>
+			</dd>
+		</dl>
+		<div class="tit2"><img src="images/zz7.png" alt="" /></div>
+	</div>
+	<div class="tit2"><img src="images/z6.png" alt="" /></div>
+	<div class="box">
+		<div class="tit"><img src="images/zz8.png" alt="" /></div>
+		<div class="tit2"><img src="images/zz9.png" alt="" /></div>
+		<p class="links"><a href="http://s.tiandaoedu.cn/course/54/thread/28">点击查看详情</a></p>
+	</div>
+	<div class="box">
+		<div class="tit"><img src="images/zz10.png" alt="" /></div>
+		<div class="tit2"><img src="images/zz11.png" alt="" /></div>
+		<p class="links"><a href="http://s.tiandaoedu.cn/course/325/thread/29">点击查看详情</a></p>
+	</div>
+	<div class="box">
+		<div class="tit"><img src="images/zz12.png" alt="" /></div>
+		<div class="tit2"><img src="images/zz13.png" alt="" /></div>
+		<p class="links"><a href="http://s.tiandaoedu.cn/course/164/thread/12">点击查看详情</a></p>
+	</div>
+	<div class="tit2"><img src="images/z7.png" alt="" /></div>
+	<div class="tit2 tit3"><img src="images/z8.png" alt="" /></div>
+	<div class="tit2 tit4"><a href="http://s.tiandaoedu.cn"><img src="images/z9.png" alt="" /></a></div>
+</body>
+</html>

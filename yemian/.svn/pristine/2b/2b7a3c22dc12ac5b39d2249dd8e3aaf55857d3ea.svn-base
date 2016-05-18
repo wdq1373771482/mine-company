@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端-康奈尔大学</title>
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+
+</head>
+<body class="body2"> 
+	 <!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<h2>康奈尔大学</h2>
+		<a href="tel:400-012-0038" class="header-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="javascript:;" class="header-navigation hhhBtn"><i class="fa show-navigations"></i></a>
+	</div>
+	<div class="h43"></div>
+	<div class="container">
+		<dl class="dl1">
+			<dt class="thumb-left fl"><img src="images/kne.png" alt="img"></dt>
+			<dd class="fl">
+				<strong>康奈尔大学</strong><span>Cornell University</span>
+			</dd>
+		</dl>
+		<p class="p11"><span>C同学</span><a href="http://m.tiandaoedu.com/cgal/196719.html" target="_blank">全才小学霸 拼的就是优秀！</a></p>
+		<div class="mt20 down">
+			<p><span class="lans">基本成绩：</span>广州市铁一中学 GPA93,TOEFL104,SAT2140,CR670</p>
+			<p><span class="lans">录取学校：</span>康奈尔大学 工程方向</p>
+			<p><span class="lans">加入天道时间：</span>2014年9月    <span class="lans">获得录取时间：</span>2014年12月</p>
+		</div>
+	</div>
+	<div class="conts contss">
+		
+		<h2 class="titName">TA为什么会成功？</h2>
+		<ul class="gallery round-thumb gallery_2 mt10 mb20" style="overflow: hidden;" id="">
+			<li>
+				<img src="images/k1.png" alt="img">
+				<p>成绩优秀</p>
+			</li>
+			<li>
+				<img src="images/k2.png" alt="img">
+				<p>给力推荐人</p>
+			</li>
+			<li>
+				<img src="images/k3.png" alt="img">
+				<p>精彩面试</p>
+			</li>
+		</ul>
+		<h2 class="titName">案例分析</h2>
+		<div class="allTxt1 allTxt1111">
+		    <div class="container no-bottom" style="padding-bottom:0;">
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/xb.png" alt="img"></dt>
+		        	<dd>
+						<p>
+							
+							同学又不仅仅是一个小学霸，她还是一个多才多艺的课外活动相当丰富的小学霸。C同学除了经常参加一些理科活动项目外，还参加过中外文化交流活动，当过志愿者，另外话剧导演、小记者什么的也同样都做过。C同学丰富的课外活动和实习经历为她的申请文书的创作提供了丰富的素材，也让她的文书创作思路更发散。
+					
+						</p>
+					</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/xj.png" alt="img"></dt>
+		        	<dd>
+						 <p>
+				
+
+							C同学康奈尔暑期课程的成绩单一开始开具的是错误的，天道的顾问老师建议C同学请班主任帮忙写信予以解析，并及时开具正确的成绩单，为C同学成功申请康奈尔大学提供了有力保障;为了突出C同学鲜明的个人特质，天道的顾问老师建议C同学参加CIEE的面试，并由外教进行辅导，最后取得3.2分的好成绩(满分4分)，这在一定程度上对C同学的“软实力”进行了有力的提升。
+
+						</p>
+		        	</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/tjr.png" alt="img"></dt>
+		        	<dd>
+		                <p>
+							
+
+由于C同学申请的是康奈尔大学，而C同学参加过康奈尔大学的暑期课程，所以我们便建议C同学将康奈尔的老师作为附加推荐人，这样使C同学的优秀背景看起来更具真实性和说服力。
+
+
+						</p>
+		        	</dd>
+		        </dl>
+			   </div>
+		    </div>
+			<h2 class="titName">案例分析</h2>
+			<div class="dBox mb20">
+			<h2 class="lan lann">C同学录取信</h2>
+			<div class="txt tPic">
+				<img src="images/kw.png" alt="" />
+			</div>
+			<h2 class="lan mt20 lann">天道往年录取数据</h2>
+			<div class="txt1">
+				<div class="tPic"><img src="images/kd.png" alt="" /></div>
+				<div class="mt20 link">
+					<p class="lan">更多康奈尔案例</p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/196630.html" target="_blank"> 勇敢迈入康奈尔大学</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/196629.html" target="_blank"> 剑走偏锋</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/168549.html" target="_blank"> 文质彬彬的化工好男儿</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/168697.html" target="_blank"> 景观城规相得益彰</a></p>
+				</div>
+			</div>
+			</div>
+	</div>
+	<div class="header-clears"></div>
+	<script type="text/javascript" src="scripts/footer.js"></script>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/daxue.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+.gbxq{margin:2em 1em;}
+.bor span{font-size:1.25em;}
+p.bor{border-bottom:1px solid #dcdcdc;font-size:1.4em;color:#272727;line-height:2em;}
+.txt{padding:1em 0;}
+.txt p{font-size:1.25em;}
+.txt strong{font-size:1.25em;line-height:4em;}
+.pp{color:#888}
+.ind{text-indent:24px;}
+.down p{color:#ff9999;}
+.down p a{color:#3399d4;}
+.f69{color:#696969;}
+@media(max-width:375px){
+	p.bor span{padding-bottom:10px;line-height:1;color:#272727;}
+}
+@media(max-width:414px){
+	p.bor.tc{text-align:left;}
+}
+@media(min-width:600px){
+	p.bor{line-height:3em;}
+}

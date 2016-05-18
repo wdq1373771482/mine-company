@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面-领奖方式2</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/xh_css.css"/>
+<link rel="stylesheet" type="text/css" href="css/share.css"/>
+</head>
+<body style="overflow-x:hidden"> 
+	<div class="header clearfix">
+		<a href="#"><span>返回</span></a>
+		<h2>领奖方式</h2>
+		<a href="javascript:;" class="dh show-navigations">...</a>
+	</div>
+	<div class="bigBoxs">
+		<div class="content">
+			<h1 class="tc"><strong>至此闯关已全部完成</strong></h1>
+			<h2 class="tc mt20 mb20"><strong>下一步，向世界挑战！</strong></h2>
+			<p class="tc mt10 mb20"><img src="images/ball.png" alt="" /></p>
+			<h2 class="tc mt20"><strong>知你所需，为你倾力</strong></h2>
+			<p  class="tc mt10">天道学子90%以上入读美国TOP50名校。</p>
+			<p class="tc mt6">留下您的活动及学习意向，将有意想不到的惊喜奉上。（ <i class="yel"></i>  为必选）
+</p>
+		<div class="choise mt20 mb20">
+			<form action="" class="form">
+				<dl class="clearfix">
+					<dt><i class="yel"></i>想留学：</dt>
+					<dd>
+						<p>
+							<span><i></i>留学规划</span>
+							<span><i></i>语言培训</span>
+						</p>
+						<p>
+							<span><i></i>背景提升</span>
+							<span><i></i>文书创作</span>
+						</p>
+					</dd>
+				</dl>
+				<dl class="clearfix">
+					<dt><i class="yel"></i>想学习：</dt>
+					<dd>
+						<p>
+							<span><i></i>托福</span>
+							<span><i></i>雅思</span>
+						</p>
+						<p>
+							<span><i></i>GRE</span>
+							<span><i></i>GMAT</span>
+							<span><i></i>其他</span>
+						</p>
+					</dd>
+				</dl>
+				<dl class="clearfix">
+					<dt><i class="yel"></i>梦想地：</dt>
+					<dd>
+						<p>
+							<span><i></i>留学规划</span>
+							<span><i></i>语言培训</span>
+						</p>
+						<p>
+							<span><i></i>背景提升</span>
+							<span><i></i>文书创作</span>
+						</p>
+					</dd>
+				</dl>
+			</form>
+		</div>
+		<p class="submitBtn"><a href="#">提交</a></p>
+		<h2 class="tc mt20 mb20"><strong>答案揭晓与开奖</strong></h2>
+		<div class="da">
+			<p>1. 公布方式：请关注微信公众账号“天道教育“及网站”天道在线课堂“中公布的
+    答案与获奖信息。</p>
+			<p>2. 您已注册网站“天道在线课堂”登陆账号，请妥善保管您的账号，及时登录完善
+			个人信息，便于活动主办方与您取得联系。</p>
+			<p>3. 更多活动规则请见网站“天道在线课堂”及微信公众账号“天道教育“专题页面。</p>
+			<p>4. 活动专线：4000-926-117</p>
+		</div>
+		<p class="login tc mt10"><a href="#">点此进入”天道在线课堂”</a></p>
+		</div>
+		
+	</div>
+	<div class="blacks"></div>
+<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+					<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"><p>朋友圈</p></a>
+					<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"><p>微信</p></a>
+					<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					<a href="#" class="bds_copy" id="bds_copy" data-cmd="" title="分享到复制网址"><p>复制网址</p></a>
+				<!-- 	<a href="#" class="bds_more" data-cmd="more"></a> -->
+				</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+				<p class="quxiao">取消</p>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/zepto.js"></script>
+	<script src="js/share.js" type="text/javascript"></script> 
+	<script type="text/javascript">
+		$(function(){
+			$(".form span").on("tap",function(){
+				if($(this).hasClass("on")){
+					$(this).removeClass("on");
+				}else{
+					$(this).addClass("on");
+				}
+				
+			});
+		});
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,181 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>2015本科录取榜推广手绘</title>
+<script type="text/javascript" src="scripts/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="scripts/zepto.js"></script>
+<link href="styles/manhua.css" rel="stylesheet" type="text/css">
+</head>
+<body> 
+	<!--加载提示-->
+	<div id="preloader">
+		<div id="status">
+	    	<p class="center-text">
+				Loading ...
+	        </p>
+	    </div>
+	</div>
+	<script type="text/javascript" src="scripts/head.js"></script>
+  <!-- 正文 -->
+	<div class="cont w94">
+		<img src="images/p_1.png" alt="" />
+		<div class="txt">
+			自从围观<a href="http://mp.weixin.qq.com/s?__biz=MjM5NjE5Mjk2MA==&mid=206710329&idx=2&sn=1c5ffdd690cee5f06ad20ca23156b4ba#rd"  target="_blank" class="yellow">天道本科OFFER</a>后，整个人都不好了。人家已经是学霸了还那么努力！不过人类的情绪问题一直成谜，说到底，留学有什么难的呢？只要坚持学习，按部就班完成大学要求就好了嘛。但是只要有一万个留学的理由，就有一万个无法顺利留学的理由。
+		</div>
+		<img src="images/p_2_1.png" alt="" class=""/>
+		<img src="images/p_2_2.png" alt="" class="mt20"/>
+		<div class="txt">
+			这个社会有种规则叫“翻墙”，不过想要说出“我每天都上脸书”这样秒杀众人的句式，现在是越来越难了。出国后，想必能省下不少VPN的钱，而且能将等待页面转圈的时间用在更有益的事情上，比如刷完脸书继续把这条<a href="javascript:;" target="_blank" class="green show-navigations">分享朋友圈</a>。
+		</div>
+		<img src="images/p_5.png" alt="" class=""/>
+		<img src="images/p_6.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+	留学成功后还有什么事情做不成？尤其是在学渣逆袭后，更有一种掌控一切的正面情绪反馈。如果是通过5次<a href="http://310179.m.weimob.com/weisite/detail?_tj_twtype=2&_tj_pid=310179&_tt=1&_tj_graphicid=8756052&_tj_title=sat%E6%9A%91%E5%81%87%E5%86%B2%E5%88%86%E7%8F%AD&_tj_keywords=sat&did=1903773&bid=484136&pid=310179&wechatid=owADTjiW8TGIIYoh-N8H_jkDgdG0&channel=kw%255E%2523%255Ec2F0" target="_blank" class="green">SAT</a>最后刷分成功，简直不仅能增加晒朋友圈的机会，更能让大家都给你点赞，有意志力的人不能轻易得罪哒！总之特别符合有梦想才能赢的主流人生观。
+		</div>
+		<img src="images/p_7.png" alt="" class=""/>
+		<img src="images/p_8.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			俗话说眼不见心不烦，你以为爸妈想天天在你耳边念叨么？想当年他们也是青葱岁月小清新啊！就当是孝敬父母也好，趁早还他们一个二人世界，说不定越过那厚厚的雾霾，以往的坏毛病都成为他们惦念你的理由。不过得注意假期回家的时候，净重不要长太多，免得破坏距离美。
+		</div>
+		<img src="images/p_9.png" alt="" class=""/>
+		<img src="images/p_10.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			经验告诉我们，不<a href="http://mp.weixin.qq.com/s?__biz=MjM5NjE5Mjk2MA==&mid=206446740&idx=1&sn=f54ca031befc142759ad92c753e6bbe8#rd" target="_blank" class="yellow">背单词</a>时间也会莫名消失——反正不会用在优化GPA上。无非就是用来看和吐槽新的网络神剧，或者逛淘宝买下一些和模特照片相去甚远的衣服。不过需要避免学习中无意识的进食，不然又要多花一些时间去抱怨最近又胖了。
+		</div>
+		<img src="images/p_11.png" alt="" class=""/>
+		<img src="images/p_12.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			无聊的校园生活千篇一律，连想要尝试开始谈个恋爱的最低准入人选都没有呢。为了给早晨从被窝里爬起来上课找个动力，适当地定个高冷的人生目标还是需要的，比如三年后的<a href="http://310179.m.weimob.com/weisite/detail?_tj_twtype=2&_tj_pid=310179&_tt=1&_tj_graphicid=7501340&_tj_title=%E3%80%902015%E3%80%91%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%A7%E5%AD%A6%EF%BC%9A%E7%88%BD%E6%9C%97%E5%A5%B3%E7%94%9F%E6%83%85%E7%B3%BB%E5%93%A5%E5%A4%A7%2C%E2%80%9C%E6%9C%89%E6%83%85%E4%BA%BA%E7%BB%88%E6%88%90%E7%9C%B7%E5%B1%9E%E2%80%9D&_tj_keywords=mg5&did=1587101&bid=484136&pid=310179&wechatid=owADTjiW8TGIIYoh-N8H_jkDgdG0&channel=kw%255E%2523%255EbWc1" target="_blank" class="green">哥大</a>才是我的归宿，万一实现了呐。
+		</div>
+		<img src="images/p_13.png" alt="" class=""/>
+		<img src="images/p_14.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			虽说聪明人才能被名校录取，但是还有那么多辍学的呢！反正聪明人在哪儿都是聪明，而有些人一申请就暴露出了水平，还不如不留学有个借口呢……“不暴露高中的偷懒程度”可能会成为不想留学的重要原因。
+		</div>
+		<img src="images/p_15.png" alt="" class=""/>
+		<img src="images/p_16.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			留学可不是一两万就能搞定啊，现在还想着用奖学金搞定学费，风险恐怕比风投高。保险一点的话，留学机构得找吧？时间也是钱啊，来不及提分的话一对一<a href="http://310179.m.weimob.com/weisite/detail?_tj_twtype=2&_tj_pid=310179&_tt=1&_tj_graphicid=8704537&_tj_title=%E5%A4%A9%E9%81%93%E6%8E%A8%E8%8D%90%EF%BC%9AN%E4%B8%AA%E7%95%99%E5%AD%A6%E6%B5%B7%E5%A4%96%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE%E8%AF%95%E7%82%BC%E5%9C%BA%21&_tj_keywords=sx&did=1891185&bid=484136&pid=310179&wechatid=owADTjg9Nlbuo1dDzkI5NFzlH0RE&channel=kw%255E%2523%255Ec3g%3D" target="_blank" class="c">活动和海外经历</a>了。不过转念一想，不花钱自己默默准备留学，很多人也是坚持不下来的啊！
+		</div>
+		<img src="images/p_17.png" alt="" class=""/>
+		<img src="images/p_18.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			不留学的时候，中华儿女是一家，大家都吃着烤串，在考试前熬着夜。然而一旦你留学了，很可能你就再也无法融入周围的氛围了，跨国恋也不能轻易谈了！回家的时候也更容易受到阿姨们的关注，当然也不确定人家是不是等着你出国帮忙带东西啦。所以，留学简直和旅行一样，是感情试金石啊！
+		</div>
+		<img src="images/p_19.png" alt="" class=""/>
+		<img src="images/p_20.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			本来是想要留学，结果认识了人格魅力爆表的<a href="http://tiandaoedu.com/lxcp/team/" target="_blank" class="c">留学顾问</a>恋爱了……这倒是说不定能省掉一笔咨询费哦，而且不用担心出国找对象的问题。但更多的可能是误入莫名其妙的歧途——比如本来想准备做题，结果开始看起新一轮更新的美剧；本来想脱网去咖啡店看书，结果买了点心吃撑开始犯困，最后陷入“我一开始要干吗来着”的沉思。
+		</div>
+		<img src="images/p_21.png" alt="" class=""/>
+		<img src="images/p_22.png" alt="" class="mt20"/>
+		<div class="txt txt1">
+			你可能会提高抗病毒，抗霾，抗地沟油，抗路怒症等各项能力。知识哪里都可以学，但这种体质只有中国才能炼成！做人不能忘本，不能在成为超人后，抛弃祖国对自己的培养啊！此外，无论是叫混乱还是活跃，现在全地球还是中国最热闹，在中国不寂寞哦！
+		</div>
+		<img src="images/p_23.png" alt="" class=""/>
+		<div class="down">
+			<div class="share">
+				<div class="s1">
+					<a href="javascript:;" target="_blank">
+						<img src="images/s1.png" alt="" />
+						<em class="counts">20</em>
+						<span class="tip">请稍后再来！</span>
+					</a>
+				</div>
+				<div class="s2 show-navigations">
+					<a  href="javascript:;" target="_blank">
+						<img src="images/s2.png" alt="" />
+					</a>
+				</div>
+			</div>
+			<div class="bg">
+				<p>围观天道<strong><a href="http://mp.weixin.qq.com/s?__biz=MjM5NjE5Mjk2MA==&mid=206710329&idx=2&sn=1c5ffdd690cee5f06ad20ca23156b4ba#rd" target="_blank">本科OFFER</a></strong> ></p>
+				<p>我要去受刺激，你们都<strong>biè</strong>拦着我！</p>
+			</div>
+		</div>
+	</div>
+	<div class="sharess">
+		
+	</div>
+	<div class="menu-wrapper-background"></div>
+	<script type="text/javascript">
+		(function($){
+			var index=0;
+			$(".s1").on("tap",function(){
+				if(index == 0){
+					var count=$(".counts").text();
+					$(".counts").html(Number(count)+1);
+					index++;
+				}else{
+					$(".tip").show();
+					setTimeout(function(){
+						$(".tip").hide();
+					},1500);
+				}
+			});
+			
+			 //Top Menu 
+				$('.show-navigations').click(function(){
+					//$('.menu-top').toggleClass('show-menus');
+					changePhone();
+					changePc();
+					$('.menu-wrapper-background').fadeIn(250);
+					$(".sharess").fadeIn(250);
+					$(this).css("color","#fff661");
+					return false;
+				});
+				function changePhone(){
+					//分享居中
+					var W=$(".sharess").outerWidth(true),
+						H=$(".sharess").outerHeight(true),
+						WW=screen.width,
+						HH=screen.height,
+						cW=((WW-W)/2),
+						cH=((HH-H)/2);
+					$(".sharess").css({"left":cW+"px","bottom":cH+"px"});
+				}
+				function changePc(){
+					var W=$(".sharess").outerWidth(true),
+						H=$(".sharess").outerHeight(true),
+						WW=document.documentElement.clientWidth ||　document.body.clientWidth,
+						HH=document.documentElement.clientHeight ||　document.body.clientHeight,
+						cW=((WW-W)/2),
+						cH=((HH-H)/2);
+					$(".sharess").css({"left":cW+"px","bottom":cH+"px"});
+				}
+				$(window).resize(function(){
+					changePc();
+				});
+				$('.close-menu, .menu-wrapper-background').click(function(){
+					$('.menu-top').toggleClass('show-menus');
+					$('.menu-wrapper-background').fadeOut(250);
+					$(".sharess").fadeOut(250);
+					$(".show-navigations").css("color","#fff");
+					return false;
+				});
+		}(jQuery));
+	</script>	
+</body>
+</html>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面-检测是否已被注册过</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+<style type="text/css">
+	.myClass {
+		padding-bottom: 4em;
+	}
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBoxs">
+		<!-- 邮箱，手机重置密码01  -->
+		<section class="sectionBox section5">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>注册</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="myClass myZl myxb phoness_zh phoness_yjzc">
+				<!-- <p class="tit tc">手机号码<span class="green">185*****710</span>已经被注册!</p> -->
+				<dl class="tb">
+					<dt class="tc"><img src="images/tt.png" alt="" /></dt>
+					<dd>
+						<p>韩梅梅</p>
+						<p>echo.qin@tiandaoedu.com</p>
+					</dd>
+				</dl>
+				<p class="td_p">这个天道账号是你的吗？</p>
+				<p class="sure"><a href="注册登录.html">是我的，直接登录</a></p>
+				<p class="sure"><a href="设置密码.html">不是我的，注册新账号</a></p>
+			</div>
+		</section>
+
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

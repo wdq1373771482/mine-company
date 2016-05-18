@@ -1,0 +1,58 @@
+#gallery{
+	margin-bottom:30px;
+}
+
+.gallery{
+	width:100%;
+	padding:0px;
+	background:#fff;
+}
+
+.gallery:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+.gallery li { list-style: none!important; float: left; width: 24.333333%; transition:all 200ms ease;margin-left:2px;}
+.gallery li a { display: block; margin: 10px; margin-bottom:5px!important;}
+.gallery li img { border-radius:500px; display: block; width: 96%;margin:0 auto; }
+.gallery_1{padding-bottom:10px;overflow:hidden;}
+.gallery_1 li a > p{font-size:0.9em!important;color:#2a2a2a;}
+.gallery_2 li { list-style: none!important; float: left; width:48.333333%; transition:all 200ms ease;margin-left:4px;}
+.gallery_2 li a{display: block; margin: 10px 10px 10px 20px; margin-bottom:5px!important;}
+@media (min-width:768px) and (orientation:landscape){
+	.gallery li { list-style: none!important; float: left; /* width: 16.5%; */ transition:all 200ms ease; }
+}
+
+@media (min-width:768px) and (orientation:portrait){
+	.gallery li { list-style: none!important; float: left; width: 25%; transition:all 200ms ease; }
+	.gallery{margin-left:-1%!important;}
+}
+
+.square-thumb li img{
+	border-radius:0px!important;
+}
+
+.round-thumb li img{
+	border-radius:500px;
+}
+.gallery_2{padding:3% 1%;}
+.gallery_2 img{border-radius:0!important;}
+.gallery li a{
+	font-size:1.25em;
+	text-align:center;
+}
+.gallery_3{width:94%;margin:10px auto 20px auto;}
+.gallery_3 li a{display: block; margin-bottom:5px!important;text-align:inherit;color:#888;}
+.gallery_3 li a{
+	margin:0;
+}
+.gallery_3 li p{
+	margin:0;
+	padding:3px 4px;
+}
+.swipebox {
+  overflow: hidden!important;
+}
+
+.swipebox div{
+	overflow:visible!important;
+}
+
+

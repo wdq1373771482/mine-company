@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, input, textarea, select {margin:0;padding:0;box-sizing: border-box;}
+html{height:100%;}
+body{color:#707070;font-family:微软雅黑,'Heiti SC',黑体,Arial;}
+ol,ul,li{list-style:none outside none;}
+a{text-decoration:none;color:inherit;}
+img{border:none;vertical-align:middle;max-width:100%;}
+table{border-collapse:collapse;}
+tr,td,th{padding:0;margin:0;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;color:#474747;line-height:120%;}
+input,textarea,select,button{border:1px solid #CCC;font-family:微软雅黑,'Heiti SC',黑体,Arial;padding:0;margin:0;}
+
+/*--类--*/
+.clear{clear:both;overflow:hidden;}
+.left{float:left;}
+.right{float:right;}
+
+@media screen and (min-width:540px){
+	/* body{width:540px;}
+	header{width:540px;} */
+}
+@media screen and (max-width:320px){
+	body{width:320px;}
+	header{width:320px;}
+	.list li a > img{
+		display:block;
+		margin:0 auto;
+		width:60px;
+		height:60px;
+	}
+}
+body{margin:0 auto!important;}
+.list li{
+	float:left;
+	width:22%;
+	margin:2% 1.5%;
+}
+.tit img{
+	width:100%;
+}
+.list li a p{
+	text-align:center;
+	line-height:2em;
+	border:1px solid #ddd;
+	border-radius:5px;
+	font-size:0.8em;
+	margin-top:0.5em;
+	position:relative;
+}
+.list li a img{
+	display:block;
+	margin:0 auto;
+}
+.list a p em{
+	display:block;
+	position:absolute;
+	top:-5px;
+	left: 50%;
+    margin-left: -5%;
+	
+}
+
+@media (device-height:480px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone4/4s */
+	.list li{
+		margin:2.4% 1.5%;
+	}
+}
+@media (device-height:568px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone5 */
+	.list li{
+		margin:5% 1.5%;
+	}
+}
+@media (device-height:667px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone6 */
+
+    .list li{
+		margin:3% 1.5%;
+	}
+	.list li a p {
+		font-size: 0.96em;
+	}
+
+}
+
+@media (device-height:736px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone6 Plus */
+
+   .list li{
+		margin:6% 1.5%;
+	}
+	.list li a p {
+		font-size: 0.96em;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

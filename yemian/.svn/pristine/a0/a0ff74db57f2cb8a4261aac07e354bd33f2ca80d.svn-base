@@ -1,0 +1,164 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端-宾夕法尼亚大学</title>
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+
+</head>
+<body class="body2"> 
+	<!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<h2>宾夕法尼亚</h2>
+		<a href="tel:400-012-0038" class="header-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="javascript:;" class="header-navigation hhhBtn"><i class="fa show-navigations"></i></a>
+	</div>
+	<div class="h43"></div>
+	<div class="container">
+		<dl class="dl1">
+			<dt class="thumb-left fl"><img src="images/b.png" alt="img"></dt>
+			<dd class="fl">
+				<strong>宾夕法尼亚大学</strong><span>University of Pennsylvania</span>
+			</dd>
+		</dl>
+		<p class="p11"><span>N同学</span><a href="http://m.tiandaoedu.com/cgal/197430.html" target="_blank">幸运女孩情人节的最好礼物</a></p>
+		<div class="mt20 down">
+			<p><span class="lans">基本成绩：</span>南京大学 对外汉语专业  GPA 4.29 ; TOEFL 104 ; GRE 314</p>
+			<p><span class="lans">录取学校：</span>宾夕法尼亚大学，范德堡大学，罗彻斯特大学</p>
+			<p><span class="lans">加入天道时间：</span>2014年9月    <span class="lans">获得录取时间：</span>2015年2月</p>
+		</div>
+	</div>
+	<div class="conts contss">
+		
+		<h2 class="titName">TA为什么会成功？</h2>
+		<ul class="gallery round-thumb gallery_2 mt10 mb20" style="overflow: hidden;" id="">
+			<li>
+				<img src="images/b1.png" alt="img">
+				<p>经历丰富</p>
+			</li>
+			<li>
+				<img src="images/b2.png" alt="img">
+				<p>成绩优秀</p>
+			</li>
+			<li>
+				<img src="images/b3.png" alt="img">
+				<p>特色文书</p>
+			</li>
+		</ul>
+		<h2 class="titName">案例分析</h2>
+		<div class="allTxt1 allTxt1111">
+		    <div class="container no-bottom" style="padding-bottom:0;">
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/rz.png" alt="img"></dt>
+		        	<dd>
+						<p>
+							
+							相对于其他文科项目申请来说，TESOL项目比较特殊的地方在于需要做WES认证，而这个认证取得成功最关键的一点在于学生能够及时和我们配合并提供需要的材料。N同学当时正忙着准备语言考试，时间十分紧张，但还是抽出宝贵的时间来准备相关材料。最终在语言考试结束之后，我们及时给宾大寄去了N同学WES的认证材料。
+			
+						</p>
+					</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/sx.png" alt="img"></dt>
+		        	<dd>
+						 <p>
+							
+
+							在沟通中，我们很快发现N同学比较缺乏相关的实习经历。N同学本科学的是对外汉语专业，在大学期间参加的活动比较单一，并且与TESOL项目没有太大的关系。因此在我们的建议下，N同学找到了一份比较相关的实习，尽力提升了申请背景。此外，N同学并没有令人满意的语言分数。
+
+
+						</p>
+		        	</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/ws.png" alt="img"></dt>
+		        	<dd>
+		                <p>
+							
+
+我们发现N同学在大学期间用自己的一套教学法帮助过美国同学学习中文，提高了教学技巧。便建议她在文书创作中彰显这一独特经历，并将职业目标与前面的motivation完美衔接起来：不仅仅要做一个英语老师，更是要做一名国际教育者，把英语教学带给世界上更多需要的人。最终N同学在我们天道的帮助下成功创作了一份既对美国大学胃口的优秀文书。
+
+						</p>
+		        	</dd>
+		        </dl>
+			   </div>
+		    </div>
+			<h2 class="titName">案例分析</h2>
+			<div class="dBox mb20">
+			<h2 class="lan lann">N同学录取信</h2>
+			<div class="txt tPic">
+				<img src="images/bw.png" alt="" />
+			</div>
+			<h2 class="lan mt20 lann">天道往年录取数据</h2>
+			<div class="txt1">
+				<div class="tPic"><img src="images/bd.png" alt="" /></div>
+				<div class="mt20 link">
+					<p class="lan">更多宾大案例</p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/179382.html" target="_blank"> 决心在教育领域发展的申请者</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/180069.html" target="_blank"> 低GPA 低TOEFL 也能入名校</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/179456.html" target="_blank"> 找准方向 冲入常春藤</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/170038.html" target="_blank"> 胸有成竹，胜券在握</a></p>
+				</div>
+			</div>
+			</div>
+	</div>
+	 <div class="header-clears"></div>
+	<script type="text/javascript" src="scripts/footer.js"></script>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/daxue.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

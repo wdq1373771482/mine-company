@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面-邮箱重置密码</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBoxs">
+		<!-- 邮箱重置密码 -->
+		<section class="section section5">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>邮箱重置密码</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="succeBox">
+				<div class="myClass myZl pb2 yzsucce1">
+					<div class="phoness pb2 pb0">
+						<form action="" class="form_dls">
+							<p><input type="" placeholder="输入邮箱地址" class="emailAdd"/><i>x</i></p>
+							<p class="care careEmail">！邮箱不存在（邮箱格式输入有误）</p>
+						</form>
+						<p class="yz_suc">已向你的邮件发送验证邮件，你可登陆邮箱，完成验证</p>
+					</div>
+					<p class="sure sureBtnss_suc"><a href="javascript:;">确定</a></p>
+				</div>	
+			</div>
+		</section>
+
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			var	emailReg2 = /^([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/;
+			$(".emailAdd").focus(function(){
+				$(this).addClass("focus");
+			}).keydown(function(){
+				var _that=$(this);
+				_that.next().show();
+				_that.next().on("click",function(){
+					_that.val("");
+					$(this).hide();
+				});
+			}).blur(function(){
+				$(this).removeClass("focus");
+			});
+			//邮箱重置密码
+				$(".sureBtnss_suc").on("click",function(){
+					var emailVal=$(".emailAdd").val();
+					if(!emailReg2.test(emailVal)){
+						$(".careEmail").show();
+					}else{
+						$(".careEmail").hide();
+						$(".yz_suc").show();
+						//验证成功
+						/*setTimeout(function(){
+							$(".yzsucce2").fadeIn();
+							$(".yzsucce1").fadeOut();
+							
+						},2000);*/
+						window.location.href="邮箱验证.html";
+					}
+				});
+		});
+	
+	</script>
+</body>
+</html>

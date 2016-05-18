@@ -1,0 +1,13 @@
+.gbxq{margin:2em 1em;}
+p.bor{border-bottom:1px solid #dcdcdc;font-size:1.4em;color:#696969;line-height:3em;}
+.txt{padding:1em 0;}
+.txt p{font-size:1.25em;}
+.txt strong{font-size:1.25em;line-height:4em;}
+.pp{color:#888}
+.ind{text-indent:24px;}
+.down p{color:#ff9999;}
+.down p a{color:#3399d4;}
+.f69{color:#696969;}
+@media(max-width:375px){
+	p.bor{padding-bottom:10px;line-height:2;}
+}

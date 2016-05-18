@@ -1,0 +1,214 @@
+[{
+		"categoryHierarchy" : 1,
+		"categoryName" : "ACT",
+		"categoryParentId" : "0",
+		"categoryStatus" : 2,
+		"children" : [{
+				"categoryHierarchy" : 2,
+				"categoryName" : "ACT TPO",
+				"categoryParentId" : "09d27b10-eb8d-4f7c-8fa3-4ef6f0622830",
+				"categoryStatus" : 2,
+				"children" : [{
+						"categoryHierarchy" : 3,
+						"categoryName" : "阅读",
+						"categoryParentId" : "4d009d4a-ada3-4631-b41c-8f3745129264",
+						"categoryStatus" : 2,
+						"id" : "0a2dfc93-7c1a-4c6a-95ac-f73bf07799e0"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "科学/数学",
+						"categoryParentId" : "4d009d4a-ada3-4631-b41c-8f3745129264",
+						"categoryStatus" : 2,
+						"id" : "85caaec4-09b7-45f0-916e-e1888ca8aa46"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "英文",
+						"categoryParentId" : "4d009d4a-ada3-4631-b41c-8f3745129264",
+						"categoryStatus" : 2,
+						"id" : "b9ea6ee8-d542-4427-86bd-d29b4041cd45"
+					}
+				],
+				"id" : "4d009d4a-ada3-4631-b41c-8f3745129264"
+			}
+		],
+		"id" : "09d27b10-eb8d-4f7c-8fa3-4ef6f0622830"
+	}, {
+		"categoryHierarchy" : 1,
+		"categoryName" : "托福",
+		"categoryParentId" : "0",
+		"categoryStatus" : 2,
+		"children" : [{
+				"categoryHierarchy" : 2,
+				"categoryName" : "托福TPO",
+				"categoryParentId" : "74ad6247-6ab0-4f2c-bcff-05c44aec9499",
+				"categoryStatus" : 2,
+				"children" : [{
+						"categoryHierarchy" : 3,
+						"categoryName" : "词汇",
+						"categoryParentId" : "5751e964-dc32-4f3c-a241-50a8b5a21653",
+						"categoryStatus" : 2,
+						"id" : "5bd54bfa-c1a6-4e80-8b0d-5b7674f4ac09"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "阅读",
+						"categoryParentId" : "5751e964-dc32-4f3c-a241-50a8b5a21653",
+						"categoryStatus" : 2,
+						"id" : "67986a55-188f-4f96-a535-3e6664d84b59"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "写作",
+						"categoryParentId" : "5751e964-dc32-4f3c-a241-50a8b5a21653",
+						"categoryStatus" : 2,
+						"id" : "7041fc36-0d1c-4c37-8cea-f16a61404af2"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "口语",
+						"categoryParentId" : "5751e964-dc32-4f3c-a241-50a8b5a21653",
+						"categoryStatus" : 2,
+						"id" : "759b8832-c41f-49a1-91f6-1f8a4df9d82c"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "听力",
+						"categoryParentId" : "5751e964-dc32-4f3c-a241-50a8b5a21653",
+						"categoryStatus" : 2,
+						"id" : "ef771287-b6fc-475c-b471-62a660bbb6e9"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "语法",
+						"categoryParentId" : "5751e964-dc32-4f3c-a241-50a8b5a21653",
+						"categoryStatus" : 2,
+						"id" : "fee2b745-7b6a-485d-9865-d63ca256984e"
+					}
+				],
+				"id" : "5751e964-dc32-4f3c-a241-50a8b5a21653"
+			}
+		],
+		"id" : "74ad6247-6ab0-4f2c-bcff-05c44aec9499"
+	}, {
+		"categoryHierarchy" : 1,
+		"categoryName" : "GRE",
+		"categoryParentId" : "0",
+		"categoryStatus" : 2,
+		"children" : [{
+				"categoryHierarchy" : 2,
+				"categoryName" : "GRE OG讲解",
+				"categoryParentId" : "a660001a-cd78-45de-be6a-80dcba8cf598",
+				"categoryStatus" : 2,
+				"children" : [{
+						"categoryHierarchy" : 3,
+						"categoryName" : "数学",
+						"categoryParentId" : "589666dc-cfe2-4727-88bc-ba332a5ae454",
+						"categoryStatus" : 2,
+						"id" : "233c36d2-b748-4ffa-b264-a039fbf7669a"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "填空",
+						"categoryParentId" : "589666dc-cfe2-4727-88bc-ba332a5ae454",
+						"categoryStatus" : 2,
+						"id" : "2bb615b4-111a-4ab0-b14e-461ba8c6813e"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "写作",
+						"categoryParentId" : "589666dc-cfe2-4727-88bc-ba332a5ae454",
+						"categoryStatus" : 2,
+						"id" : "59277044-bfa2-41b5-8836-d68f43104f2c"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "阅读",
+						"categoryParentId" : "589666dc-cfe2-4727-88bc-ba332a5ae454",
+						"categoryStatus" : 2,
+						"id" : "c759bf2e-aa93-4c80-87c3-a0cbdc965e58"
+					}
+				],
+				"id" : "589666dc-cfe2-4727-88bc-ba332a5ae454"
+			}
+		],
+		"id" : "a660001a-cd78-45de-be6a-80dcba8cf598"
+	}, {
+		"categoryHierarchy" : 1,
+		"categoryName" : "SAT",
+		"categoryParentId" : "0",
+		"categoryStatus" : 2,
+		"children" : [{
+				"categoryHierarchy" : 2,
+				"categoryName" : "SAT I TPO",
+				"categoryParentId" : "ba5b6c36-fc03-4096-b9d2-402aaf193a90",
+				"categoryStatus" : 2,
+				"children" : [{
+						"categoryHierarchy" : 3,
+						"categoryName" : "阅读",
+						"categoryParentId" : "5ebecad0-ed98-485e-86a7-58e014b48de1",
+						"categoryStatus" : 2,
+						"id" : "b01df433-6e5d-47aa-b901-2f7d576e8deb"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "填空",
+						"categoryParentId" : "5ebecad0-ed98-485e-86a7-58e014b48de1",
+						"categoryStatus" : 2,
+						"id" : "b623b0db-0767-41f4-83bd-cdda29c60e10"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "语法",
+						"categoryParentId" : "5ebecad0-ed98-485e-86a7-58e014b48de1",
+						"categoryStatus" : 2,
+						"id" : "e483d688-b8a9-4602-9c10-4dbeda2a6ade"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "写作",
+						"categoryParentId" : "5ebecad0-ed98-485e-86a7-58e014b48de1",
+						"categoryStatus" : 2,
+						"id" : "efdc4bf7-bf86-47da-b4f1-f58c2836c68c"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "SAT II",
+						"categoryParentId" : "5ebecad0-ed98-485e-86a7-58e014b48de1",
+						"categoryStatus" : 2,
+						"id" : "fe7d1616-7061-4795-9dde-1238227568ff"
+					}
+				],
+				"id" : "5ebecad0-ed98-485e-86a7-58e014b48de1"
+			}
+		],
+		"id" : "ba5b6c36-fc03-4096-b9d2-402aaf193a90"
+	}, {
+		"categoryHierarchy" : 1,
+		"categoryName" : "GMAT",
+		"categoryParentId" : "0",
+		"categoryStatus" : 2,
+		"children" : [{
+				"categoryHierarchy" : 2,
+				"categoryName" : "GMAT OG讲解",
+				"categoryParentId" : "cfd89bf4-556e-4fbe-b8ca-2d110c9ae089",
+				"categoryStatus" : 2,
+				"children" : [{
+						"categoryHierarchy" : 3,
+						"categoryName" : "写作",
+						"categoryParentId" : "40fa3be6-510f-403a-9bde-3e056138a6c1",
+						"categoryStatus" : 2,
+						"id" : "0a3a4f47-0fe0-4fb4-8b72-520493916ad0"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "逻辑",
+						"categoryParentId" : "40fa3be6-510f-403a-9bde-3e056138a6c1",
+						"categoryStatus" : 2,
+						"id" : "33d2d8d9-c67f-4ace-9a0a-91bfd87a7613"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "语法",
+						"categoryParentId" : "40fa3be6-510f-403a-9bde-3e056138a6c1",
+						"categoryStatus" : 2,
+						"id" : "752de35b-ca07-473f-afd5-0a31181756c6"
+					}, {
+						"categoryHierarchy" : 3,
+						"categoryName" : "阅读",
+						"categoryParentId" : "40fa3be6-510f-403a-9bde-3e056138a6c1",
+						"categoryStatus" : 2,
+						"id" : "b5757624-c7a0-4e7b-83aa-e71488dfbd2e"
+					}
+				],
+				"id" : "40fa3be6-510f-403a-9bde-3e056138a6c1"
+			}
+		],
+		"id" : "cfd89bf4-556e-4fbe-b8ca-2d110c9ae089"
+	}
+]

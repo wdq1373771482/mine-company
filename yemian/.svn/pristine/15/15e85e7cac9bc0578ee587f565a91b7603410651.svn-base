@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>注册成功页面</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body> 
+	<script type="text/javascript" src="js/head.js"></script>
+	<article>
+		<img src="images/img01.png" style="margin-bottom:1.5rem;">
+		<section class="p2"></section>
+		<a href="#"><p class="inp">领 取</p></a>
+		<p class="zhu">注："零花钱"为天道在线课堂虚拟货币形式，不具有现金流通价值。</p>
+	</article>
+</body>
+</html>

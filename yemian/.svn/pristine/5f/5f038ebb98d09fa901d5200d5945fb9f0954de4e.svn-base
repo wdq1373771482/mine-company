@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端-达特茅斯学院</title>
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+
+</head>
+<body class="body2"> 
+	  <!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<h2>达特茅斯学院</h2>
+		<a href="tel:400-012-0038" class="header-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="javascript:;" class="header-navigation hhhBtn"><i class="fa show-navigations"></i></a>
+	</div>
+	<div class="h43"></div>
+	<div class="container">
+		<dl class="dl1">
+			<dt class="thumb-left fl"><img src="images/ds.png" alt="img"></dt>
+			<dd class="fl">
+				<strong>达特茅斯学院</strong><span>Dartmouth College</span>
+			</dd>
+		</dl>
+		<p class="p11"><span>C同学</span><a href="http://m.tiandaoedu.com/cgal/197461.html" target="_blank">踏实稳重 用信任获得名校录取</a></p>
+		<div class="mt20 down">
+			<p><span class="lans">基本成绩：</span>上海交通大学密西根学院 机械工程   GPA 3.42, G155+170+4.0, T109</p>
+			<p><span class="lans">录取学校：</span>达特茅斯学院，杜克大学，罗切斯特大学</p>
+			<p><span class="lans">加入天道时间：</span>2014年11月   <span class="lans">获得录取时间：</span>2015 年2月</p>
+		</div>
+	</div>
+	<div class="conts contss">
+		
+		<h2 class="titName">TA为什么会成功？</h2>
+		<ul class="gallery round-thumb gallery_2 mt10 mb20" style="overflow: hidden;" id="">
+			<li>
+				<img src="images/ds1.png" alt="img">
+				<p>美式教学背景</p>
+			</li>
+			<li>
+				<img src="images/ds2.png" alt="img">
+				<p>科研优秀</p>
+			</li>
+			<li>
+				<img src="images/ds3.png" alt="img">
+				<p>大牛推荐人</p>
+			</li>
+		</ul>
+		<h2 class="titName">案例分析</h2>
+		<div class="allTxt1 allTxt1111">
+		    <div class="container no-bottom" style="padding-bottom:0;">
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/ky.png" alt="img"></dt>
+		        	<dd>
+						<p>
+							
+							大二的寒假，F同学参加了CFL美国寒假项目。在项目过程中，使F同学印象深刻的一点是在MIT透过玻璃墙看到了他们大一新生工作的实验室，比起F同学们学院的各年级通用的实验室设备精良了太多，这是F同学最直观地感到美国教育科研条件优异的经历。
+				
+						</p>
+					</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/bj.png" alt="img"></dt>
+		        	<dd>
+						 <p>
+				
+
+							在头脑风暴环节，学院环境对F同学的出国留学决定起到了很大影响。在本科阶段，F同学们就经历着全英文教学，美国式的学院制度，接触着许多有美国背景的名师，接受着大量美国留学的信息。而在这样的过程中，F同学也切身体会到了美国在许多研究领域有着不可否认的优势。可以说F同学具备了出国留学很好的基础条件，并且也有很多闪亮点。这些都让F同学的出国留学申请充满了无限可能。
+
+
+			
+						</p>
+		        	</dd>
+		        </dl>
+		        <dl>
+		        	<dt class="thumb-left"><img src="images/tjr.png" alt="img"></dt>
+		        	<dd>
+		                <p>
+当然在工程领域也曾经有人激励过F同学。第一个是斯坦福的一位医学研究人员，他发明了纸质的廉价显微镜，使之适用于医疗条件差的地区的疟疾检查，以挽救更多人的生命;第二个就是在器材缺乏的情况下修筑防波堤对抗台风的英雄人物，他们忍耐着艰苦的工作和生活环境坚守自己的岗位为国家做贡献。最后这两位大牛级人物都为F同学写了推荐信，为她的的申请成功做了很大贡献。
+							
+						</p>
+		        	</dd>
+		        </dl>
+			   </div>
+		    </div>
+			<h2 class="titName">案例分析</h2>
+			<div class="dBox mb20">
+			<h2 class="lan lann">F同学录取信</h2>
+			<div class="txt tPic">
+				<img src="images/dsw.png" alt="" />
+			</div>
+			<h2 class="lan mt20 lann">天道往年录取数据</h2>
+			<div class="txt1">
+				<div class="tPic"><img src="images/dsd.png" alt="" /></div>
+				<div class="mt20 link">
+					<p class="lan">更多普大案例</p> 
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/177096.html" target="_blank"> 常春藤，原来离我这么近</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/136143.html" target="_blank"> 帮女孩去发现她的新大陆</a></p>
+					<p><span>·</span><a href="http://m.tiandaoedu.com/cgal/102570.html" target="_blank"> 数学爱好者的华丽转身</a></p>
+				</div>
+			</div>
+			</div>
+	</div>
+	<div class="header-clears"></div>
+	<script type="text/javascript" src="scripts/footer.js"></script>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+					<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/daxue.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

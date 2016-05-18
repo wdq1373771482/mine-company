@@ -1,0 +1,274 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<title>移动端界面_考试服务like</title>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+<link href="styles/framework.css" rel="stylesheet" type="text/css">
+<link href="styles/owl.theme.css" rel="stylesheet" type="text/css">
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link href="styles/font-awesome.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<a href="tel:400-019-0038" class="header-navigation show-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="#" class="header-navigation show-navigation hhh"><i class="fa fa-share-alt show-navigations"></i></a>
+	</div>
+	<div class="header-clear"></div>
+	<div class="list_succ">
+		<ul class="list_1 clearfix">
+			<li>按考试</li>                                              
+			<li>按目标</li>
+			<li>按地点</li>
+			<li>按人群</li>
+		</ul>
+	</div>
+	<div class="licont">
+		<ul>
+			<li><a href="javascript:;">全部</a></li>
+			<li><a href="#">SAT</a></li>
+			<li><a href="#">雅思</a></li>
+			<li><a href="#">托福</a></li>
+			<li><a href="#">GRE</a></li>
+			<li><a href="#">ACT</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">词汇</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="javascript:;">更早</a></li>
+		</ul>
+		<ul>
+			<li><a href="javascript:;">全部</a></li>
+			<li><a href="#">SAT</a></li>
+			<li><a href="#">雅思</a></li>
+			<li><a href="#">托福</a></li>
+			<li><a href="#">GRE</a></li>
+			<li><a href="#">ACT</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">词汇</a></li>
+			<li><a href="#">综合英语</i></a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</i></a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="javascript:;">更早</a></li>
+		</ul>
+		<ul>
+			<li><a href="javascript:;">全部</a></li>
+			<li><a href="#">SAT</a></li>
+			<li><a href="#">雅思</a></li>
+			<li><a href="#">托福</a></li>
+			<li><a href="#">GRE</a></li>
+			<li><a href="#">ACT</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">词汇</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="javascript:;">更早</a></li>
+		</ul>
+		<ul>
+			<li><a href="javascript:;">全部</a></li>
+			<li><a href="#">SAT</a></li>
+			<li><a href="#">雅思</a></li>
+			<li><a href="#">托福</a></li>
+			<li><a href="#">GRE</a></li>
+			<li><a href="#">ACT</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">词汇</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="#">SSAT</a></li>
+			<li><a href="#">综合英语</a></li>
+			<li><a href="javascript:;">更早</a></li>
+		</ul>
+	</div>
+	<!--banner-->
+	<div class="cont_ksfw">
+		<div class="slider-container">
+			<span class="cx"></span>
+			<div class="homepage-slider" data-snap-ignore="true">                
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+			</div>
+		</div>
+		<div class="xq_1 ksfw" >
+			<div class="content-heading w100">
+				<h3>
+					<a href="#" target="_blank">SAT2000分尊贵5人班</a>
+				</h3>
+				<ul class="ksxq clearfix">
+					<li class="li1">SAT </li>
+					<li class="li2">冲刺段 </li>
+					<li class="li3">北京/上海/武汉</li>
+					<li class="li4">报名即开</li>
+				</ul>
+			</div>
+			<p class="txt3">适合学生短时间内迅速提升成绩的精品小班课程；其中SAT精品词汇18课时、SAT阅读24课时、SAT语法18课时、SAT写作18课时及SAT数学6课时。</p>
+		</div>
+	</div>
+	<div class="cont_ksfw">
+		<div class="slider-container">
+			<span class="cx"></span>
+			<div class="homepage-slider" data-snap-ignore="true">                
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+				<div>
+					<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+				</div>
+			</div>
+		</div>
+		<div class="xq_1 ksfw">
+			<div class="content-heading w100">
+				<h3>
+					<a href="#" target="_blank">SAT2000分尊贵5人班</a>
+				</h3>
+				<ul class="ksxq clearfix">
+					<li class="li1">SAT </li>
+					<li class="li2">冲刺段 </li>
+					<li class="li3">北京/上海/武汉</li>
+					<li class="li4">报名即开</li>
+				</ul>
+			</div>
+			<p class="txt3">适合学生短时间内迅速提升成绩的精品小班课程；其中SAT精品词汇18课时、SAT阅读24课时、SAT语法18课时、SAT写作18课时及SAT数学6课时。</p>
+		</div>
+	</div>
+	<p class="addMore addMore_ame"></p>
+	<div class="header-clears"></div>
+	<div class="footer" id="footer">
+	    <ul>
+	    	<li class="li_1 curPage"><a href="index.html"></a><p>主页</p></li>
+	    	<li class="li_2"><a href="#"></a><p>发现</p></li>
+	    </ul>
+	</div>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"><p>朋友圈</p></a>
+						<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"><p>微信</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+						<a href="#" class="bds_copy" data-cmd="" title="分享到复制网址"><p>复制网址</p></a>
+					<!-- 	<a href="#" class="bds_more" data-cmd="more"></a> -->
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	<div class="menu-wrapper-background"></div>
+
+	<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/framework.plugins.js"></script>
+	<script type="text/javascript" src="scripts/custom.js"></script>
+	<script type="text/javascript">
+		(function ($) {
+			$(".footer li").on("tap",function(){
+				var index = $(this).index();	
+				$(this).addClass("curPage").siblings().removeClass("curPage");
+			});
+			
+			$(".list_1 li").on("tap",function(e){
+				 e.stopPropagation();
+			});
+			$(".list_1  li").on("tap",function(){
+				var ind=$(this).index();
+				$(this).addClass("cur1").siblings().removeClass();
+				$(".licont ul").eq(ind).slideDown().siblings().slideUp();
+				$(".licont li").on("tap",function(){
+					var text=$(this).text();
+					var that=$(this);
+					$(this).css("background","#fefefe");
+					$(this).parent().find("a").css("color","#888");
+					$(this).find("a").css("color","#ffb269");
+					$(this).parent().slideUp(function(){
+						that.css("background","#fff");
+					});
+					$(".list_1  li").each(function(){
+						var _this=$(this);
+						if(_this.hasClass("cur1")){
+							_this.html(text);
+						}
+					});
+				});
+			});
+			$(".licont li:last").off("tap");
+			$("div.cont_ksfw:last").css("marginBottom",0);
+		})(jQuery);
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

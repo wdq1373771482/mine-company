@@ -1,0 +1,149 @@
+
+/*艺术导师页面开始*/
+.c1{padding: 0!important;}
+.teach_art{font-size: 26px; color: #5e5e5e; font-family: 微软雅黑; font-weight: 400; margin: 45px 0; margin-left: -30px;}
+.teach_name{font-family: 微软雅黑; font-weight: 400!important; font-style: normal; font-size: 24px!important; color: #6b6b6b!important; display: inline-block!important; padding-top: 70px!important;}
+.f1{float: left;}
+.teach_jieshao{margin-right: 10px;}
+.blog-posts .post{background-color: #F8F8F8!important;}
+.blog-posts .post article p{color: #6b6b6b!important; font-size: 14px!important; /* margin-bottom: 44px; */ line-height: 20px; font-family: 微软雅黑;}
+.blog-posts .post article .inp a{width: 90px; height: 32px; border: 2px solid #b6b6b6; display: inline-block; margin-right: 20px; font-size: 13px; color: #000; text-align: center; line-height: 28px;}
+i{margin-right: 10px;}
+.xh_ysds h3{margin-bottom:30px!important;}
+.xh_ds .col-md-6{overflow:hidden;}
+.xh_pad{padding:0 30px;}
+.inps{margin-top:45px!important;}
+.flexslider4{margin-bottom:0;}
+.xh_ds .teach_name{padding-top:50px!important}
+@media(min-width:800px){
+  .blog-posts .post article{
+    width: 345px!important;
+    padding: 0 20px!important;
+  }
+}
+@media(max-width:1000px){
+  .teach_art{font-size: 26px; color: #5e5e5e; font-family: 微软雅黑; font-weight: 400; margin: 45px 0;}
+}
+@media(max-width:400px){
+    .blog-posts .post article .inp a{
+        margin-right: 10px;
+    }
+}
+@media only screen and (max-width: 1200px) and (min-width:990px){
+    .blog-posts .post article{
+        width: 255px!important;
+        padding: 0 20px!important;
+     }
+     .blog-posts .post article p{
+        margin-bottom: 31px!important;
+     }
+}
+@media only screen and (max-width: 570px) and (min-width:480px){
+    .blog-posts .post article p{
+        margin-bottom: 31px!important;
+     }
+     .blog-posts .post article .inp a{
+        margin-right: 16px!important;
+     }
+}
+/*艺术导师页面结束*/
+
+/*导师详情页面开始*/
+.name{font-size: 24px; color: #6b6b6b; margin-right: 15px; font-family: 微软雅黑;}
+.guanzhu{width: 45px; height: 28px; margin-left: 5px;}
+i{margin-right: 10px;}
+.teach_jieshao{margin-right: 10px; font-size: 14px; font-family: 微软雅黑;}
+.p1{margin-bottom: 30px!important; margin-right: 10px; font-size: 14px!important; font-family: 微软雅黑;}
+.p2{text-indent: 2em;}
+.inp{text-align: center;}
+.inp a{width: 90px; height: 32px; border: 2px solid #b6b6b6; display: inline-block; margin-right: 90px; font-size: 13px; color: #000; text-align: center; line-height: 28px;}
+.succ_spl{font-family: 微软雅黑; color: #6b6b6b; font-size: 16px!important; padding-top: 10px; border-bottom: 1px solid #ddd; padding-bottom: 5px;}
+.agent-contact li{border-bottom: 1px dashed #ccc; padding-bottom: 15px; text-align: center;}
+.flex-viewport{height: auto;}
+.slides{height: 100%;}
+.slides li{height: 100%;}
+.flexslider4{background:none;border:none;}
+.flexslider4 .slides img{max-width:100%!important;}
+
+.flexslider4 .flex-direction-nav a{
+	top:45%;
+}
+@media only screen and (max-width: 1200px) and (min-width:990px){
+.team-single p{line-height: 20px!important;}
+.p1{margin-bottom: 18px!important;}
+}
+@media(min-width:990px){
+/*#slider{width: 300px!important;}
+ .succ_spl{width: 300px;} */
+.agent-contact li{width: 280px;}
+}
+@media only screen and (max-width: 990px) and (min-width:770px){
+.p1{margin-bottom: 16px!important;}
+}
+@media(max-width:320px){
+.inp a{margin-right: 30px;}
+.p1{margin-bottom: 10px!important;}
+.teach_jieshao{margin-right: 5px;}
+}
+/*导师详情页面结束*/
+
+/*作品集培训详情页结束*/
+i{margin-right: 5px;}
+.peixun{font-size: 13px; padding: 20px;}
+.peixun span{margin-right: 20px;}
+.peixun2{font-size: 28px; padding-left: 18px;}
+.peixun3{padding-left: 75px; padding-bottom: 0;}
+.btn{font-size: 20px;}
+.inp{text-align: center;margin:72px 0 0 0}
+h3{font-size: 18px; color: #5e5e5e; padding: 20px;}
+.shihe{margin:15px 0;}
+.shihe p{font-size: 14px; color: #5e5e5e; padding: 0 45px;}
+.shihe ul{overflow: hidden;}
+.shihe ul li{float: left; padding: 0 22px;}
+.shihe ul li img{margin-left: 22px; display: block;}
+.shihe ul li span{font-size: 16px; text-align: center; display: inline-block; padding: 20px 0; line-height: 30px;}
+.li1{padding-left: 60px!important;}
+.more{font-size: 13px!important; color: #333!important; text-align: right; padding: 20px!important;}
+ol li{text-align: center; padding-bottom: 30px;}
+ol li p{font-size: 14px;}
+ol li img{padding-bottom: 10px;}
+.img-responsive{display: initial;}
+.wdq_sm li{padding: 10px 20px; background: #fff;}
+.wdq_box{padding-bottom:15px;background: #fff;}
+.xh_comment_btn{max-width:300px;}
+.xh_color h3 i{color:#999;}
+.xh_peixun3 span i{width:15px;text-align:center;display:inline-block;}
+@media(min-width: 992px){
+    .col-md-8{width: 65%; margin-right: 19px;}
+}
+@media(max-width: 1200px){
+    .col-md-8{width: 100%;}
+    .col-md-4{width: 100%;}
+    .wdq_sm li{float: left; width: 30.3333333%!important; margin-top: 20px;}
+    .wdq_wb{margin-left: 4.5%; margin-right: 4.5%;}
+}
+@media(max-width: 390px){
+    .wdq_sm li{width: 100%!important;}
+}
+@media(min-width: 1200px){
+    .col-md-4{padding-right: 0!important;}
+    .col-md-8{padding-right: 0!important;}
+    .a{padding-right: 0!important}
+}
+@media only screen and (max-width: 990px) and (min-width:710px){
+    .shihe ul li{padding: 0 10px;}
+}
+@media(max-width: 710px){
+    .shihe ul li{float: inherit; text-align: center;}
+    .shihe ul li img{display: inline-block; vertical-align: top;}
+    .shihe ul li{padding: 10px 0!important;}
+}
+@media(max-width: 480px){
+    .btn{padding: 10px 15px;}
+    .peixun3{padding-left: 20px;}
+}
+@media(min-width: 1200px){
+    .wdq_sm li{float: left; width: 115px!important; height: 115px; margin-right: 20px; margin-top: 20px;}
+    .wdq_sm .wdq_fb{margin-right: 0;}
+    .more2{padding-top: 0!important;}
+/*作品集培训详情页结束*/

@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>安全验证-手机短信验证</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBoxs">
+		<!-- 手机重置 -->
+		<section class="section section4">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>注册</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="zc_box">
+				<div class="zc_1 zc_11 phone_11">
+					<div class="phoness phoness_zh phoness_zh111">
+						<p class="tit">为了保护账号安全，需要验证手机有效性</p>
+						<p class="phoneNumTip">点击发送短信按钮，将会发送一条有验证码的短信至手机
+<span class="green">185******10</span></p>
+					</div>
+					<p class="sure next2"><a href="手机短信验证2.html">发送短信</a></p>
+					<p class="changeOther"><a href="手机短信验证3.html">返回</a></p>
+				</div>
+			</div> 
+			<!-- <div class="zc_box">
+				<div class="zc_1 zc_11 phone_11">
+					<div class="phoness">
+						<form action="" class="form_dls">
+							<p><input type="" placeholder="请输入手机号" class="phoneNum"/><i>x</i></p>
+							<p class="care">!手机号码已存在</p>
+							<p class="p_2 clearfix p_22"><em class="yzm"><input type="" placeholder="验证码" class="check"/><i class="checkXh">x</i></em><span class="checkss">获取短信验证码</span><span class="tip">60秒后重新发送</span></p>
+							<p><input type="password" placeholder="请输入新密码" class="pwd"/><i>x</i></p>
+						</form>
+					</div>
+					<p class="sure mt20 sureBtns"><a href="#">确定</a></p>
+				</div>
+				<div class="zc_1 zc_12 phone_12">
+					<div class="myClass">
+						<p class="tc mt20"><img src="images/yj_succe.png" alt="" /></p>
+						<h2 class="tc mt20">提交成功</h2>
+					</div>
+				</div>
+			</div> -->
+		</section>
+
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

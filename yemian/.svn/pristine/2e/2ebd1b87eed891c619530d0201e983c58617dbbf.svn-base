@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0,user-scalable=no;"/>
+<title>做你留学申请路上的蓝胖子</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<!--JS部分-->
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/TweenMax.min.js"></script>
+<!-- <script language="javascript" src="js/audio.min.js"></script> -->
+<script src="js/main.js" language="javascript"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+</head>
+<body>
+<div class="music"><img id="bottomBgImg" src="images/open.png"/></div>
+<div class="page">
+  <ul class="pageUl">
+    <li class="li_1">
+      <div class="maiBox">
+		<!-- 左边眼睛 -->
+		   <div class="main">
+			<div class="round1">
+				<div class="round2">
+				  <div class="round7">
+					 <div class="round3"></div>
+				  </div>   
+				</div>
+				
+			</div>
+		  </div>
+		  <!-- 右边的眼睛 -->
+		  <div class="main1">
+			<div class="main1">
+			<div class="round4">
+			  <div class="round5">
+			  
+				  <div class="round8">  <div class="round6"></div></div>
+				
+			  </div>
+		   </div>
+		  </div>
+		  </div>
+	  </div>
+      <div><img class="next" style="position:absolute;bottom:6px;left:50%;margin-left:-38px;z-index:5;" src="images/arr.png"/></div>     
+    </li>
+    <li class="li_2">
+      <div class="titleDom"><img class="title" src="images/p_1.png"/></div>
+	  <div class="b2"><img class="titleBg titleBg2" src="images/p_2.png"/></div>
+      <div class="bottomContent bottomContent2"><img src="images/p_3.png"/></div>
+	</li>
+    <li class="li_3">
+      <div class="titleDom titleDom3"><img class="title" src="images/p_4.png"/></div>
+      <div class="bottomContent bottomContent3"><img src="images/p_5.png"/></div>
+      <a href="#"><img class="p3" src="images/p_6.png"/></a>
+	</li>
+  
+  </ul>
+
+</div>
+<script type="text/javascript">
+	$(function(){
+		$(".p3").on("click",function(){
+			window.location.href="question.html";
+		});
+		
+		$.setShare = function(opts,pageid){
+		var host = window.location.host;
+		var wxdatas = $.extend({
+			  title: "做你留学申请上的蓝胖子",
+			  desc: "小伙伴们为哥大八卦操碎了心，教授&面试官想找你聊聊",
+			  link: "http://wap.tiandaoedu.com/topic/dlam/index.html",
+			  imgUrl: "http://wap.tiandaoedu.com/topic/dlam/images/p_27.png",
+			  trigger: function (res) {
+			  },
+			  success: function (res) {
+				//alert('已分享');
+				window.location.href="http://www.wenjuan.com/s/QrmeAn/";
+			  },
+			  cancel: function (res) {
+				//alert('已取消');
+			  },
+			  fail: function (res) {
+				//alert(JSON.stringify(res));
+			  }
+			},opts);
+		wx.onMenuShareAppMessage(wxdatas);
+		wx.onMenuShareTimeline(wxdatas);
+		wx.onMenuShareQQ(wxdatas);
+		wx.onMenuShareWeibo(wxdatas);
+	}
+	});
+</script>
+</body>
+</html>
+

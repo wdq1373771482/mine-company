@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面-工具 - 时间规划</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/gjsjgh.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="工具.html"><i class="fa"></i></a> 
+	    <h2>时间规划</h2>
+		<a href="30步DIY.html" class="a_r"><img src="images/icon.png" alt="" /></a>
+	</div>
+	<div class="h43"></div>
+	<div class="bd">
+		<h2 class="mt10 mb20">留学第 1 步  时间规划</h2>
+		<i class="green tc">A good beginning is half the battle. </i>
+		<p class="mt20">申请美国留学的时机是指根据美国院校招生的要求，审核录取的时间，根据不同考生的条件和心理而进行美国院校入学时间的确定，留学途径的选择，成功申请到理想院校的最佳时间。申请美国留学最佳时期之美国顶尖名校“3”早申请启动(早期决定申请ED，早期申请EA，早期绑定申请EA-single choice)。</p>
+		<p class="mt20">众所周知，美国常春藤盟校及麻省理工，加州理工等世界排名前100的大学及美国顶尖高中。申请的截止日期最早每年11月初，最晚12月中旬，而接受申请的日期早在每年7,8月份就开始了，每年5月大部分学生都需要做第二轮学校的筛选，第n次文书的的修改，最后语言准备的冲刺。这时候还没有准备的同学，已经输在起跑线。</p>
+	</div>
+	<div class="txt2">
+		<div class="lv">
+			<p class="strong mb20">今天的任务：</p>
+			<p class="tc tit">制定一张属于自己的留学时间规划表</p>
+			<p class="btn mt20 mb20"><a href="#">时间规划表</a></p>
+			<p>显示产品描述显示产品描述显示产品描述显示产品描述显示产品描述显示产品描述显示产品描述显示产品描述显示产品描述显示产品描述</p>
+		</div>
+	</div>
+	<div class="down">
+		<h2>拆解小任务</h2>
+		<ul class="list1">
+			<li>语言考试一考，二考和三考的时间<!-- <i class="fr on"></i> --></li>
+			<li>暑假时间安排（具体到周）<!-- <i class="fr"></i> --></li>
+			<li>感兴趣的学校申请截止日调查<!-- <i class="fr"></i> --></li>
+			<li>每天的固定留学准备时间长度和安排<!-- <i class="fr"></i> --></li>
+		</ul>
+	</div>
+	<div class="down down2">
+		<h2>可能适合你的知识点</h2>
+		<ul class="list1">
+			<li><a href="#">美国留学研究生时间点分析</a></li>
+			<li><a href="#">英国商科申请早规划</a></li>
+			<li><a href="#">加拿大留学申请时间管理</a></li>
+			<li><a href="#">澳大利亚留学：关于时间规划</a></li>
+		</ul>
+	</div>
+	<p class="d_tit"><a href="javascript:;">完成任务</a></p>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?e9b1d6d81df83a6af9e328d0705ec432";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?9cbc6afe6436ce82c91f48d408a143e3";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+	<script type="text/javascript">
+		$(function(){
+			$(".list1 li").on("click",function(){
+				if($(this).find("i").hasClass("on")){
+					$(this).find("i").removeClass("on");
+				}else{
+					$(this).find("i").addClass("on");
+				}
+			});
+		});
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

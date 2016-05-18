@@ -1,0 +1,329 @@
+.header a:first-child i{
+	/* position:static; */
+}
+/* 设置 */
+.p_1 span{
+	color:#fff!important;
+}
+p b{
+	font-weight: normal;
+    margin-right: 0.5em;
+    color: #999;
+    font-size: 0.9em;
+}
+.xq_1sss li span{
+	margin-right:0.5em;
+}
+.clear{
+	width:200px;
+	height:90px;
+	padding:1em;
+	background:#fff;
+	position:absolute;
+	text-align:center;
+	display:none;
+	z-index:9999999;
+}
+.clear p.confirm{
+	color:#272727;
+	font-size:1.5em;
+}
+.confirms p:last-child{
+	color:#999;
+	font-size:1.5em;
+	margin:1em 0;
+}
+.clear span{
+	display:block;
+	line-height:2em;
+	width:90px;
+	float:left;
+	background:#eee;
+	text-align:center;
+	margin:0 0.275em;
+}
+.clear span:last-child{
+	background:#30bbfa;
+	color:#fff;
+}
+.black{
+	opacity: 0.76;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 999999;
+	display: none;
+}
+.clear.suress{
+	display: none;
+	color:#272727;
+	font-size:1.5em;
+	line-height:90px;
+}
+/* 意见反馈 */
+.pl{padding-left:1em;}
+.textarea{
+	resize:none;
+	padding:2%;
+	border:1px solid #eee;
+	color:#999;
+	font-size:1.25em;
+	font-family:"微软雅黑"; 
+	height:250px;
+	display: block;
+    width: 96%;
+	border:0;
+}
+.submit{
+	color:#fff;
+	line-height:50px;
+	background:#40c69e;
+	margin:0 auto;
+	font-size:1.5em;
+}
+.w92{
+	margin:1em auto;
+	width: 92%;
+}
+.w92 a{
+	color:#fff;
+}
+.down_cont,.loginBox{position:relative;}
+.yj_down,.myZls{
+	display:none;
+	position:absolute;
+	width:100%;
+}
+.myZls1{
+	display:block;
+	background:#fff;
+}
+.yj_down1{
+	display:block;
+	background:transparent;
+}
+.myZls1{
+	position:static;
+	    padding-top: 1em;
+}
+.phone_11{position:absolute;}
+.btnssss{
+	position:absolute;
+	/* top:160px; */
+	width:100%;
+}
+/* 登录 */
+.header a.dh.dl_zc{
+	right:0.7em;
+	top: 21px;
+	height:auto;
+	line-height:0;
+    font-size: 1em;
+	width:auto;
+}
+.btn_dl img{
+/* 	height:18px; */
+	margin-top: 3px;
+}
+.btn_dl a{
+	padding:0.5em 0!important;
+	line-height:1em!important;
+}
+.btn_dl{
+	width:290px;
+}
+.btn_dl span{margin:0 15px;}
+.bd_login{
+	padding:1em;
+	/* background:#fff; */
+}
+.bd_login input{
+	width:100%;
+	border:1px solid #eee;
+	line-height:50px;
+	font-family:"微软雅黑";
+	font-size:1.25em;
+	text-indent:0.6em;
+}
+.bd_login input::-webkit-input-placeholder { /* WebKit browsers */
+    color:b7b7b7;
+}
+.bd_login input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:b7b7b7;
+}
+.bd_login input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:b7b7b7;
+}
+.bd_login input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:#b7b7b7;
+}
+.loginBtn{/* width:100%; */}
+.loginBtn1{
+	margin-top:1em;
+	padding:0;
+}
+.tips{
+	color:#ff857a;
+	display:none;
+}
+.wj_pwd a{
+	color:#999;
+	font-size:1em;
+}
+.popar{
+	display:block;
+	height:25px;
+}
+.sf_dl img{
+	width:100%;
+}
+.sf{
+	margin-top:3em;
+	padding-bottom: 1em;
+}
+.form_dl p{
+	position:relative;
+}
+.form_dl p i{
+	position: absolute;
+	top: 0.5em;
+	right: 0.5em;
+	font-size: 2em;
+	color: #b7b7b7;
+	display:none;
+}
+input:focus{
+	border:1px solid #3bbcf6;
+}
+input.rong{
+	border:1px solid #ff857a;
+}
+/* 手机重置密码 */
+p.xieyi {
+	font-size:1.2em;
+	color:#999;
+	padding:0 1em;
+}
+.xieyi a{
+	color:#30bbfa;
+}
+.zc_box{
+	position:relative;
+}
+.zc_1{
+	position:absolute;
+	display:none;
+	width:100%;
+}
+.zc_11{
+	display:block;
+}
+.care{
+	color:#ff857a;
+	display:none;
+	margin:0!important;
+	line-height:0;
+}
+.care_yz,.careEmail{
+	line-height:2em;
+}
+.phone form p{
+	position:relative;
+}
+.form_dls p{
+	position:relative;
+	/* margin:1.5em 0; */
+}
+.form_dls p i{
+	position: absolute;
+	top: 0.6em;
+	right: 0.2em;
+	font-size: 2em;
+	color: #b7b7b7;
+	display:none;
+}
+.yzm{
+	display:block;
+	width:46%;
+	float:left;
+	position:relative;
+}
+.phoness_zh2 .yzm{
+	width:45%;
+	margin-right:12px;
+}
+.yzm input{width:100%;}
+i.checkXh{
+	position:absolute;
+	top:0.6em;
+	right:0.2em!important;
+}
+/* 邮箱重置密码 */
+.pb0{
+ 	padding-bottom:0em; 
+	padding-top:2em;
+}
+.yz_suc,.yz_succe{
+	font-size:1.4em;
+	color:#b7b7b7;
+	display:none;
+	
+}
+.yz_suc{
+	display:block;
+	font-size:1.25em;
+	margin-top:20px;
+}
+.yz_succe{
+	display:block;
+	font-size:1.7em;
+	color:#999;
+	font-family:"微软雅黑"
+}
+.sureBtnss{
+	margin-top:0;
+	
+}
+.succeBox{
+	position:relative;
+}
+.succeBox .myClass{
+	position:absolute;
+	background:#fff;
+	width:100%;
+	display:none;
+
+}
+.succeBox .myClass.yzsucce1{
+	display:block;
+	padding-bottom:1em;
+	padding-top:0;
+}
+
+/* 选择手机，邮箱注册方式 */
+.sureBtns_email,.sureBtns_phone{
+	margin-top:5em;
+}
+
+/* 设置密码 */
+.myZls1 p.tit{
+	color:#999;
+}
+p.tit2{
+	color:#333!important;
+}
+/* email */
+.phoness_em{padding-top:0!important;}
+.phoness_em .yz_succe {margin-bottom:1em;}
+@media(max-width:320px){
+	.myZls1 p.tit,.phoness_yjzc .tit{
+		color:#999;
+		font-size:1.4em!important;
+	}
+	.w92{
+		margin-top:1em;
+	}
+}
+
+

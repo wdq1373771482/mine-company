@@ -1,0 +1,260 @@
+body{
+	background:#d8f8fe;
+	/* Firefox 3.6+ */
+	background: -moz-linear-gradient(top, #d8f8fe 0.5%, #fff);
+	/* Safari 4-5, Chrome 1-9 */
+	/* -webkit-gradient(,  [, ]?,  [, ]? [, ]*) */
+	background: -webkit-gradient(linear,top,from(#d8f8fe 0.5%),to(#fff));
+	/* Safari 5.1+, Chrome 10+ */
+	background: -webkit-linear-gradient(top, #d8f8fe 0.5%, #fff);
+	/* Opera 11.10+ */
+	background: -o-linear-gradient(top, #d8f8fe 0.5%, #fff);
+}
+.header{
+	background:#839fb4;
+	height:62px;
+	width:100%;
+	min-width:320px;
+}
+.right a {
+    color: #2b4655;
+    font-size: 1.5rem;
+    background: url(../images/ic1.png) no-repeat 0 center;
+    padding-left: 2rem;
+	font-weight:normal;
+}
+.logo{
+	margin-top:4px;
+	z-index: 23;
+	position: absolute;
+}
+.logo img{
+	height:26px;
+}
+.icons{
+	background:#839fb4;
+	z-index:22;
+	width:100%;
+}
+.icons a{
+	padding:0 2.5rem;
+	color:#2b4655;
+	font-size:1.6rem;
+}
+.right{
+	float:right;
+}
+.shareBtn,.wo{
+	margin-top:1.4rem;
+	float:left;
+}
+.shareBtn a:first-child{
+	background:url(../images/share.png) no-repeat left center;
+	background-size:24% auto;
+	margin-right: 1rem;
+}
+.wo a:last-child{
+	background:url(../images/peo.png) no-repeat left center;
+	background-size:35% auto;
+	
+}
+.bg{
+	position: relative;
+	margin-top:3rem;
+}
+.cloud-icon {
+	position: absolute;
+	left: 24%;
+	top: 0;
+}
+.cloud-icon1 {
+	position: absolute;
+	top: 30%;
+	right: 18%;
+}
+.cloud-icon2 {
+	position: absolute;
+	top: 117%;
+	left: 9%;
+}
+.bg img{
+	max-width:100%;
+	display:block;
+	margin:0 auto
+}
+.content{
+	min-width:320px;
+	margin-top:0rem;
+}
+.content a{
+	position:relative;
+	display:inline-block;
+}
+.content em,.listBox em{
+	color:#6b6b6b;
+	font-size:2rem;
+	font-style:normal;
+	position:absolute;
+	left:15px;
+	top:0;
+	font-family:"微软雅黑";
+	z-index:1;
+	display:block;
+}
+.aasss1{
+	padding-right:0!important;
+}
+.mt15{
+	margin-top:1.5rem;
+}
+.ml15{
+	margin-left:1.5rem;
+}
+.aasss a{
+	width:100%;
+}
+.aass a img{
+	padding:0;
+}
+.aass a img,.aasss a img{
+	width:100%!important;
+	margin:0 auto;
+}
+.iconss li{
+	float:left;
+}
+.iconss span{
+	display:block;
+	margin:0 auto;
+	width:52px;
+	height:45px;
+	overflow:hidden;
+	background:url(../images/icon.png) no-repeat;
+	margin:0rem auto 0rem auto;
+}
+.iconss li{
+	width:50%;
+}
+.iconss li a{
+	display:inline-block;
+	width:100%;
+	height:100%;
+}
+.iconss li p{
+	width:100%;
+	color:#fff;
+	text-align:center;
+	font-size:1.8rem;
+}
+.iconss li.li_1{
+	background:#08416e;
+}
+.iconss li.li_1 span{
+	background-position:-6px 0;
+}
+.iconss ul{
+	padding-left:0;
+}
+.iconss li.li_2,.iconss li.li_3{
+	background:#5dbde3;
+}
+.iconss li.li_4{
+	background:#4ba7ce;
+}
+.iconss li.li_2 span{
+	background-position:0 -57px;
+	width:65px
+}
+.iconss li.li_3 span{
+	background-position:center -112px;
+}
+.iconss li.li_4 span{
+	background-position:center -156px;
+}
+.am-u-md-6_1 a{
+	display:inline-block;
+	float:left;
+	width:50%;
+}
+.listBox{
+	color:#fff;
+	position:relative;
+	background:#2eb859 url(../images/s8.png) no-repeat right bottom;
+	background-size:152px 136px;
+}
+.listBox h1 a{
+	font-weight:normal;
+	margin-top:1rem;
+	color:#fff;
+}
+.nei{
+	padding:2rem 2rem 0 2rem;
+	margin:0 auto;
+}
+.p1{
+	/* line-height:0; */
+	font-size:1.3rem;
+}
+.pl,.list1{
+	padding-left:2rem;
+}
+.list1 li{
+	float:left;
+	width:50%;
+}
+.list1 li{
+	color:#fff;	
+	font-size:1.3rem;
+}
+.more a{
+	color:#fff;
+	margin:5rem 2rem;
+	background:#259f4b;
+	padding:0.2rem 0.4rem;
+	font-size:1.3rem;
+}
+.listBox2{
+	background:#54d0f6 url(../images/s9.png) no-repeat right bottom;
+	background-size:152px 136px;
+}
+.listBox2 .more a{
+	background:#44abca;
+}
+footer a,footer a:hover{
+	line-height:4rem;
+	background:#fd9840;
+	color:#fff;
+	font-size:2rem;
+	display:block;
+}
+.amss{
+	margin-top:0;
+}
+.pr{
+	padding-right:0;
+}
+.bd_weixin_popup_foot{
+	MARGIN-TOP: -15px;
+	text-align: center!important;
+}
+@media(max-width:320px){
+	.p1,.list1,.listBox h1{padding-left:0;}
+}
+@media(max-width:640px){
+	.amss{
+		margin-top:1.6rem;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

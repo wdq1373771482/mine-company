@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>登陆_个人中心_天道教育</title>
+<meta name="keywords" content="登陆"/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="css/wo.css"/> -->
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+<style type="text/css">
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBox">
+		<!-- 登录 -->
+		<section class="sectionBox section3 active">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>登录</h2>
+				<a href="注册.html" class="dh dl_zc">注册</a>
+			</div>
+			<div class="h43"></div>
+			<div class="loginBox">
+				<div class="myZls myZls1">
+					<div class="bd_login">
+						<form action="" class="form_dl">
+							<p><input type="text" placeholder="手机/邮箱/用户名" class="loginName"/><i>x</i></p>
+							<p class="mb20 tip_rong"><span class="tips tips1">！邮箱格式错误</span></p>
+							<p><input type="password" placeholder="密码" class="loginPwd" data-index="1"/><i>x</i></p>
+							<p class="mb20 tip_rong"><span class="tips tips2">！账号密码错误</span></p>	
+						</form>
+						<p class="popar"><span class="fr wj_pwd"><a href="找回密码.html">忘记密码</a></span></p>
+						<p class="tc loginBtn loginBtn1"><a href="#">登录</a></p>
+					</div>
+					<div class="sf">
+						<p class="sf_dl tc"><img src="images/s.png" alt="" /></p>
+						<p class="mt20 btnss clearfix btn_dl">
+							<span class="fl qq_dl"><a href="#"><img src="images/qq1.png" alt="" /></a></span>
+							<span class="fl xl_dl"><a href="#"><img src="images/wx.png" alt="" /></a></span>
+							<span class="fl xl_dl"><a href="#"><img src="images/xl1.png" alt="" /></a></span>
+						</p>
+					</div>
+				</div>
+				<div class="myZls myZls2">
+					<div class="myClass">
+						<p class="tc mt20"><img src="images/yj_succe.png" alt="" /></p>
+						<h2 class="tc mt20">登录成功</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$(".span_2").on("click",function(){
+				if($(this).find("em").hasClass("fl")){
+					$(this).addClass("on");
+					$(this).find("em").removeClass().addClass("fr");
+				}else{
+					$(this).removeClass("on");
+					$(this).find("em").removeClass().addClass("fl");
+				}
+			});
+			
+			//登录注册
+			var phoneReg1 =/^(0|86|17951)?(13[0-9]|15[012356789]|17[678]|18[0-9]|14[57])[0-9]{8}$/;
+			var	emailReg2 = /^([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/;
+			var pwdReg3=/\S/;
+			$(".loginName,.loginPwd").focus(function(){
+				//
+			}).keydown(function(){
+				var _that=$(this);
+				_that.next().show();
+				_that.next().on("click",function(){
+					_that.val("");
+					$(this).hide();
+					_that.parent().next().find(".tips").hide();
+				});
+			}).blur(function(){
+				var loginName = $(this).val();
+				var index=$(this).data("index");
+				if(index == 1){//匹配密码
+					if(loginName == ""){  
+						$(this).addClass("rong");
+						$(this).parent().next().removeClass("mb20").find(".tips").show().html("！请输入您的密码");
+					}else{
+						if(pwdReg3.test(loginName)){
+							$(this).removeClass("rong");
+							$(this).parent().next().addClass("mb20").find(".tips").hide();
+							$(this).parent().find("i").hide();
+							//点击登录
+							$(".loginBtn").on("click",function(){
+								$(".myZls1").fadeOut();
+								$(".myZls2").fadeIn();
+							});
+						}else{
+							$(this).addClass("rong");
+							$(this).parent().next().removeClass("mb20").find(".tips").show();
+						}
+					}
+				}else{
+					if(loginName == ""){  //用户名为空
+						$(this).addClass("rong");
+						$(this).parent().next().removeClass("mb20").find(".tips").show().html("！请输入手机/邮箱/用户名");
+					}else{
+						if(phoneReg1.test(loginName) || emailReg2.test(loginName)){
+							$(this).removeClass("rong");
+							$(this).parent().next().addClass("mb20").find(".tips").hide();
+							$(this).parent().find("i").hide();
+							//点击登录
+							/*$(".loginBtn").on("click",function(){
+								$(".myZls1").fadeOut();
+								$(".myZls2").fadeIn();
+							});*/
+						}else{
+							$(this).addClass("rong");
+							$(this).parent().next().removeClass("mb20").find(".tips").show().html("！账号名称格式错误");
+						}
+					}
+				}
+			});
+		});
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Cache-control" content="max-age=1700" />
+<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0"/>
+<meta name="MobileOptimized" content="240"/>
+
+<title>天道留学免费评估系统_天道工具_天道教育</title>
+<meta name="keywords" content="免费美国留学评估,免费英国留学评估,免费加拿大留学评估,免费新加坡留学评估
+"/>
+<meta name="description" content="天道留学免费评估系统为您提供免费美国留学评估,免费英国留学评估,免费加拿大留学评估,免费新加坡留学评估等,天道留学评估师通过您递交的留学意向,个人信息以及背景资料为您量身定制留学方案,助您成功留学!"/>
+<link href="css/base.css" rel="stylesheet" type="text/css" />
+<link href="css/body.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://img.tiandaoedu.com/index/2012/js/jquery.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/shoujigbk.js"></script>
+<script type="text/javascript">
+  $(function(){
+	  $(".qDiv span").click(function(){
+		 $(this).siblings().slideDown()
+		 $(this).parents(".qDiv").addClass("current")
+		 $(this).addClass("current1")
+		 $(this).parents(".qDiv").siblings().children("p").slideUp()
+		 $(this).parents(".qDiv").siblings().removeClass("current")
+		 $(this).parents(".qDiv").siblings().children("span").removeClass("current1")
+		  });
+		  /*鼠标滑过*/
+		  $(".qDiv").bind('mouseover',function(){
+		     $(this).addClass("current_hover");
+		  }).bind('mouseout',function(){
+		     $(this).removeClass("current_hover");
+		  });
+		  /*下拉聚焦黑色字体*/
+		  $('.mkbd form select').focus(function(){
+		    $(this).addClass('on');
+		  });
+		  
+		  
+		/*检验验证码 */
+		$("#checkcode").blur(function(){
+			var checkcode=$("#checkcode").val();
+				if($.trim(checkcode)!=""){
+						$.post("/getCheckCode.php","checkcode="+checkcode,function(msg){
+							 if(msg=="no"){	 
+								 alert("验证码错误，请重新获取！");
+								 passcode = 'no';
+							 }
+							 if(msg=='yes'){
+								 passcode = 'yes';
+							 }
+						});
+				}	 
+			});
+	  })
+
+</script>
+</head>
+
+<body>
+<div class="header clearfix">
+	<a href="#"><i class="fa"></i></a> 
+	<h2>留学评估</h2>
+	<a href="tel:400-012-0038" class="a_r a_rs a_rssss">400-012-0038</a>
+</div>
+<div class="h43"></div>
+<div class="top">
+  <!-- <a class="mag">天道教育</a> -->
+  <img src="images/topbg_01.jpg" alt="" />
+</div>
+<div class="mainBody mag">
+  <div class="faq mag">
+    <div class="faq_tit yh"><p>留学评估FAQ</p></div>
+  </div>
+  <div class="qDiv yh">
+    <span>1、获取留学评估需要花钱吗?</span>
+	<p>不需要哦，天道在线留学评估是为留学人提供的免费服务。</p>
+  </div>
+  <div class="qDiv yh">
+    <span>2、免费留学评估包含哪些方面?</span>
+	<p>简单来说，留学评估包含了您关注的所有方面。首先，天道专业顾问会根据您提供的信息与留学意向有针对性地进行建议，同时我们会根据标准流程，从留学时间规划，申请专业方向，学校备选单以及留学准备各环节，全方位为您提供解决方案。如果您还有其他补充疑问，我们也会尽可能详尽地为您解答。</p>
+  </div>
+  <div class="qDiv yh">
+    <span>3、天道留学评估有什么优势?</span>
+	<p>天道顾问团队有着十年业界领先的留学申请经验，并建立了精准细分的数据库。我们不仅对于留学趋势与标准有着最敏锐的把握，同时采取多对一的服务模式。我们会派出该领域专攻的老师为您评估，用最人性化，个性化的留学评估方案为您的留学路指明方向。</p>
+  </div>
+  <div class="qDiv yh">
+    <span>4、我的个人信息有哪些用途?</span>
+	<p>您的个人信息将用于在沟通评估结果环节与您取得联系，同时寄送免费的留学与备考资料。请放心，我们有义务对您的资料保密，不会向任何第三方透露客户的相关信息。</p>
+  </div>
+  <div class="qDiv yh">
+    <span>5、顾问老师会主动和我联系吗?</span>
+	<p>会的，因为在线提交的人数较多，顾问老师需要进行排期和准备，以便为您提供最好的评估服务。我们将在您提交评估表格的2-3个工作日内为您做出全面评估，请耐心等待哟。</p>
+  </div>
+  <div class="qDiv yh">
+    <span>6、为什么需要填写这些背景信息?</span>
+	<p>正如医生需要进行全方位的检查，才能开出准确的处方一样，您的申请条件与背景信息越详细，我们能出具的评估结果才越准确。请注意，如果您的个人信息填写不全无法取得联系，或背景资料空白，我们将无法为您进行有效评估哦。</p>
+  </div>
+  <div class="mkbd">
+    <div class="mk_tit"><p class="yh">留学评估预约</p></div>
+	<form method="post" action="http://tiandaoedu.com/plus/pinggu.php?ac=server" onsubmit="return refer();">
+	   <ul>
+	     <li><label><span>*</span>姓&nbsp;名：</label><input class="text"  name="name"  id="mk_name" type="text" /></li>
+		 <li><label><span>*</span>手&nbsp;机：</label><input class="text"  name="nm_lx_tel"  id="nm_lx_tel" type="text" /></li>
+		 <li id='showinput'>
+		<label><span>*</span>验证码:</label><input name="tel_yzm" id="checkcode"  type="text" class="text2" onblur="chcode();" />
+				           <input type="button" class="button"  id="getCheckCode"  value="获取验证码" onclick="getCheckPhoneCode();"/></li>
+		 <li><label><span style="padding-right:10px">*</span>Email：</label><input class="text" name="email"  id="mk_email" type="text" /></li>
+		 <li><label>Q&nbsp;Q：</label><input class="text"  name="qq" type="text"  id= "mk_qq" /></li>
+		 <li><label style="width:102px"><span>*</span>留学国家：</label>
+		 <select name="jycd" id="jycd">
+		 	<option value="">请选择留学国家</option>
+			<option value="英国">英国</option>
+            <option value="美国">美国</option>
+            <option value="新加坡">新加坡</option>
+            <option value="香港">香港</option>
+            <option value="澳大利亚">澳大利亚</option>
+            <option value="加拿大">加拿大</option>
+            <option value="法国">法国</option>
+            <option value="德国">德国</option>
+            <option value="荷兰">荷兰</option>
+            <option value="其他">其他</option>
+            <option value="无">无</option>              
+		 </select>
+		 </li>
+		 <li><label style="width:102px"><span>*</span>留学阶段：</label>
+		 <select name="lxmd" id="lxmd">
+		 	<option value="">请选择留学阶段</option>
+			 <option value="初中">初中</option>
+             <option value="高中">高中</option>
+             <option value="高中">专科</option>
+             <option value="本科">本科</option>
+             <option value="硕士">硕士</option>
+			 <option value="博士">博士</option>
+			 <option value="无">无</option>
+		 </select>
+		 </li>
+		 <li><label>留&nbsp;言：</label><textarea name="message" cols="" rows=""></textarea></li>
+	   </ul>
+	   <input name="city" type="hidden" id="city"  value="" />
+		 <input name="source" type="hidden" id="source"  value="在线评估Wap版" />
+	   <input name="" type="submit" class="yybtn" value="我要预约"/>
+	</form>
+  </div>
+</div>
+<div class="h50"></div>
+<a class="phone_xq" id="phone" href="tel:400-012-0038">
+	<p>400-012-0038 现在预订</p>
+</a>
+</body>
+</html>

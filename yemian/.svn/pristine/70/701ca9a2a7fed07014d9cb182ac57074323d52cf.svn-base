@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>小道消息_个人中心_天道教育</title>
+<meta name="keywords" content="小道消息"/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/swiper.css"/>
+<link rel="stylesheet" type="text/css" href="css/wo.css"/>
+
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="留学报告.html"><i class="fa"></i></a> 
+	    <h2>小道消息</h2>
+		<a href="#" class="phone ok bianji bijiw">全部标为已读</a>
+	</div>
+	<div class="header-clear"></div><div class="h43"></div><div class="xq_1 xq_1111 xq_1ss xq_1sss xq_1sss_s" style="margin:1em 0;">
+		<ul class="list_hd">
+			<li><a href="广播列表.html"><i><img src="images/x_1.png" alt=""></i><p class="p_1">广播<span>6</span></p><i class="fa fr"></i></a></li>
+			<!-- <li><a href="#"><i><img src="images/b2.png" alt=""></i><p class="p_1">小道提醒<span class="span_2"><em class="fl"></em></span></p><i class="fa fr"></i></a></li> -->
+			<li><a href="#"><i><img src="images/x_3.png" alt=""></i><p class="p_1">联系我们 </p><i class="fa fr"></i></a></li>
+		</ul>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$(".span_2").on("click",function(){
+				if($(this).find("em").hasClass("fl")){
+					$(this).addClass("on");
+					$(this).find("em").removeClass().addClass("fr");
+				}else{
+					$(this).removeClass("on");
+					$(this).find("em").removeClass().addClass("fl");
+				}
+			});
+		});
+	</script>
+</body>
+</html>

@@ -1,0 +1,313 @@
+html,body{
+	width:100%;
+	height:100%;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.tc{
+	text-align:center;
+}
+.mt{
+	margin-top:10px;
+}
+.mt20{
+	margin-top:20px;
+}
+.mb20{
+	margin-bottom:20px;
+}
+
+
+.header{
+    width:100%;
+    z-index:99999;
+    height:60px;
+    background:#0692d3;
+	position:relative;
+}
+.header h2{
+	width:100%;
+	text-align: center;
+	color: #fff;
+	position:relative;
+	line-height:2.83em;
+	font-size:1.5em;
+	font-family:"微软雅黑";
+	float:left;
+	top:5px;
+}
+.header a:first-child{
+	font-size:1.25em;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:99;
+	color:#fff;
+	height:60px;
+	line-height:1.5em;
+	background:url(../images/back.png) no-repeat center center;
+	background-size:55% auto;
+	width:30px;
+}
+.header a:first-child span{
+	width:40px;
+	display: block;
+	margin-top: 20px;
+	margin-left: 25px;
+}
+.header a.dh{
+	display:block;
+	position:absolute;
+	line-height:38px;
+	color:#fff;
+	font-weight:normal;
+	top:0;
+	right:0.4em;
+	font-size:3em;
+	height:60px;
+}
+.bigBox{
+	width: 100%; 
+	height: 100%; 
+	background:url(../images/xh_bg1.png) no-repeat center center;
+	background-size:cover;
+	position: relative;
+}
+.btn{
+	position:absolute;
+	bottom: 14px;
+	left: 50%;
+	margin-left: -100px;
+}
+.startBtn a{
+	display:block;
+	width:200px;
+	line-height:2em;
+	color:#fff;
+	text-align:center;
+	border-radius:20px;
+	background:#e6880f;
+	font-size:1.3em;
+	margin-top:0.8em;
+}
+.btn p{
+	color:#fff;
+	font-size:1.4em;
+	line-height:2em;
+}
+
+/* 领奖方式2 */
+.bigBoxs{
+	background:#00a9f7;
+	padding:1.5em 1em;
+}
+.content{
+	color:#fff;
+}
+.content h1{
+	font-size:2.25em;
+	font-family:"微软雅黑"
+}
+.content h2,.content2 h2{
+	font-size:1.8em;
+}
+.content > p{
+	font-size:1.25em;
+	color:#cfebf8;
+}
+.yel{
+	width:8px;
+	height:8px;
+	border-radius:8px;
+	background:#ffe400;
+	display:inline-block;
+}
+.mt6{
+	margin-top:3px;
+}
+.choise dt,.choise dd,.choise dd span{
+	float:left;
+}
+.choise dt{font-size:1.25em;}
+.choise dd{
+	font-size:1.25em;
+	width:78%;
+}
+.choise dt i{
+	margin-right:2px;
+}
+.choise dd p{overflow:hidden;}
+.choise dd span i{
+	display:inline-block;
+	width:15px;
+	height:15px;
+	background:#fff;
+	border:1px solid #b6b7b8;
+	background:#fff;
+	position: relative;
+	top: 4px;
+	right: 0;
+	margin-right: 8px;
+}
+.choise dd span.on i{
+	background:#fff url(../images/dh.png) no-repeat center center;
+}
+.choise dd span{
+	display:inline-block;
+	line-height:2em;
+	width:45%;
+}
+.submitBtn a{
+	display:block;
+	width:150px;
+	line-height:2em;
+	color:#fff;
+	text-align:center;
+	border-radius:20px;
+	background:#e6880f;
+	font-size:1.3em;
+	margin:0 auto;
+}
+.da p{
+	font-size:1.125em;
+}
+.login a{
+	display:block;
+	color:#fab34c;
+	font-size:1.2em;
+}
+/* 第二关 */
+.bigBox2{
+	background:none;
+}
+.tit2{
+	font-size:1.25em;
+	color:#666!important;
+}
+.content2 h2{
+	color:#0692d3;
+}
+.f20{
+	color:#666;
+	font-size:1.25em;
+}
+.num span{
+	display:block;
+	width:62px;
+	height:62px;
+	background:#00b6d4;
+	float:left;
+	text-align:center;
+	font-size:1.3em;
+	line-height:62px;
+	margin-right:2px;
+}
+.rel li,.rels li{
+	font-size:1.3em;
+	color:#666;
+	float:left;
+	width:25%;
+}
+.rel span,.rels span{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	border-radius:16px;
+	border:1px solid #b6b7b8;
+	POSITION: RELATIVE;
+	TOP: 4PX;
+	RIGHT: 2PX;
+}
+.rel span i,.rels span i{
+	display:inline-block;
+	width:12px;
+	height:12px;
+	border-radius:12px;
+	background:#02b5e9;
+	position: absolute;
+	left: 2px;
+	top: 2px;
+	display:none;
+	
+}
+.downP{
+	color:#666;
+	font-size:1.5em;
+}
+.downP span{
+	color:#fa9410;
+}
+.down{
+	width:250px;
+	height:112px;
+	    margin: 3em auto 0 auto
+	
+}
+/* 3关 */
+.rels li{
+	width:50%!important;
+}
+.downs{
+	margin-top:5em;
+}
+/* 5关 */
+.cont .tab{
+	width: 100%;
+	border:10px solid #1b1b1b;
+	background:#fff;
+}
+.tab td{
+	border:1px solid #1b1b1b;
+	color:#333;
+	font-size:1.3em;
+	text-align:center;
+}
+.jieguo{
+	border:none;
+	border-bottom:1px solid #1b1b1b;
+	line-height:2em;
+	background:#f1f1f1;
+}
+.lv{
+	background:#2bb6d4;
+}
+.downs{
+	height:76px!important;
+	position:static;
+	margin:2em auto 1em auto;
+}
+.tab2 td{
+	background:#fff!important;
+}
+.tab2 td.cur{
+	background:#e6e6e6;
+}
+
+
+
+
+@media(max-width:360px){
+	.down{
+		position:static;
+		width:250px;
+		height:112px;
+		margin:5em auto 0 auto;
+	}
+}
+@media(max-width:320px){
+	.choise dd{
+		width:76%;
+	}
+}
+
+
+
+
+
+
+
+

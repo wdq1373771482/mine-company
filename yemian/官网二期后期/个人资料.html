@@ -1,0 +1,499 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面-个人资料</title>
+<link rel="stylesheet" type="text/css" href="css/common.css"/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<style type="text/css">
+	#yearwrapper ul, #monthwrapper ul, #daywrapper ul {
+		width: 100%;
+		<!-- margin-left: 11%; -->
+	}
+	#monthwrapper {
+		position: absolute;
+		left: 33%;
+		top: 45px;
+		bottom: 60px;
+		width:33.3333333%;
+	}
+	#datePage, .page {
+	  position: absolute;
+	  bottom: 0;
+	}
+	#GjPlugin span,#JyPlugin span,#addressPlugin span{
+		font-size:2em;
+		color:#333;
+	}
+	.care{
+		color:#ff857a;
+		display:none;
+		margin:0!important;
+		line-height:0;
+	}
+	.phone form p{
+		position:relative;
+		margin:1.5em 0;
+	}
+	.form_dl p{
+		position:relative;
+	}
+	.form_dl p i{
+		position: absolute;
+		top: 0.6em;
+		right: 0.2em;
+		font-size: 2em;
+		color: #b7b7b7;
+		display:none;
+	}
+	.yzm{
+		display:block;
+		width:46%;
+		float:left;
+		position:relative;
+	}
+	.yzm input{width:100%;}
+	input:focus{
+		border:1px solid #3bbcf6;
+	}
+	input.rong{
+		border:1px solid #ff857a;
+	}
+	.care_email{
+		line-height:2rem;
+		width:90%;
+		margin:0 auto!important;
+	}
+	.myEmail{
+	position:relative}
+	.myEmailii{
+		position: absolute;
+		top: 1.3em!important;
+		right: 1.2em!important;
+	}
+	.sure_email{
+		width:90%;
+		margin-left:auto;
+		margin-right:auto;
+		padding:0!important
+	}
+	::-webkit-scrollbar { 
+   display: none;
+}
+.header{position:relative;}
+.header a:last-child{position:absolute;top:0;right:10px;}
+</style>
+</head>
+<body style="overflow-x:hidden" onload="loaded()"> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBox">
+		<!--  个人资料首页-->
+		<section class="section section1">
+			<div class="header clearfix">
+				<a href="用户中心.html"><i class="fa"></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_1"></a>
+			</div>
+			<div class="bd">
+				<ul class="list_hd">
+					<li class="touxiang">头像<i class="fa fr"></i><span><img src="images/tx.png" alt="" /></span></li>
+					<li data-num="2">昵称<i class="fa fr"></i><span class="myName">韩梅梅</span></li>
+					<li data-num="3">手机号码<i class="fa fr"></i><span class="red">未绑定</span></li>
+					<li data-num="4">邮箱<i class="fa fr"></i><span class="green">已验证 </span></li>
+				</ul>
+			</div>
+			<div class="bd mt10 mb20">
+				<ul class="list_hd">
+					<li data-num="5">性别<i class="fa fr"></i><span class="sexRel">女</span></li>
+					<li class="datetime" id="" data-num="6">出生日期<i class="fa  fr"></i><span class="birthDate">1993-10-8</span></li>
+					<li id="myGj" data-num="7">国籍<i class="fa fr"></i><span class="myGuoji">中国</span></li>
+					<li data-num="8">教育程度<i class="fa fr"></i><span class="jyRel">本科</span></li>
+					<li  data-num="9">婚姻状况<i class="fa fr"></i><span class="hyRel">未婚</span></li>
+					<li data-num="10">已读专业<i class="fa fr"></i><span class="myZhuanyeTxt">英语教育</span></li>
+					<li data-num="11" class="li11">常住地<i class="fa fr"></i><span class="xh_myAddress">北京-北京-海淀区</span></li>
+				</ul>
+			</div>
+			<div class="down">
+				<div class="bg"></div>
+				<div class="ttt">
+					<p class="choise"><input type="file" accept="image/*" /><span class="chooise">从相机选择</span></p>
+					<p class="close">取消</p>
+				</div>
+			</div>
+		</section>	
+		<!-- 我的昵称 -->
+		<section class="section section2 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh w30"></a>
+			</div>
+			<div class="myClass">
+				<h2 class="tc">我的昵称</h2>
+				<p class="tc mt20"><input type="" placeholder="请输入您的昵称" class="nc"/></p>
+				<p class="tips4">昵称不能为空，不能超过12个字符</p>
+			</div>
+		</section>
+		<!-- 我的手机号 -->
+		<section class="section section3 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh"></a>
+			</div>
+			<div class="phonesBoxs">
+				<div class="phone myPhoness">
+					<h2 class="tc mb20">我的手机号</h2>
+					<form action="" class="form_dl phoness_zh2">
+						<p><input type="" placeholder="输入手机号" class="phoneNum"/><i>x</i></p>
+						<p class="care care1 care1_phone">!手机号码已存在</p>
+						<p class="p_2 clearfix p_22"><em class="yzm"><input type="" placeholder="验证码" class="check"/><i class="checkXh">x</i></em><span class="checkss">获取短信验证码</span><span class="tip">60秒后重新发送</span></p>
+						<p class="care care2">!验证码错误</p>
+					</form>
+					<p class="sure mt20"><a href="javascript:;">确定</a></p>
+				</div>
+				<div class="myClass myZl succBox">
+					<p class="mb20"><img src="images/gr.png" alt="" /></p>
+					<h2 class="tc">手机设置成功</h2>
+					<p class="mt20 btnss clearfix">
+						<span class="fl"><a href="#">去首页逛逛</a></span>
+						<span class="fr"><a href="#">完善个人信息</a></span>
+					</p>
+				</div>
+			</div>
+		</section>
+		<!-- 我的邮箱 -->
+		<section class="section section4 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+			</div>
+			<div class="phonesBoxs">
+				<!-- 绑定邮箱 -->
+				<div class="myClass email_1 form_dl">
+					<h2 class="tc">我的邮箱</h2>
+					<p class="tc mt20"><input type="" placeholder="请输入邮箱地址" class="nc myEmail"/><i class="myEmailii">x</i></p>
+					<p class="care care1 care_email">!邮箱格式错误</p>
+					<p class="sure mt20 sure_email"><a href="javascript:;">确定</a></p>
+				</div>
+				<!-- 等待验证 -->
+				<div class="myClass myZl yz email_2">
+					<p class="mb20"><img src="images/gr.png" alt="" /></p>
+					<h2 class="tc">等待验证中</h2>
+					<p>我们已向 meimei.han@tiandaoedu.com 发送了一封验证邮件。请您登陆邮箱，点击邮件中的链接完成验证。</p>
+					<p class="mt20">如果您在5分钟内没有收到邮件，<a href="#">请选择重新发送</a></p>
+				</div>
+				<!--邮箱设置成功  -->
+				<div class="myClass myZl email_succ email_3">
+					<p class="mb20"><img src="images/cg.png" alt="" /></p>
+					<h2 class="tc">邮箱设置成功</h2>
+					<p class="mt20 btnss clearfix">
+						<span class="fl"><a href="#">去首页逛逛</a></span>
+						<span class="fr"><a href="#">完善个人信息</a></span>
+					</p>
+				</div>
+			</div>
+		</section>
+		<!-- 我的性别 -->
+		<section class="section section5 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_sex" data-suo="0"></a>
+			</div>
+			<div class="myClass myZl myxb">
+				<h2 class="tc">我的性别</h2>
+				<div class="mt20 xb clearfix sex">
+					<span class="fl"><a href="#"><img src="images/boy.png" alt="" /><p>男生</p></a></span>
+					<span class="fr"><a href="#"><img src="images/girl.png" alt="" class="w86"/><p>女生</p></a></span>
+				</div>
+			</div>
+		</section>
+		<!--我的生日 -->
+		<section class="section section6 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_sr"></a>
+			</div>
+			<div class="choiseDate">
+				<p class="titTxt">我的生日</p>
+				<p><input type="hidden" id="dateSr" /></p>
+				<div id="datePlugin"></div>
+			</div>
+		</section>
+		<!-- 我的国籍 -->
+		<section class="section section7 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_gj" data-suo="1"></a>
+			</div>
+			<div class="bigBox">
+					<div class="choiseDate">
+						<p class="titTxt">我的国籍</p>
+							<div id="GjPlugin" class="GjPlugin" style="width:100%;height:240px;overflow: hidden; position: absolute; border-left:none;border-right: none;bottom:0;left:0;background:#fff;"></div>
+					</div>
+			</div>
+		</section>	
+		<!-- 教育程度 -->
+		<section class="section section8 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_jy" data-suo="1"></a>
+			</div>
+			<div class="bigBox">
+					<div class="choiseDate">
+						<p class="titTxt">教育程度</p>
+							<div id="JyPlugin" class="JyPlugin" style="width:100%;height:240px;overflow: hidden; position: absolute; border-left:none;border-right: none;bottom:0;left:0;background:#fff;"></div>
+					</div>
+			</div>
+		</section>
+		<!-- 婚姻状况 -->
+		<section class="section section9 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh"></a>
+			</div>
+			<div class="myClass myZl myxb">
+				<h2 class="tc">婚姻状况</h2>
+				<div class="mt20 xb clearfix hunyin">
+					<span class="fl"><a href="#"><img src="images/yh.png" alt="" /><p>已婚</p></a></span>
+					<span class="fr"><a href="#"><img src="images/wh.png" alt="" class="w86"/><p>未婚</p></a></span>
+				</div>
+			</div>
+		</section>
+		<!-- 已读专业 -->
+		<section class="section section10 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_ydzy"></a>
+			</div>
+			<div class="phonesBoxs">
+				<div class="myClass email_rong">
+					<h2 class="tc">已读专业</h2>
+					<p class="tc mt20"><input type="" placeholder="请填写已读专业情况" class="nc myZhuanye"/></p>
+					<p class="pdl mt10">举例：华东理工大学，金融专业</p>
+				</div>
+			</div>
+		</section>
+		<!-- 添加新地址 -->
+		<section class="section section11">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh addBtnss"  data-index="11"></a>
+			</div>
+			<div class="phonesBoxs">
+				<p class="tc pdl address">点击右上角加号添加新地址~</p>
+			</div>
+		</section>  
+		<!-- 添加个人地址 -->
+		<section class="section section12" style="position:relative;">
+			<div class="header clearfix">
+				<a href="javascript:;"  class="myAddss"><i class="fa "></i><span>我的地址</span></a>
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh success w30"  data-index="12"></a>
+			</div>
+			<div class="addList">
+				<form action="">
+					<ul>
+						<li><label for="">收货人</label><input type="text" placeholder="姓名" /></li>
+						<li><label for="">手机号码</label><input type="text" placeholder="11位手机号" /></li>
+						<li><label for="">地区信息</label><input type="text" placeholder="北京 北京市 东城" class="cityText"/><i class="addIcon"></i></li>
+						<li><label for="">详细地址</label><input type="text" placeholder="街道门牌信息" /></li>
+						<li><label for="">邮政编码</label><input type="text" placeholder="邮政编码" /></li>
+					</ul>
+				</form>
+			</div>
+			<div class="choiseDate">
+				<div id="addressPlugin" style="width:100%;height:240px;overflow: hidden; position: absolute; border-left:none;border-right: none;bottom:0;left:0;background:#fff;"></div>
+			</div>
+		</section>
+		<!-- 添加成功的个人地址 -->
+		<section class="section section13">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh dh_cg w30"></a>
+			</div>
+			<div class="phonesBoxs">
+				<ul class="list_gr clearfix">
+					<li><span class="fr f15">18612345678</span><span class="MyName fl f15">韩梅梅</span></li>
+					<li>
+						<p>北京 北京市 东城区</p>
+						<p>哎呀呀街哇哈哈小区8层806</p>
+					</li>
+					<li class="ppp">
+						<span class="default"><i class="i_1 on"></i>默认</span>
+						<span class="update"><i class="fa fa-edit"></i>编辑</span>
+						<span class="delete"><i class="fa fa-trash-o"></i>删除</span>
+					</li>
+				</ul>
+			</div>
+		</section>
+		<!-- 工作背景 -->
+		<section class="section section14 sectionGR">
+			<div class="header clearfix">
+				<a href="个人资料.html"><i class="fa "></i></a> 
+				<h2>个人资料</h2>
+				<a href="javascript:;" class="dh"></a>
+			</div>
+			<div class="phonesBoxs">
+				<div class="myClass email_rong">
+					<h2 class="tc">工作背景</h2>
+					<p class="tc mt20"><input type="" placeholder="请填写工作背景情况" class="nc myBeijing"/></p>
+					<p class="pdl mt10">举例：某国内知名证券公司，2年工作经验</p>
+				</div>
+			</div>
+		</section> 
+	</div>
+	 <div class="black"></div> 
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript" src="js/iscroll.js"></script> 
+	<script type="text/javascript" src="js/date.js"></script>
+	<script type="text/javascript" src="js/iscrollText.js"></script> 
+	<script type="text/javascript"  src="js/grzl.js"></script>
+	<script type="text/javascript">
+		//我的国籍，教育程度
+			//document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+			var myd = [				
+				[{
+					"name" : "天津",
+					"value" : "01"
+				}, {
+					"name" : "北京",
+					"value" : "02"
+				}, {
+					"name" : "武汉",
+					"value" : "02"
+				}, {
+					"name" : "黄山",
+					"value" : "02"
+				}],
+				 [{
+					"name" : "天津",
+					"value" : "01"
+				}, {
+					"name" : "北京",
+					"value" : "02"
+				}, {
+					"name" : "武汉",
+					"value" : "02"
+				}, {
+					"name" : "黄山",
+					"value" : "02"
+				}], 
+				[{
+					"name" : "天津",
+					"value" : "01"
+				}, {
+					"name" : "北京",
+					"value" : "02"
+				}, {
+					"name" : "武汉",
+					"value" : "02"
+				}, {
+					"name" : "黄山",
+					"value" : "02"
+				}]
+			];
+			var guojiVal,jiaoyuVal,dizhiVal;
+			function loaded(){
+				 guojiVal = new scrollText("#GjPlugin",{url:"js/data.json",topSpaceCount:1,level:1,async:true});  //一级
+				 jiaoyuVal = new scrollText("#JyPlugin",{url:"js/data3.json",topSpaceCount:1,level:1,async:true}); //一级
+				 dizhiVal = new scrollText("#addressPlugin",{topSpaceCount:1,level:3,async:false,data:myd}); //三级
+			}
+			$(function(){
+				$(".dh_gj").on("click",function(){
+					var guoji = guojiVal.getCurrentName();
+					$(".myGuoji").html(guoji);
+				});
+				$(".dh_jy").on("click",function(){
+					var jiaoyu = jiaoyuVal.getCurrentName();
+					$(".jyRel").html(jiaoyu);
+				});
+				//添加地址
+				$(".success").on("click",function(){
+					var dizhi = dizhiVal.getCurrentName();
+					var arrStr = dizhi.join(","),
+						newStr = arrStr.replace(/,/g,'-');
+					$(".xh_myAddress").html(newStr);
+				});
+				$(".i_1").on("click",function(){
+					if($(this).hasClass("on")){
+						$(this).removeClass("on");
+					}else{
+						$(this).addClass("on");
+					}
+				});
+				//点击我的地址
+				$(".myAddss").on("click",function(){
+					$(this).parents("section").stop().animate({"left":100+"%"},300);
+					$(this).parents("section").prev().stop().animate({"left":0},300);
+				});
+				
+				var phoneReg1 =/^(0|86|17951)?(13[0-9]|15[012356789]|17[678]|18[0-9]|14[57])[0-9]{8}$/;
+				$(".phoneNum").focus(function(){
+				//
+				}).keydown(function(){
+					var _that=$(this);
+					_that.next().show();
+					_that.next().on("click",function(){
+						_that.val("");
+						$(this).hide();
+						_that.parent().next().hide();
+					});
+				}).blur(function(){
+					var loginName = $(this).val();
+						if(loginName == ""){  //用户名为空
+							$(this).addClass("rong");
+							$(this).parent().next().show().html("！请输入手机号");
+						}else{
+							if(phoneReg1.test(loginName)){
+								$(this).removeClass("rong");
+								$(this).parent().next().hide();
+								$(this).parent().find("i").hide();
+								//点击登录
+								/*$(".loginBtn").on("click",function(){
+									$(".myZls1").fadeOut();
+									$(".myZls2").fadeIn();
+								});*/
+							}else{
+								$(this).addClass("rong");
+								$(this).parent().next().show().html("！账号名称格式错误");
+							}
+						}
+				});
+			});
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

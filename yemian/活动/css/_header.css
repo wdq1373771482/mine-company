@@ -1,0 +1,67 @@
+
+/*
+ * main
+ */
+
+.mainC{
+	width: 90%;
+	margin: 0 auto;
+}
+.m_tit{
+	  	font-size: 1.8em;
+	  	color: #0692d3;
+	  	text-align: center;
+	  	padding-top: 0.5em;
+		font-weight:bold;
+	  }
+		.tit_info{
+			font-size: 1.25em;
+			margin-top: 0.2em;
+			color: #666666;
+			text-align: center;
+		}
+.mainC .submit{
+	display: block;
+			width:175px;
+			height: 50px;
+			line-height: 50px;
+			border-radius: 25px;
+			background: #FA9410;
+			color: #FFFFFF;
+			text-align: center;
+			font-size: 20px;
+			margin: 0 auto;
+			margin-top: 1.5em;
+			margin-bottom: 30px;
+		}
+.mainC .info{
+	color: #FA9410;
+	text-align: center;
+	font-size: 16px;
+}
+.mainC .jl{
+	color: #666666;
+	font-size: 18px;
+	text-align: center;
+	margin: 30px 0 35px 0;
+}
+ .mainC .jl strong{
+	   	color: #FA9410;
+	   	font-size: 22px;
+	   	
+	   }
+@media screen and (min-width:410px) 
+    {
+		.h_con a,.log_h .h_con
+		{
+			color: #FFFFFF;
+			font-size: 24px;
+	   }
+	   .h_con .back{
+	   	padding-left: 26px;
+	   	background-size: 21px 35px;
+	   }
+	   .mainC .jl strong,.m_tit{
+	   	/* font-size: 30px; */
+	   }
+	}

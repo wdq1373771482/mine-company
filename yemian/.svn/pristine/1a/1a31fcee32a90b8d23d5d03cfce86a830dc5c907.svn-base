@@ -1,0 +1,139 @@
+body{
+	background:#d3f5ff;
+}
+img{width:100%;}
+
+.pic{position:relative;}
+.pic p{
+	position:absolute;
+	bottom:30px;
+	left:50%;
+	margin-left:-70px;
+}
+.pic p a{
+	display:block;
+	width:140px;
+	line-height:2em;
+	text-align:center;
+	color:#fff;
+	font-size:1.5em;
+	background:#40c69e;
+}
+.tit{
+	line-height:2em;
+	background:#fff;
+	color:#333;
+	font-weight:bold;
+	font-size:1.8em;
+	margin-bottom:1em;
+}
+.dls dl{
+	width:90%;
+	margin:3em auto 2em auto; 
+}
+.dls dt{
+	width:55%;
+}
+.dls dt,.dls dd{
+	float:left;
+}
+.dls dd{
+	width:43%;
+}
+.dls dd{
+	margin-left:2%;
+}
+.dls dd.r{
+	margin-right:2%;
+	margin-left:0;
+}
+.dls dt h2{
+	font-weight:bold;
+	font-size:1.5em;
+	color:#2a6faa
+}
+dt p{
+	color:#2a6faa;
+	font-size:1.25em;
+}
+.down{
+	padding:0em 1em 2em 1em;
+	background:#fff;
+}
+.downsss{
+	background: #fff;
+	padding: 0.1em 0;
+}
+.txt p{
+	color:#696969;
+	font-size:1.25em;
+}
+.tit2{
+	background:#d3f5ff;
+}
+.d_tit a{
+	display:block;
+	background:#40c69e;
+	line-height:50px;
+	color:#fff;
+	text-align:center;
+	font-size:1.5em;
+}
+
+
+/* 移动端界面-微信服务 */
+.dls_wx dt{
+	margin-top:3em;
+}
+.dls_wx dl:last-child dt{
+	margin-top:2em!important;
+}
+.downs{
+	padding-top:2em;
+	position:relative;
+	color:#353535;
+}
+.downs h1{
+	font-size:4em;
+	color:#353535;
+	font-weight:bold;
+	line-height:1.5em;
+}
+.d_tits{
+	width:100%;
+	position: absolute;
+	z-index: -1;
+	bottom: -35%;
+	left: 0;
+}
+.d_tits img{
+	display:block;
+}
+.downs p{
+	font-size:1.9em;
+	line-height:1.5em;
+}
+.ewm{padding:1em 3em;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

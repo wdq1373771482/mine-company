@@ -1,0 +1,62 @@
+@charset "gb2312";
+body,html{font-family:"Î¢ÈíÑÅºÚ"}
+.top{ /* width:340px;  height:312px;*//*  background:url(../images/topbg_01.jpg) no-repeat center center;  */margin:0 auto}
+.top img{width:100%;}
+.top a{ display:block; width:180px; height:90px; text-indent:-9999px}
+.mainBody{ background:#FFF; /* width:340px */}
+.faq_tit{ padding:20px 15px 10px 15px}
+.faq_tit p{  color:#696969;font-size:1.8em;}
+.qDiv span{ display:block; color:#3e3d3d; font-size:1.25em;cursor:pointer}
+.qDiv p{ color:#727272; font-size:14px; line-height:24px; padding:10px 0 5px 0; display:none}
+.qDiv{ background:url(../images/line_02.png) repeat-x 0 0; padding:15px}
+.current{background:url(../images/line_02.png) repeat-x 0 0 #f2f4f8; }
+.current_hover{background:url(../images/line_02.png) repeat-x 0 0 #f2f4f8; }
+.qDiv span.current1{ color:#1862cf}
+.mkbd{ background:#30bcfa; margin-top:10px}
+.mk_tit{ padding:15px 15px 0 15px;}
+.mk_tit p{ font-size:1.8em; color:#fff;}
+.mkbd form label{ margin-right: 7px;display:block; float:left; width:80px; color:#fff; font-weight:bold; text-align:right; font-size:14px}
+.mkbd form label span{color:#ffdd92;font-size:18px;padding:0 12px 0 0}
+.mkbd form .text{ float:left; background:#fff; border:solid 1px #dbdbdb; height:22px; line-height:22px; width:220px;border-radius:2px}
+.mkbd form .text2{ float:left; background:#fff; border:solid 1px #dbdbdb; height:22px; line-height:22px; width:100px;border-radius:2px;}
+.mkbd form .button{ float:left; background:#fff;color:#888; border:solid 1px #dbdbdb; height:26px; line-height:26px; width:115px;border-radius:2px;margin-left:5px;}
+.mkbd form textarea{float:left; background:#fff; border:solid 1px #dbdbdb; width:220px; height:65px;border-radius:2px}
+.mkbd form select{float:left; background:#fff; width:200px; height:24px;line-height:24px;border:solid 1px #dbdbdb;border-radius:2px;color:#b8b7b7}
+.mkbd form select.on{color:#888}
+.mkbd form li{ overflow:hidden; clear:both; margin-bottom:10px;line-height:2em;}
+.mkbd form{padding:20px 0;margin:0 auto;}
+.yybtn{ background: #f38e2f; color:#fff; width:150px; height:42px; font-size:20px; font-family:"Î¢ÈíÑÅºÚ"; border:none; margin:0 0 0 80px; display:block; cursor:pointer;margin:0 auto;}
+.mkbd input,select,textarea{color:#888;font-size:1.25em;}
+.yybtn{color:#fff!important;font-size:1.5em!important}
+
+.di{ height:63px; width:auto; background:url(../images/dibg_02.png) repeat-x 0 0}
+.di p a{ color:#fff; font-size:22px; line-height:63px; font-weight:bold; background:url(../images/play.png) no-repeat right center; padding-right:30px}
+.di p{ text-align:center; width:340px; margin:0 auto}
+
+::-webkit-scrollbar { 
+   display: none;
+}
+ @media(min-width:375px){
+	.mkbd form {
+		width: 356px;
+	}
+	
+}
+ @media(min-width:414px){
+	.mkbd form {
+		width: 396px;
+	}
+	
+}
+/* @media(min-width:375px){
+	.mkbd form .text,.mkbd form select{width:312px;}
+	.mkbd form .button{width:168px}
+	.mkbd form .text2{width:139px;}
+	
+}
+@media(max-width:360px){
+	.mkbd form .text{width:70%;}
+}
+@media(max-width:320px){
+	.mkbd form .text{width:68%;}
+} */

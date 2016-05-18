@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>设置</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<link rel="stylesheet" type="text/css" href="css/wo.css"/>
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBox">
+		<!-- 设置 -->
+		<section class="sectionBox section1" style="left:0;">
+			<div class="header clearfix">
+				<a href="#" class="aaaa"><i class="fa"></i></a> 
+				<h2>设置</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="xq_1 xq_1111 xq_1ss xq_1sss" style="margin:1em 0;">
+				<ul class="list_hd">
+					<li><a href="帮助反馈.html"><p class="p_1">帮助反馈</p><i class="fa  fr"></i></a></li>
+					<li><a href="关于天道.html"><p class="p_1">关于天道</p><i class="fa  fr"></i></a></li>
+				</ul>
+			</div>
+			<div class="black"></div>
+			<div class="clear confirms">
+				<p class="confirm">确定清除本地缓存</p>
+				<p><span class="resetBtn">取消</span><span class="sureBtn">确定</span></p>
+			</div>
+			<div class="clear suress">
+				清除成功
+			</div>
+		</section>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$(".span_2").on("click",function(){
+				if($(this).find("em").hasClass("fl")){
+					$(this).addClass("on");
+					$(this).find("em").removeClass().addClass("fr");
+				}else{
+					$(this).removeClass("on");
+					$(this).find("em").removeClass().addClass("fl");
+				}
+			});
+		});
+		function resizeScreen(){
+			var	screenW=document.documentElement.clientWidth ||　document.body.clientWidth,
+				screenH=document.documentElement.clientHeight ||　document.body.clientHeight;
+				$(".black").css("width",screenW);
+				$(".black").css("height",screenH);
+		}
+		function resizeClear(){
+			var	screenW=screen.width,
+				screenH=screen.height,
+				clearW=$(".clear").outerWidth(true),
+				clearH=$(".clear").outerHeight(true),
+				w=(screenW-clearW)/2,
+				h=(screenH-clearH)/2;
+				$(".clear").css({"left":w+"px","top":h+"px"});
+		}
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

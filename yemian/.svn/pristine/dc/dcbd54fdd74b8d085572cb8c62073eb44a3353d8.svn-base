@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面_发现_留学</title>
+
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+<link href="styles/framework.css" rel="stylesheet" type="text/css">
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link href="styles/font-awesome.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header lx_header clearfix">
+	    <a href="index.html" class="back"></a>
+	    <h2>发现</h2>
+	    <a href="tel:400-019-0038" class="header-navigation show-navigation hhh"><i class="phoness fl"></i></a>
+	</div>
+	<div class="header-clear"></div>
+	<div class="list_lx mt20">
+		<i class="fa fa-search"></i><input type="" class="search" placeholder="搜索"/><i class="fa fa-search"></i>
+	</div>
+	<ul class="gallery round-thumb gallery_2 gallery_3 gallery_3lx" style="overflow: hidden;" id="">
+        <li>
+			<a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a>
+			<p class="bg"></p>
+			<p><a href="#" target="_blank">近年来赴法国留学人数不断增长</a></p>
+		</li>
+        <li>
+			<a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a>
+			<p class="bg"></p>
+			<p><a href="#" target="_blank">近年来赴法国留学人数不断增长</a></p>
+		</li>
+    </ul>
+	<h2 class="titName titName_lx titName_lx1">留学</h2>
+	<ul class="gallery round-thumb homepage-gallery gallery_1 gallery_lx gallery_lxx">
+        <li><em></em><a href="javascript:;" title=""><img src="images/mg.png" alt="img"><p><i class="fa fa-check"></i>美国</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/jnd.png" alt="img"><p><i class="fa fa-check"></i>加拿大</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/yg.png" alt="img"><p><i class="fa fa-check"></i>英国</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/dg.png" alt="img"><p><i class="fa fa-check"></i>德国</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/fg.png" alt="img"><p><i class="fa fa-check"></i>法国</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/hl.png" alt="img"><p><i class="fa fa-check"></i>荷兰</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/ad.png" alt="img"><p><i class="fa fa-check"></i>澳大利亚</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/xxl.png" alt="img"><p><i class="fa fa-check"></i>新西兰</p></a></li>
+		<li><em></em><a href="javascript:;" title=""><img src="images/xg.png" alt="img"><p><i class="fa fa-check"></i>香港</p></a></li>
+		<li><em></em><a href="javascript:;" title=""><img src="images/xjp.png" alt="img"><p><i class="fa fa-check"></i>新加坡</p></a></li>
+		<li><em></em><a href="javascript:;" title=""><img src="images/jz.png" alt="img"><p><i class="fa fa-check"></i>家长专区</p></a></li>
+    </ul>
+	<h2 class="titName titName_lx titName_lx2">专业</h2>
+	<ul class="gallery round-thumb homepage-gallery gallery_1 gallery_lx gallery_lxx">
+        <li><em></em><a href="javascript:;" title=""><img src="images/sk.png" alt="img"><p><i class="fa fa-check"></i>商科</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/lg.png" alt="img"><p><i class="fa fa-check"></i>理工科</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/wk.png" alt="img"><p><i class="fa fa-check"></i>文科</p></a></li>
+        <li style="clear:both;"><em></em><a href="javascript:;" title=""><img src="images/gg.png" alt="img"><p><i class="fa fa-check"></i>公共管理</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/fl.png" alt="img"><p><i class="fa fa-check"></i>法律</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/yx.png" alt="img"><p><i class="fa fa-check"></i>医学</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/yss.png" alt="img"><p><i class="fa fa-check"></i>艺术</p></a></li>
+        <li><em></em><a href="javascript:;" title=""><img src="images/ty.png" alt="img"><p><i class="fa fa-check"></i>体育</p></a></li>
+    </ul>
+	<div class="listDiv">
+		<h2 class="titName titName_lx titName_lx3">考试</h2>
+		<table class="tabList">
+			<tr>
+				<td><em></em><a href="">SAT</a></td>
+				<td><em></em><a href="">托福</a></td>
+				<td class="none"><a href="">雅思</a></td>
+			</tr>
+			<tr>
+				<td><em></em><a href="">GRE</a></td>
+				<td><em></em><a href="">GMAT</a></td>
+				<td class="none"><a href="">ACT</a></td>
+			</tr>
+			<tr>
+				<td><em></em><a href="">AP</a></td>
+				<td><em></em><a href="">SSAT</a></td>
+				<td class="none"><a href="">IB</a></td>
+			</tr>
+			<tr>
+				<td><a href="">小托福</a></td>
+				<td><a href="">综合英语</a></td>
+				<td class="none"><a href=""></a></td>
+			</tr>
+		</table>
+	</div>
+	<div class="header-clears"></div>
+	<div class="footer" id="footer">
+	    <ul>
+	    	<li class="li_1 curPage"><a href="index.html"></a><p>主页</p></li>
+	    	<li class="li_2"><a href="#"></a><p>发现</p></li>
+	    </ul>
+	</div>
+	<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/framework.plugins.js"></script>
+	<script type="text/javascript" src="scripts/custom.js"></script>
+	<script type="text/javascript">
+		(function ($) {
+			$(".hhh i").on("tap",function(){
+				$(this).addClass("on1");
+			});
+			$(".list_lx i:last").hide();
+			$(".search").focus(function(){
+				$(this).attr("placeholder","");
+				$(".list_lx i:first").fadeOut(200);
+				$(".list_lx i:last").fadeIn(200);
+			}).blur(function(){
+				var txt=$(".search").val();
+				if(txt == ""){
+					$(this).attr("placeholder","搜索");
+					$(".list_lx i:first").fadeIn(200);
+					$(".list_lx i:last").fadeOut(200);
+				}
+			});
+		})(jQuery);
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

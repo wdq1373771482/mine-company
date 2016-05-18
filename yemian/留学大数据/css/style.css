@@ -1,0 +1,30 @@
+body, ul, ol, dl,dt, dd, li, p, h1, h2, h3, h4, h5, h6, form, table, td, img, div { margin: 0; padding: 0; border: 0; color: #595959;font-family:"Microsoft Yahei";}
+ul, ol { list-style-type: none; }
+select, input, img { vertical-align: middle; }
+div { font-size: 14px; }
+a { text-decoration: none; color: #595959; }
+:focus { outline-style: none; }
+a, area { blr:expression(this.onFocus=this.blur())}
+input { padding-top:0; padding-bottom:0;}
+input::-moz-focus-inner { border:none; padding:0; }
+select, input { vertical-align:middle; }
+select, input, textarea { font-size:14px; margin:0; }
+input[type="text"], input[type="password"], textarea { outline-style:none; -webkit-appearance:none; }
+textarea {resize:none;}
+body{ background:#ffffff}
+/**回顶部**/
+.go-top { position: fixed; _position: absolute; bottom:103px; left: 50%; width: 50px; height: 50px; background: url(../images/top.png) no-repeat 0 bottom; margin-left: 560px; cursor: pointer; z-index:100 }
+.go-top:hover { background: url(../images/top.png) no-repeat -63px bottom; }
+/**分享**/
+#control_pannel { width: 63px; bottom: 160px; height: 206px; left: 50%; margin-left: 535px; padding-top: 145px; padding-left: 30px; position: fixed; background: url(../images/fxqq_03.png) no-repeat 0 0; z-index:100 }
+#control_pannel a { display: block; height: 37px; margin-bottom: 5px; text-indent: -9999px; width: 38px; }
+.xlwb { background: url(../images/top.png) no-repeat -6px 0; }
+.xlwb:hover { background: url(../images/top.png) no-repeat -69px 0px; }
+.wb { background: url(../images/top.png) no-repeat -6px -41px; }
+.wb:hover { background: url(../images/top.png) no-repeat -69px -41px; }
+.kj { background: url(../images/top.png) no-repeat -6px -124px; }
+.kj:hover { background: url(../images/top.png) no-repeat -69px -124px; }
+.rr { background: url(../images/top.png) no-repeat -6px -83px; }
+.rr:hover { background: url(../images/top.png) no-repeat -69px -83px; }
+.kx { background: url(../images/top.png) no-repeat -6px -165px; }
+.kx:hover { background: url(../images/top.png) no-repeat -69px -165px; }

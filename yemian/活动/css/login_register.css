@@ -1,0 +1,82 @@
+
+/*
+ * main
+ */
+.log_main .content{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.content .gg_bt strong{
+	display: inline-block;
+	font-size:20px;
+	color:#0692d3;
+	padding-top: 50px;
+	margin-bottom: 35px;
+}
+ .gg_bt p{
+	color:#666666;
+	font-size: 14px;
+	padding-bottom: 70px;
+}
+ .gg_bt p a.register{
+	font-weight: bold;
+   color: #0692d3;
+}
+.content .login_form{
+	font-size: 16px;
+}
+.login_form .dl{
+	text-align: center;
+	font-weight: bold;
+	color: #666666;
+	padding-bottom: 40px;
+}
+.login_form .dl_info{
+	background: #FFFFFF;
+	border-radius: 10px;
+}
+.dl_info p{
+	display: -webkit-flex;
+	height: 70px;
+	line-height: 70px;
+	width: 99%;
+}
+.dl_info p.underline{
+	border-bottom: 1px solid #ccc;
+	
+}
+.dl_info p label{
+	float: left;
+	/* width: 100px; */
+	margin-left: 1em;
+}
+.dl_info p input{
+	display: inline-block;
+	/* flex: 2; */
+	border: none;
+	height: 100%;
+	text-indent: 0.5em;
+	float:left;
+	width:46%;
+}
+.dl_info .have_cord{
+	    WIDTH: 25%;
+		display:inline-block;
+	border-left: 1px solid #ccc;
+	float:left;
+}
+.log_submit{
+	height: 50px;
+	line-height: 50px;
+	border-radius: 30px;
+	background: #fa9410;
+	text-align: center;
+	color: #fff;
+	margin-top: 45px;
+	margin-bottom: 60px;
+}
+.login_form .zhu{
+	line-height: 36px;
+	color: #939393;
+}

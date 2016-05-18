@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>天道留学工具|天道培训工具_天道教育</title>
+<meta name="keywords" content="天道留学工具,天道培训工具"/>
+<meta name="description" content="天道工具栏目为您提供30步DIY留学计划、职业规划、留学语言、留学实习、留学论文、留学文书、留学成功案例等内容，让您的留学之路更轻松。"/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/gjsjgh.css"/>
+</head>
+<body style="background:#eee;"> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header clearfix">
+	    <a href="http://mm.tiandaoedu.com/"><i class="fa"></i></a> 
+	    <h2>工具</h2>
+		<!-- <a href="#" class="a_r"><img src="images/people.png" alt="" /></a> -->
+	</div>
+	<div class="h43"></div>
+	<div class="tt3 clearfix mb10 mt10 hide">
+		<dl class="clearfix mb20 mt20">
+			<dt>
+				<p>进行中</p>
+				<p class="lastss">职业解析</p>
+			</dt>
+			<dd>
+				<p>已完成：时间规划 </p>
+				<p>下一步：专业解析</p>
+				<p>已用去：2 天</p>
+			</dd>
+		</dl>
+		<p class="text">您未来是想做研究，还是实业？选择不同学校和专业，密切关系到未来的就业方向。职业目标更明确，才能设定完美的留学路径。</p>
+		<p class="btn mt20 mb20 btn2"><a href="#">记录任务</a></p>
+	</div>
+	<div class="tt3 clearfix mb10 mt10">
+		<dl class="clearfix mb20 mt20">
+			<dt>
+				<p>进行中</p>
+				<p class="lastss">尚未开始</p>
+			</dt>
+			<dd>
+				<p>30步DIY留学计划</p>
+				<p>每天进步一点点</p>
+				<p>梦想触手可及！</p>
+			</dd>
+		</dl>
+		<p class="text">千里之行始于足下，现在就开始你的留学计划吧！</p>
+		<p class="btn mt20 mb20 btn2"><a href="工具时间规划.html">马上开始</a></p>
+		<p class="tc 30bu"><a href="30天DIY留学计划.html" class="lans">什么是30步DIY留学计划？</a></p>
+	</div>
+	<!-- <div class="tt clearfix mt20 tt2">
+		<span class="fl bg clearfix">
+			<em class="em1"><i>25%</i></em>
+			<em class="em2"><i>50%</i></em>
+			<em class="em3"><i>100%</i></em></span>
+		<span class="fr"><a href="javascript:;">打卡&gt;</a></span>
+	</div> -->
+	<div class="list2">
+		<h2>留学TIPS <span class="fr"><a href="微信服务.html">有问题，就微信我吧！ ></a></span></h2>
+		<div class="xq_1 xq_1111">
+			<ul class="list_hd list_hdgj">
+				<li><a href="#">
+						<i><img src="images/g1.png" alt=""></i>
+						<div class="pps">
+							<p class="p_gj1">语言</p>
+							<p class="p_gj2">如何准备第一次托福考试?<i class="fa  fr"></i></p>
+						</div>
+					</a>
+				</li>
+				<li><a href="#">
+						<i><img src="images/g2.png" alt=""></i>
+						<div class="pps">
+							<p class="p_gj1">实习</p>
+							<p class="p_gj2">理工科的公司实习经历有用吗?<i class="fa  fr"></i></p>
+						</div>
+					</a>
+				</li>
+				<li><a href="#">
+						<i><img src="images/g3.png" alt=""></i>
+						<div class="pps">
+							<p class="p_gj1">论文</p>
+							<p class="p_gj2">如何在SCI发表第一篇论文?<i class="fa  fr"></i></p>
+						</div>
+					</a>
+				</li>
+				<li><a href="#">
+						<i><img src="images/g3.png" alt=""></i>
+						<div class="pps">
+							<p class="p_gj1">文书</p>
+							<p class="p_gj2">斯坦福大学2015年研究生文书题目解析<i class="fa  fr"></i></p>
+						</div>
+					</a>
+				</li>
+				<li><a href="#">
+						<i><img src="images/g3.png" alt=""></i>
+						<div class="pps">
+							<p class="p_gj1">2015成功案例</p>
+							<p class="p_gj2">杜克大学博士全奖情侣档! 情人节最好的礼物<i class="fa fr"></i></p>
+						</div>
+					</a>
+				</li>
+				<!-- <li><a href="#"><i><img src="images/g2.png" alt=""></i><p class="p_1">实习</p><p class="p_2"><i class="fa fa-angle-right fr"></i></p></a>
+				</li>
+				<li><a href="#"><i><img src="images/g3.png" alt=""></i><p class="p_1">论文</p><p class="p_2">如何在SCI发表第一篇论文?<i class="fa fa-angle-right fr"></i></p></a>
+				</li>
+				<li><a href="#"><i><img src="images/g3.png" alt=""></i><p class="p_1">文书</p><p class="p_2">斯坦福大学2015年研究生文书题目解析<i class="fa fa-angle-right fr"></i></p></a>
+				</li>
+				<li><a href="#"><i><img src="images/g3.png" alt=""></i><p class="p_1">2015成功案例</p><p class="p_2">杜克大学博士全奖情侣档! 情人节最好的礼物<i class="fa fa-angle-right fr"></i></p></a>
+				</li> -->
+			</ul>
+		</div>
+		<h2>在线服务</h2>
+		<div class="xq_1 xq_1111">
+			<ul class="list_hd list_hd2">
+				<li><a href="#"><i><img src="images/zx1.png" alt=""></i><p class="p_1 p_p">院校库查询</p></a>
+				</li>
+				<li><a href="#"><i><img src="images/zx2.png" alt=""></i><p class="p_1 p_p">托福范文与预测</p></a>
+				</li>
+				<!-- <li><a href="#"><i><img src="images/zx3.png" alt=""></i><p class="p_1">考试日历</p><span class="fr">6月1日 托福考试</span></a>
+				</li> -->
+				<li><a href="#"><i><img src="images/zx4.png" alt=""></i><p class="p_1 p_last">视频课程</p></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?e9b1d6d81df83a6af9e328d0705ec432";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?9cbc6afe6436ce82c91f48d408a143e3";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

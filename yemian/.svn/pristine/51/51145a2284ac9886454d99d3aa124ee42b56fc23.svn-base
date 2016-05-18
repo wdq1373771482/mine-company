@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>录取榜</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+        <link rel="stylesheet" href="css/xh_css.css" type="text/css">
+       <link rel="stylesheet" href="css/common.css">
+	   <script src="js/jquery-1.11.3.min.js"></script>
+
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->       
+         <!-- 焦点图 S -->
+        <div class="flexslider flexslider1" id="slider">
+            <ul class="slides">
+                <li>
+                    <img src="images/banner-history.png" class="img-responsive" alt="Slider Image" />
+                </li>
+                <li>
+                    <img src="images/banner-history.png" class="img-responsive" alt="Slider Image" />
+                </li>
+            </ul>
+        </div> 
+        <!-- 焦点图 E-->
+        <!-- 列表 -->
+        <div class="full-width home-postss blog-posts">
+            <div class="container">
+                <div class="row team-posts">
+					<div class="col-md-12 col-md-12_zx">
+						<div class="post clearfix xh_lists">
+                           <ul>
+                           	<li class="first"><a href="javascript:;">按时间</a></li>
+                           	<li><a href="javascript:;">全部</a></li>
+                           	<li><a href="javascript:;">2016</a></li>
+                           	<li><a href="javascript:;">2015</a></li>
+							<li><a href="javascript:;">2014</a></li>
+							<li><a href="javascript:;">2013</a></li>
+							<li><a href="javascript:;">2012</a></li>
+							<li><a href="javascript:;">2011</a></li>
+							<li><a href="javascript:;">2010</a></li>
+                           </ul>
+                        </div>
+						<div class="post clearfix xh_lists">
+                           <ul>
+                           	<li class="first"><a href="javascript:;">按国家</a></li>
+                           	<li><a href="javascript:;">全部</a></li>
+                           	<li><a href="javascript:;">美国</a></li>
+							<li><a href="javascript:;">英国</a></li>
+                           	<li><a href="javascript:;">欧洲</a></li>
+							<li><a href="javascript:;">澳洲</a></li>
+                           </ul>
+                        </div>
+						<div class="post clearfix xh_lists">
+                           <ul>
+                           	<li class="first"><a href="javascript:;">按学历</a></li>
+                           	<li><a href="javascript:;">全部</a></li>
+                           	<li><a href="javascript:;">本科</a></li>
+							<li><a href="javascript:;">研究生</a></li>
+                           	<li><a href="javascript:;">本科转学</a></li>
+                           </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+						<table class="xh_lqb">
+							<thead>
+								<th>姓名</th>
+								<th>录取结果</th>
+								<th>排名</th>
+								<th>专业</th>
+								<th class="isPc">学位</th>
+								<th class="isPc">申请背景</th>
+								<th class="isPc">案例分享</th>
+								<th class="isPc">详细信息</th>
+							</thead>
+							<tr>
+								<td>L同学</td>
+								<td>纽约电影学院</td>
+								<td>NA</td>
+								<td>电影制作</td>
+								<td class="isPc">本科转学</td>
+								<td class="isPc">重庆人文科技学院  广播电视编导  大二</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>x同学</td>
+								<td>纽卡斯尔大学</td>
+								<td>英国23 专业9</td>
+								<td>景观建筑</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">华中农业大学楚天学院  景观园林</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>x同学</td>
+								<td>卡迪夫大学</td>
+								<td>英国33</td>
+								<td>城市设计</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">华中农业大学楚天学院  景观园林</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>x同学</td>
+								<td>伯明翰城市大学</td>
+								<td>英国105</td>
+								<td>景观建筑</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">华中农业大学楚天学院  景观园林</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>L同学</td>
+								<td>芝加哥艺术学院  $21,000奖学金</td>
+								<td>艺术2</td>
+								<td>插画</td>
+								<td class="isPc">本科</td>
+								<td class="isPc">北京四中国际部</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>Z同学</td>
+								<td>宾夕法尼亚大学</td>
+								<td>综合8</td>
+								<td>城市规划</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">广东外语外贸大学本/美国哥伦比亚大学硕  播音与主持艺术本/社会工作硕</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>Y同学</td>
+								<td>纽约州立大学环境科学与林业科学学院</td>
+								<td>综合76</td>
+								<td>景观建筑</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">上海商学院  园林</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>Z同学</td>
+								<td>约翰霍普金斯大学皮博迪音乐学院</td>
+								<td>综合12</td>
+								<td>中提琴演奏</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">中央音乐学院  中提琴演奏</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>Z同学</td>
+								<td>罗切斯特大学伊斯曼音乐学院  $14,250奖学金</td>
+								<td>综合32  专业1</td>
+								<td>中提琴演奏</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc"中央音乐学院  中提琴演奏</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+							<tr>
+								<td>J同学</td>
+								<td>纽卡斯尔大学</td>
+								<td>综合22  专业1</td>
+								<td>艺术、商业与创意文化产业</td>
+								<td class="isPc">硕士</td>
+								<td class="isPc">中国人民大学  行政管理</td>
+								<td class="isPc"></td>
+								<td class="isPc"><a href="#">在线咨询</a></td>
+							</tr>
+						</table>
+					</div>
+					
+                </div>
+            </div>
+        </div>
+        <!-- 列表 -->
+		<div class="container mt20">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="pagination">
+						<a href="#" class="prev">首页</a>
+						<a href="#" class="cur">1</a>
+						<a href="#">2</a>
+						<a href="#">3</a>
+						<a href="#">4</a>
+						<a href="#">5</a>
+						<a href="#" class="next">末页</a>
+					</div>
+				</div>
+			</div>
+		</div>
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/counter.animation.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/jquery.cycle2.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				$(".xh_lqb tr:odd").css("background","#fff");
+				$(".xh_lqb tr:even").css("background","#f2f2f2");
+				
+				var rel = IsPC();
+				if(rel == false){
+					$(".isPc").hide();
+					$(".xh_lqb td:first-child").css({"width":50 + "px"});
+				}else{
+					$(".isPc").show();
+				}
+			});
+			function IsPC()  
+			{  
+			   var userAgentInfo = navigator.userAgent;  
+			   var Agents = new Array("Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod");  
+			   var flag = true;  
+			   for (var v = 0; v < Agents.length; v++) {  
+					   if (userAgentInfo.indexOf(Agents[v]) > 0) { flag = false; break; }  
+			   }  
+			   return flag;  
+			}  
+		</script>
+
+    </body>
+</html>

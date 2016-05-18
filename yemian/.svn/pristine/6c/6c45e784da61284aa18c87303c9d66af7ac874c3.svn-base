@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0,user-scalable=no;"/>
+<title>做你留学申请路上的蓝胖子</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<!--JS部分-->
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/TweenMax.min.js"></script>
+<!-- <script language="javascript" src="js/audio.min.js"></script> -->
+<script src="js/main.js" language="javascript"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+</head>
+<body>
+<div class="music"><img id="bottomBgImg" src="images/open.png"/></div>
+<div class="page">
+  <ul class="pageUl"> 
+ 
+    <li class="li_7">
+
+      <div class="maxWidth maxWidth7 maxWidth77" style="text-align:left;"><img src="images/p_22.png"/>
+
+      </div>
+
+      <div class="maxWidth infoAbsolute infoAbsolute7">
+
+        <div><img class="title6" src="images/p_21.png"/></div>
+
+      </div>
+
+    </li>
+
+    <li class="li_8">
+
+      <div class="maxWidth infoAbsolute infoAbsolute8">
+
+        <div class="bottomImgLeftRight">
+
+          <div><a href="#"><img src="images/p_23.png"/></a></div>
+
+          <div><a href="#"><img src="images/p_24.png"/></a></div>
+
+        </div>
+
+        <div class="bottomImgLeftRight">
+
+          <div><a href="#"><img src="images/p_25.png"/></a></div>
+
+          <div><a href="#"><img src="images/p_26.png"/></a></div>
+
+        </div>
+
+      </div>
+
+    </li>
+
+    <li class="li_9">
+
+      <div class="maxWidth lastPage">
+
+        <div class="centerImg" style="height:auto!important;"><img src="images/p_27.png"/></div>
+
+        <div class="p9"><a href="http://www.wenjuan.com/s/QrmeAn/" target="_blank"><img class="bottom8" src="images/p_28.png"/></a> </div>
+
+      </div>
+
+    </li>
+
+  </ul>
+<script type="text/javascript">
+$.setShare = function(opts,pageid){
+		var host = window.location.host;
+		var wxdatas = $.extend({
+			  title: "做你留学申请上的蓝胖子",
+			  desc: "小伙伴们为哥大八卦操碎了心，教授&面试官想找你聊聊",
+			  link: "http://wap.tiandaoedu.com/topic/dlam/index.html",
+			  imgUrl: "http://wap.tiandaoedu.com/topic/dlam/images/p_27.png",
+			  trigger: function (res) {
+			  },
+			  success: function (res) {
+				//alert('已分享');
+				window.location.href="http://www.wenjuan.com/s/QrmeAn/";
+			  },
+			  cancel: function (res) {
+				//alert('已取消');
+			  },
+			  fail: function (res) {
+				//alert(JSON.stringify(res));
+			  }
+			},opts);
+		wx.onMenuShareAppMessage(wxdatas);
+		wx.onMenuShareTimeline(wxdatas);
+		wx.onMenuShareQQ(wxdatas);
+		wx.onMenuShareWeibo(wxdatas);
+	}
+</script>
+</div>
+</body>
+</html>
+

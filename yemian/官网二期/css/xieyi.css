@@ -1,0 +1,59 @@
+/* 协议 */
+body{
+	background:#fff;
+}
+.header a:first-child{
+	font-size:3em;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:99;
+	color:#fff;
+	height:43px;
+	line-height:1.5em;
+	width:30px;
+}
+.header a:first-child span{
+	 display: block;
+  float: left;
+  font-size: 1.2em;
+  line-height: 4.5em;
+}
+.xy_cont{
+	padding:2em 1em;
+}
+.xy_cont  h2{
+	font-size: 1.4em;
+	margin-bottom: 10PX;
+}
+h2.h2_1{
+	color:#696969;
+	font-size:1.8em;
+}
+.xy_cont p{
+	color:#888;
+	font-size:1.25em;
+	margin:10px 0;
+}
+.ty a{
+	line-height:50px;
+	color:#fff;
+	background:#40c69e;
+	display:block;
+	width:100%;
+	font-size:1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

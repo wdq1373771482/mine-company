@@ -1,0 +1,378 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>移动端界面_留学_方案详情</title>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+<link href="styles/framework.css" rel="stylesheet" type="text/css">
+<link href="styles/owl.theme.css" rel="stylesheet" type="text/css">
+<link href="styles/swipebox.css" rel="stylesheet" type="text/css">
+<link href="styles/font-awesome.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/my.css"/>
+<style type="text/css">
+	.responsive-image{margin-bottom:0!important;}
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="scripts/loading.js"></script>
+	<!--头部左上-->  
+	<div class="header xq_header">
+	    <a href="index.html" class="back"></a> 
+		<a href="tel:400-019-0038" class="header-navigation show-navigation hhh phs"><i class="phoness fl"></i></a>
+	    <a href="#" class="header-navigation show-navigation hhh"><i class="fa fa-share-alt show-navigations"></i></a>
+	</div>
+	<div class="header-clear"></div>
+	<div class="slider-container clearfix">
+	<div class=" homepage-slider1" data-snap-ignore="false">
+		<div class="mainBox">
+			<!--banner-->
+               <div class="slider-container">
+				<span class="cx"></span>
+				<div class="homepage-slider" data-snap-ignore="true">                
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+				</div>
+			</div>
+
+			<div class="xq_1">
+				<div class="content-heading content-headingsss">
+					<h3>
+						<a href="#" target="_blank">听力言语康复中心志愿者服务</a>
+					</h3>
+					<ul class="ksxq lxfa clearfix">
+					<li><i class="fa  fa-smile-o"></i>高中/本科 </li>
+					<li><i class="fa fa-pencil-square-o"></i>社会活动策划 </li>
+					<li><i class="faIcon"></i>全年定期</li>
+					</ul>
+				</div>
+			</div>
+			<div class="list3 list3_del">
+				<div class="hit"><i><img src="images/fx1.png" alt="" /></i>课程特色<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/xq2.png" alt="" /></i>适合人群<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/k2.png" alt="" /></i>服务承诺<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/k2.png" alt="" /></i>服务承诺<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/k2.png" alt="" /></i>服务承诺<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+			</div>
+			<!-- 正文 -->
+			<div class="msBox xq_msBox">
+				<div class="content-heading">
+					<a href="#" target="_blank"><img src="images/2ww.jpg" alt="img"></a>
+				</div>   
+				<div class="content">
+					<div class="allTxt1 allTxt11">
+						<p>世界在体内静下来</p>
+						<p>嘴唇上开满了沉默的花朵</p>
+						<p>而我无法告诉自己</p>
+						<p>什么时候才能</p>
+						<p>听见世界的声音</p>
+					<div class="xq_t1">
+						<p>在我们身边有这样一群孩子，因为先天性听觉障碍，始终徘徊在有声世界之外，但他们同样有着美丽的梦想，他们也想和其他孩子一样快乐长大。你愿不愿意和我一起，为他们架起通往有声世界的桥梁?</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">机构简介：</span>漂亮妈妈听力言语康复中心位于北京市石景山区，是一所民办非营利性康复机构，隶属于石景山民政局。中心设备设施齐全，拥有多名具有丰富教学经验的聋儿康复训练教学骨干和一批各具才华的年青教师，并聘请有多位行业专家担任顾问。在教学设置配备和教学管理严格遵守中国聋儿康复中心的标准，并自主开发了多种新颖的多媒体教学系统和教材教具。</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动内容：</span>陪同周末全托管的小朋友(大约20人)做游戏，发挥自己特长，教授他们舞蹈、绘画、乐器、声乐等，一个学生负责两个小朋友的安全。</p>
+					</div>
+					<div class="xq_t1">
+						<p>活动内容：陪同周末全托管的小朋友(大约20人)做游戏，发挥自己特长，教授他们舞蹈、绘画、乐器、声乐等，一个学生负责两个小朋友的安全。</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动时间：</span>全年定期</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动地点：</span>北京市石景山区红卫路1号“漂亮妈妈”儿童听力康复中心</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动收获：</span>了解有关听力言语康复的简单知识和注意事项，例如听辅器具的知识、影响康复的因素等，了解特殊人群的需求，学习护理及康复工作，培养自己的爱心与责任感，<span class="time">学生活动感想：义工志愿者经历，感悟生命，精神成长与沉淀。</span></p>
+					</div>
+					<div class="xq_t1">
+						<p>这次活动的地点可谓是令我们不少同学长途跋涉才能企及的，但当我看到那群天真可爱又懂事的孩子时，觉得这一路值了。</p>
+					</div>
+					<div class="xq_t1">
+						<p>最初看到他们，感觉他们就和同年龄的正常孩子一样活泼开朗，还有点淘气，但细细一看却发现他们每人身上都带着助听器，不仅一种同情心油然而生。领队程老师提议我们和孩子们坐成一桌，用我们自带的书和画笔教他们画画、写字，我们每人都坐到孩子们中间，每个人都负责1-2个孩子。</p>
+					</div>
+					<div class="xq_t1">
+						<p>我清楚得记得我右边的高子硕一直用眼神请求我教他玩一个飞机模型的玩具，左边的周同学开心得吃各种零食，他们的种种举动都让我感到特别的温暖，好似和他们已经认识了很长时间。之后我们还带他们到操场上玩耍，很累，却很开心。</p>
+					</div>
+					<div class="xq_t1">
+						<p>希望还有机会见到这些可爱的孩子!</p>
+					</div>
+					<p class="tr">——来自志愿者姜同学</p>
+					</div>
+				</div>
+			</div>
+		   <!-- 更多录取案例 -->
+		   <h2 class="titName">相关方案推荐</h2>
+		   <ul class="gallery round-thumb homepage-gallery gallery_2 gallery_3" id="">
+				<li><a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/3s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/4s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			</ul>
+			<!-- 更多录取案例 -->
+		   <h2 class="titName">成功故事</h2>
+		   <ul class="gallery round-thumb homepage-gallery gallery_2 gallery_3 mb80" id="">
+				<li><a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/3s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/4s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			</ul>
+		</div>
+		<div class="mainBox">
+			<!--banner-->
+               <div class="slider-container">
+				<span class="cx"></span>
+				<div class="homepage-slider" data-snap-ignore="true">                
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+					<div>
+						<a href="#" target="_blank"><img src="images/3.jpg" class="responsive-image" alt="img"></a>
+					</div>
+				</div>
+			</div>
+			<div class="xq_1">
+				<div class="content-heading content-headingsss">
+					<h3>
+						<a href="#" target="_blank">听力言语康复中心志愿者服务</a>
+					</h3>
+					<ul class="ksxq lxfa clearfix">
+					<li><i class="fa  fa-smile-o"></i>高中/本科 </li>
+					<li><i class="fa fa-pencil-square-o"></i>社会活动策划 </li>
+					<li><i class="faIcon"></i>全年定期</li>
+					</ul>
+				</div>
+			</div>
+			<div class="list3 list3_del">
+				<div class="hit"><i><img src="images/fx1.png" alt="" /></i>课程特色<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/xq2.png" alt="" /></i>适合人群<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/k2.png" alt="" /></i>服务承诺<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/k2.png" alt="" /></i>服务承诺<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+				<div class="hit"><i><img src="images/k2.png" alt="" /></i>服务承诺<i class="fa fa-angle-down fr"></i></div>
+				<div class="xq_list_1">
+					位于北京市区，交通方便，便于周末一天志愿者活动
+		在听力言语康复领域的机构中，设备及师资力量强，课程设计成熟，便于志愿者学习掌握，进而对听力言语障碍儿童的恢复工作贡献自己的一份力量
+				</div>
+			</div>
+			<!-- 正文 -->
+			<div class="msBox xq_msBox">
+				<div class="content-heading">
+					<a href="#" target="_blank"><img src="images/2ww.jpg" alt="img"></a>
+				</div>   
+				<div class="content">
+					<div class="allTxt1 allTxt11">
+						<p>世界在体内静下来</p>
+						<p>嘴唇上开满了沉默的花朵</p>
+						<p>而我无法告诉自己</p>
+						<p>什么时候才能</p>
+						<p>听见世界的声音</p>
+					<div class="xq_t1">
+						<p>在我们身边有这样一群孩子，因为先天性听觉障碍，始终徘徊在有声世界之外，但他们同样有着美丽的梦想，他们也想和其他孩子一样快乐长大。你愿不愿意和我一起，为他们架起通往有声世界的桥梁?</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">机构简介：</span>漂亮妈妈听力言语康复中心位于北京市石景山区，是一所民办非营利性康复机构，隶属于石景山民政局。中心设备设施齐全，拥有多名具有丰富教学经验的聋儿康复训练教学骨干和一批各具才华的年青教师，并聘请有多位行业专家担任顾问。在教学设置配备和教学管理严格遵守中国聋儿康复中心的标准，并自主开发了多种新颖的多媒体教学系统和教材教具。</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动内容：</span>陪同周末全托管的小朋友(大约20人)做游戏，发挥自己特长，教授他们舞蹈、绘画、乐器、声乐等，一个学生负责两个小朋友的安全。</p>
+					</div>
+					<div class="xq_t1">
+						<p>活动内容：陪同周末全托管的小朋友(大约20人)做游戏，发挥自己特长，教授他们舞蹈、绘画、乐器、声乐等，一个学生负责两个小朋友的安全。</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动时间：</span>全年定期</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动地点：</span>北京市石景山区红卫路1号“漂亮妈妈”儿童听力康复中心</p>
+					</div>
+					<div class="xq_t1">
+						<p><span class="time">活动收获：</span>了解有关听力言语康复的简单知识和注意事项，例如听辅器具的知识、影响康复的因素等，了解特殊人群的需求，学习护理及康复工作，培养自己的爱心与责任感，<span class="time">学生活动感想：义工志愿者经历，感悟生命，精神成长与沉淀。</span></p>
+					</div>
+					<div class="xq_t1">
+						<p>这次活动的地点可谓是令我们不少同学长途跋涉才能企及的，但当我看到那群天真可爱又懂事的孩子时，觉得这一路值了。</p>
+					</div>
+					<div class="xq_t1">
+						<p>最初看到他们，感觉他们就和同年龄的正常孩子一样活泼开朗，还有点淘气，但细细一看却发现他们每人身上都带着助听器，不仅一种同情心油然而生。领队程老师提议我们和孩子们坐成一桌，用我们自带的书和画笔教他们画画、写字，我们每人都坐到孩子们中间，每个人都负责1-2个孩子。</p>
+					</div>
+					<div class="xq_t1">
+						<p>我清楚得记得我右边的高子硕一直用眼神请求我教他玩一个飞机模型的玩具，左边的周同学开心得吃各种零食，他们的种种举动都让我感到特别的温暖，好似和他们已经认识了很长时间。之后我们还带他们到操场上玩耍，很累，却很开心。</p>
+					</div>
+					<div class="xq_t1">
+						<p>希望还有机会见到这些可爱的孩子!</p>
+					</div>
+					<p class="tr">——来自志愿者姜同学</p>
+					</div>
+				</div>
+			</div>
+		   <!-- 更多录取案例 -->
+		   <h2 class="titName">相关方案推荐</h2>
+		   <ul class="gallery round-thumb homepage-gallery gallery_2 gallery_3" id="">
+				<li><a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/3s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/4s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			</ul>
+			<!-- 更多录取案例 -->
+		   <h2 class="titName">成功故事</h2>
+		   <ul class="gallery round-thumb homepage-gallery gallery_2 gallery_3 mb80" id="">
+				<li><a href="#" target="_blank"><img src="images/1s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/2s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/3s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+				<li><a href="#" target="_blank"><img src="images/4s.jpg" alt="img"></a><p><a href="#" target="_blank">约翰霍普金斯大学斯大学斯大学</a></p></li>
+			</ul>
+		</div>
+	</div>
+	</div>
+	<!-- 分享 -->
+	<div class="share">
+		<div class="shareIcon">
+			<div class="d_box">
+				<div class="bdsharebuttonbox">
+						<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><p>QQ空间</p></a>
+						<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"><p>新浪微博</p></a>
+						<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"><p>朋友圈</p></a>
+						<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"><p>微信</p></a>
+						<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"><p>QQ好友</p></a>
+						<a href="#" class="bds_copy" data-cmd="" title="分享到复制网址"><p>复制网址</p></a>
+					<!-- 	<a href="#" class="bds_more" data-cmd="more"></a> -->
+					</div>
+				<script>
+					window._bd_share_config={
+						"common":{
+							"bdSnsKey":{},
+							"bdText":"",
+							"bdMini":"2",
+							"bdMiniList":false,
+							"bdPic":"",
+							"bdStyle":"1",
+							"bdSize":"32"
+						},
+						"share":{
+							"bdSize":32
+						}
+					};
+					with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+			</div>
+		</div>
+	</div>
+	<div class="menu-wrapper-background"></div>
+	<div class="header-clears"></div>
+	<a class="phone" id="phone" href="tel:400-019-0038">
+		<p>电话咨询</p>
+	</a>
+	
+	<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="scripts/zepto.js"></script>
+	<script type="text/javascript" src="scripts/framework.plugins.js"></script>
+	<script type="text/javascript" src="scripts/custom.js"></script>
+	<script type="text/javascript">
+		var phone=document.getElementById("phone");
+		phone.addEventListener("touchstart",function(){
+			this.style.background="#d4741a";
+		});
+		
+		(function($){
+			$(".phoness").on("tap",function(){
+				$(this).addClass("on1");
+			});
+			var index=0;
+			$(".list3_del .hit").toggle(function(){
+				$(this).css("marginBottom",0);
+				$(this).find("i:last").removeClass("fa-angle-down").addClass("fa-angle-up");
+				$(this).next().slideDown(50);
+			},function(){
+				$(this).find("i:last").removeClass("fa-angle-up").addClass("fa-angle-down");
+				$(this).next().slideUp(50);
+			});
+			//左右滑动
+			$(".homepage-slider1").owlCarousel({
+				singleItem : true,
+				autoPlay:false,
+				pagination:false,
+				navigation:false,
+		paginationNumbers:false
+			});
+		})(jQuery);
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

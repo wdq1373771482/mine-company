@@ -1,0 +1,112 @@
+body{background:#fff;}
+.tit1{
+	color:#333;
+	font-size:1.8em;
+	font-weight:bold;
+	line-height:2.5em;
+	background:#ebebeb;
+}
+.pic{
+	padding:2em 1em;
+}
+.pic img{
+	display:block;
+	margin:0 auto;
+	width:100px;
+	height:auto;
+}
+.pic p{
+	font-size:1.8em;
+	font-weight:bold;
+	color:#40c69e;
+	line-height:1.5em;
+}
+.choise{
+	background:#e6fcf5;
+	padding:0.2em 1em;
+	/* border-bottom:1px solid #eee; */
+}
+.box1{
+	color:#888;
+	font-size:1.25em;
+	margin:1em 0 1.5em 0;
+}
+.box1 .tit2{
+	color:#40c69e;
+	line-height:2em;
+	color:#40c69e;
+	font-size:1.2em;
+}
+.tit2 span{
+	width:16px;
+	height:16px;
+	border-radius:16px;
+	background:#40c69e;
+	display:inline-block;
+	margin-right:0.2em;
+}
+.pic p.tit_red{
+	color:#ff8479!important;
+}
+.choise2{
+	background:#fef4f3;
+}
+.choise2 .box1 .tit2{
+	color:#ff8479;
+}
+.choise2 .tit2 span{
+	background:#ff8479;
+}
+.tit_yel{
+	color:#ffba00!important;
+}
+.choise3 .box1 .tit2{
+	color:#ffba00;
+}
+.choise3{
+	background:#fdf9ee;
+}
+.choise3 .tit2 span{
+	background:#ffba00;
+}
+.p_1{
+	line-height: 4em;
+	background:#ebebeb;
+	padding: 0 1em;
+	border-bottom: 1px solid #dcdcdc;
+	margin-bottom:2.5em;
+}
+.p_1 i {
+  margin-top:15px;
+  background:url(../images/ar_r.png) no-repeat;
+  background-size:10px auto;
+  width:12px;
+  height:20px;
+}
+.p_1 a {
+  color: #666;
+  font-size: 1.4em;
+  display:block;
+}
+.p_1_fx{
+	border-bottom:none;
+}
+
+.goOn a{
+	line-height:50px;
+	background:#40c69e;
+	color:#fff;
+	font-size:1.5em;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+
+

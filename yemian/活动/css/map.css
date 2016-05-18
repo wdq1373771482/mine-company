@@ -1,0 +1,39 @@
+body{background:#f1f1f1; height:100%}
+.mapCon{ padding-top:0.45rem;background:#f1f1f1;}
+.map_tit{ text-align:center}
+.map_tit p{ color:#0692d3; font-size:0.3rem; font-weight:bold}
+.map_tit span{ color:#666; font-size:0.2rem}
+.map{ background:url(../images/map.png) no-repeat center bottom; width:4.85rem; height:7.26rem; background-size:4.64rem 6.69rem; margin:0.5rem auto;position:relative}
+.map_bottom{ padding-bottom:0.5rem}
+.map_bottom p{ color:#ffa800; font-size:0.24rem; text-align:center;}
+.map a{ 
+	display:block;
+	width:1.24rem; 
+	height:1.24rem;
+	border-radius:100%; 
+	font-size:0.25rem;
+	background:url(../images/suobg.png) no-repeat center 0.80rem  #8b8c8c; 
+	background-size:0.19rem 0.22rem;
+	border: solid 3px  rgba(255,255,255,0.5);
+	text-align:center; 
+	line-height:1.24rem;
+	color:#fff;
+	position:absolute
+}
+.map a.pass{ background-color:#019fe8; background-image:none}
+.map a.current{width:1.2rem; height:1.5rem;background: url(../images/currentbg.png) no-repeat center 0;background-size:1.16rem 1.5rem; border:none; color:#ffa800}
+.map .round1{ top:0.2rem; left:0.25rem}
+.map .round2{ top:0; left:3.14rem}
+.map .round3{ top:1.9rem; left:2.28rem}
+.map .round4{ top:4.16rem; left:1.51rem}
+.map .round5{ top:5.61rem; left:0}
+.hideDiv{ position:absolute; top:0;left:0; width:100%; background:rgba(0,0,0,0.3); display:none}
+.hideDiv div{ background:#f1f1f1; width:5.37rem; height:2.2rem; margin:50% auto 0; border-radius:0.1rem; padding:0.1rem}
+.hideDiv div p{ color:#333; text-align:center; font-size:0.24rem; padding-top:0.8rem}
+.hideDiv div a{ display:block; border:solid 1px #333; border-radius:50%; font-size:0.5rem; width:0.44rem; height:0.44rem; text-align:center; line-height:0.44rem; float:right}
+
+.tip{width:250px;height:140px;padding:1em;background:#f1f1f1;border-radius:10px;position:fixed;left:50%;top:50%;    margin-left: -141px;
+    margin-top: -86px;color:#333;text-align:center;z-index:9999999999;display:none;}
+.close{width:100%;overflow:hidden;}
+.close span{background:url(../images/close1.png) no-repeat center center;width:40px;height:40px;background-size:78% auto;float:right;}
+.tip p{font-size:1.5em;}

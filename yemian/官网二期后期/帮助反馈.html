@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>意见反馈</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/grzl.css"/>
+<link rel="stylesheet" type="text/css" href="css/register.css"/>
+<style type="text/css">
+</style>
+</head>
+<body> 
+	<!--加载提示-->
+	<script type="text/javascript" src="js/loading.js"></script>
+	<!--头部左上--> 
+	<div class="bigBox">
+	
+		<!-- 意见反馈 -->
+		<section class="sectionBox section2 active">
+			<div class="header clearfix">
+				<a href="#"><i class="fa"></i></a> 
+				<h2>帮助反馈</h2>
+			</div>
+			<div class="h43"></div>
+			<div class="down_cont">
+				<div class="yj_down yj_down1">
+					<div class="myClass">
+						<p class="tc mt20">
+							<textarea name="" id="textarea" class="textarea">请输入您的反馈内容，我们会不断的改进。</textarea>
+						</p>
+					</div>
+					<p class="submit tc w92"><a href="#">提交</a></p>
+				</div>
+				<div class="yj_down yj_down2">
+					<div class="myClass">
+						<p class="tc mt20"><img src="images/yj_succe.png" alt="" /></p>
+						<h2 class="tc mt20">提交成功</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/load.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			//意见反馈
+			var t="请输入您的反馈内容，我们会不断的改进。";
+			$(".textarea").focus(function(){
+				var txt=$(this).val();
+				if(txt == t && txt != ""){
+					$(this).val("");
+				}
+			}).blur(function(){
+				var txt=$(this).val();
+				if(txt == ""){
+					txt=$(this).val(t);
+					$(".submit").off("click");
+				}
+			});
+			$(".submit").on("click",function(){
+				$(".yj_down1").fadeOut();
+				$(".yj_down2").fadeIn();
+			});
+		});
+	</script>
+</body>
+</html>

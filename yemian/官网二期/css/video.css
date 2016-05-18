@@ -1,0 +1,397 @@
+.icons i{
+	display:block;
+	margin-top: 0.1em;
+}
+.icons i:first-child{
+	margin-top: 0.15em;
+	MARGIN-RIGHT: 0.05em;
+}
+.header a img{
+	width:50%;
+}
+.list_tz .ons{
+	background:#ddd;
+}
+.header .a_r.a_rssss,a.p_phones{
+	top:8px;
+	position:absolute;
+}
+a.a_rssss{
+	right:0!important;
+}
+a.p_phones{
+	right:1.5em!important;
+}
+/* 访谈 */
+.list_lx {
+    width: 94%;
+    margin: 20px auto;
+	 position: relative;
+}
+
+.search {
+    width: 100%;
+    border-radius: 50px;
+    font-size: 1.5em;
+	background:#d9d9d9;
+	border:none;
+	line-height:2.5em;
+	text-indent:3em;
+	color:#fff;
+	font-family:"微软雅黑"
+}
+.list_lx i:first-child {
+    position: absolute;
+    top: 11%;
+    left: 20px;
+    z-index: 2;
+    font-size: 3em;
+    color: #fff;
+}
+.list_lx i:last-child {
+    position: absolute;
+    top: 25%;
+    right: 20px;
+    z-index: 2;
+    font-size: 2em;
+    color: #fff;
+}
+h2.titName {
+    text-indent: 0.5em;
+    font-size: 1.8em;
+    color: #696969;
+    font-family: "微软雅黑";
+    font-weight: normal;
+    margin: 20px 0;
+}
+.txt_top{background:#fff;}
+.responsive-image{
+	width:100%;
+}
+.toutu{position:relative;}
+.toutu em{
+	display: block;
+	width: 62px;
+	height: 62px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left:-31px;
+	margin-top:-31px;
+	
+}
+.down{
+		padding:1em;
+}
+h3 a {
+    margin-top: 10px;
+    font-size: 1.4em;
+    font-family: "微软雅黑";
+    font-weight: normal;
+    color: #272727!important;
+}
+.ul_1{
+	padding-bottom:1em;
+	border-bottom:1px solid #eee;
+}
+.ul_1 li a{
+    text-align: center;
+    float: left;
+    margin: 5px 1%;
+    border: 1px solid #888;
+    line-height: 1.8em;
+    width: 22%;
+}
+.ul_1 li a{
+	color:#888;	
+	font-size:1.25em;
+}
+.ul_1 li.on a{
+    background: #ffb269;
+    border: 1px solid #ffb269;
+	color:#fff;
+}
+.more{
+	color:#098ac4;
+	font-size:1.25em;
+	line-height:3em;
+	
+}
+.container{
+	padding-top:0!important;
+}
+.alltxt2_cg dd{
+	margin-top:2em;
+}
+.alltxt2_cg1 dd{
+	margin-top:1.2em;
+}
+.auther{
+	color: #888;
+    font-size: 1.25em;
+}
+.jj{color: #888;font-size:1.25em;}
+.jj,.time{
+	padding-bottom:1em;
+	border-bottom:1px solid #eee;	
+}
+.jj span{
+	color:#5b5858;
+}
+.jj span a{
+	color:#ff893b
+}
+.lastP{
+	color:#f5963d
+}
+/* 移动端界面_视频_新手指南6 */
+.auther span{
+	color:#f3aa57;
+}
+.tit{color:#3f3f3f;font-size:1.25em;}
+.text{
+	font-size:1.25em;
+	color:#888;
+}
+.textAll{
+	display:none;
+}
+.slide span{
+	width: 50px;
+    height: 30px;
+    display: block;
+	margin:0 auto;
+}
+.slide,.thumb-left,.video{position:relative;}
+.video{
+	padding-left:1em;
+}
+.slide i{
+	font-size:2em;
+	position:absolute;
+	top:-4px;
+}
+.header .a_rs{
+	    right: 2.4em;
+	top: 0;
+	height: 100%;
+	}
+.header .a_rs img{margin-top:13px;}
+.fa-star-o{
+	    margin-right: 2.5em;
+    display: block;
+    float: left;
+    font-size: 1.7em;
+    margin-top: 6px;
+    position: absolute;
+        right: -10px;
+    top: -3px;
+}
+.share11{
+	margin-top:4px;
+}
+.show-navigations img{width:50%;}
+/* 移动端界面_视频_讲座5 */
+.jz span{
+	position: absolute;
+	top: -0.3em;
+	left: 1.5em;
+	color: #fff;
+	font-size: 0.45em;
+	width: 2.5em;
+}
+.none{
+	border-bottom:none;
+}
+.none dd p a{
+	color: #888;
+	font-size: 0.8em!important;
+}
+.toutu .video  a{
+	display:block;
+	position:absolute;
+	right:1em;
+	top:2em ;
+	background:url(../images/vBtn.png) no-repeat;
+	background-size:contain;
+	width:45px;
+	height:25px;
+}
+.toutu .none em{
+	width:35px;
+	height:35px;
+	margin-left:-17.5px;
+	margin-top:-17.5px;
+}
+.sp{
+	padding-top:1em;
+}
+.sp li{
+	overflow:hidden;
+	padding-left:1em;
+	border-bottom:1px solid #eee;
+	margin-top:1em;
+	line-height:4em;
+}
+.sp li:last-child{border:none;}
+.sp li span{
+	display:block;
+	width:30px;
+	height:30px;
+	background:#70dbe9;
+	border-radius:30px;
+	text-align:center;
+	line-height:30px;
+	color:#fff;
+	float:left;
+	font-size:1.5em;
+}
+.sp li  a{
+	float:left;
+	color:#272727;
+	font-size:1.5em;
+	margin-top: -0.6em;
+    margin-left: 0.2em;
+}
+
+
+
+
+
+
+/* share */
+.share{
+	width:100%;
+	margin:0 auto;
+	display:none; 
+	position:fixed;
+	bottom:0;
+	right:0;
+	z-index:999999999;
+  background-color: rgba(0,0,0,0.6);
+}
+.shareIcon{text-align:center;}
+.gallery.gallery_msxq li img{
+	border-radius:0!important;
+	display:block;
+	margin:0 auto;
+}
+.gallery_msxq  li {
+	width:32.333333%;
+}
+.gallery_msxq  li p{
+	color:#fff;
+}
+ .shareIcon .d_box{
+	margin:1em auto 1em auto;
+}
+.shareIcon .bdsharebuttonbox a{
+	margin:0 8%;
+}
+.bdshare_dialog_box,.bdshare_popup_box{
+	z-index:1000000!important;
+}
+.bdsharebuttonbox a{
+	width:17.33333%!important;
+	text-indent:0!important;
+	height:102px!important;
+}
+.bdsharebuttonbox a{
+	
+	display:block;
+}
+.bdshare-button-style1-32 a{
+	background-position:center 8px!important;
+	position:relative;
+}
+.bdsharebuttonbox a p{
+	color:#fff;
+	width:100%;
+	position:absolute;
+	left:0;
+	bottom:-8px;
+	text-align:center;
+}
+.bdshare-button-style1-32 .bds_qzone{
+	background:url(../images/f5.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_tsina{
+	background:url(../images/f3.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_tqq{
+	background:url(../images/f2.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_weixin{
+	background:url(../images/f1.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+.bdshare-button-style1-32 .bds_sqq{
+	background:url(../images/f4.png) no-repeat 0 0;
+	background-size:100% auto;
+} 
+.bdshare-button-style1-32 .bds_copy{
+	background:url(../images/f6.png) no-repeat 0 0;
+	background-size:100% auto;
+} 
+.bd_weixin_popup{
+	z-index:999999999!important;
+}
+
+
+@media(max-width:320px){
+	.mt0{
+		margin-top:0!important;
+	}
+	.mt00{
+		margin-top:1.2em!important;
+	}
+	.none dd p a {
+		color: #888;
+		font-size: 0.7em!important;
+	}
+	.bdsharebuttonbox a {
+		width: 17.33333%!important;
+		text-indent: 0!important;
+		height: 85px!important;
+	}
+}
+.no-bottom {
+	padding-bottom:0;
+}
+.phone.phones_zn6{font-size:1.7em;}
+.phones_zn6{
+	position: absolute;
+	top:8px;
+	right: 0em;
+	color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

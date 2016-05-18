@@ -1,0 +1,86 @@
+.w1000{width:1000px;margin:0 auto;}
+.fl{float:left;}
+.fr{float:right;}
+a,input{outline:none;}
+a{text-decoration:none;}
+a:hover{text-decoration:none;}
+input::-ms-clear {
+display: none;
+}
+input:-webkit-autofill { 
+-webkit-box-shadow: 0 0 0px 1000px white inset; 
+border: 1px solid #CCC!important; 
+} 
+li{list-style:none;}
+.mt25{margin:15px 0;}
+.clear{clear:both}
+.clearfix{zoom:1;}
+.clearfix:after{display:block; content:'.'; clear:both; line-height:0; visibility:hidden;}
+body,html{font-family:"Microsoft Yahei"}
+.header{background:#333;height:60px;}
+.head{height:60px;}
+.logo{height:60px;width:134px;background:url(../images/l.jpg) no-repeat center center;display:block;float:left;vertical-align:middle}
+.header li {list-style:none;float:left;display:block;line-height:60px;margin:0 12px;}
+.header li  a{color:#999;font-size:18px;text-decoration:none;}
+.tel{width:230px;height:60px;display:block;background:url(../images/tel.jpg) no-repeat center center;}
+.list1{height:60px;width:604px;margin-left:20px;}
+.pic{height:500px;background:url(../images/pic.jpg) no-repeat;}
+.txt{background:#f2f1f1;padding:86px 0;}
+.txt1{height:266px;}
+.txt1 dt,.txt1 dd{float:left;}
+.txt1 dt{border:1px solid #b5b5b5;padding:30px;width:360px;}
+.txt1 dt p{text-align:center;font-size:18px;color:#666;margin-top:20px;}
+.btn a{display:block;width:317px;height:57px;background:url(../images/btn.png) no-repeat;color:#fff;font-size:24px;text-align:center;line-height:57px;}
+.txt1 dd{width:526px;margin-left:32px;}
+.txt2  p{color:#333;font-size:22px;font-family:"Microsoft Yahei";margin:10px 0;}
+.didi{height:525px;height:40px;background:url(../images/di.jpg) no-repeat;}
+p.p9{color:#999;line-height: 32px;}
+.tit{height:96px;background:#eceaea;}
+.tit h2{font-size:40px;font-family:"Hiragino Sans GB";font-weight:normal;height:100%;line-height:96px;background:url(../images/li.jpg) no-repeat left center;padding-left:20px;color:#666;}
+.tit h2 span{color:#b7b7b7;font-size:36px;}
+.list2 li{float:left;margin: 40px 75px; width: 180px;}
+.list2 li p span{display:inline-block;width:30px;height:33px;background:url(../images/n2.jpg) no-repeat;position:relative;top:10px;margin-right:5px;}
+.list2 li p{font-size:22px;color:#8c8c8c;line-height:36px;}
+li.liLast{margin:40px 30px;}
+.list2 li p.p1 span{background:url(../images/n1.jpg) no-repeat;width:34px;height:33px;}
+.cont2{padding:20px 0;}
+.cont2 dl{margin:30px 0;}
+.cont2 dt,.cont2 dd,.txt3 dt,.txt3 dd{float:left;}
+.cont2 dd{font-size:24px;color:#666;height:100px;line-height:100px;background:#f5f5f5;padding:0 20px;margin-top:11px;width:545px;}
+.cont3 dd{background:#f5f5f5;margin:0;width:766px;float:right;height:242px}
+.cont3 dd h3{background:#0ed3be;line-height:60px;text-align:center;font-family:"Microsoft Yahei";font-weight:normal;color:#fff;}
+.cont3 dd h3 span{font-size:24px;display:inline-block;margin-left:20px;}
+.cont3 dd p{font-size:18px;color:#666;line-height:32px;margin:10px 0;}
+.cont3 dd h3.h31{width:386px}
+.cont3 dd h3.h32{width:400px}
+.cont3 dl a{display:block;}
+.txt3{margin:20px auto;}
+.txt3 h3{width:172px;line-height:55px;text-align:center;color:#fff;font-size:30px;font-weight:normal;background:#0ed3be;}
+.dls{padding:20px 10px;background:#f5f5f5;}
+.dls dl{width:490px;float:left;}
+.txt3 dl{margin:15px 0;}
+.txt3 dd h4{font-size:24px;color:#8a8a8a;font-weight:normal;line-height:32px;font-family: "Microsoft Yahei";}
+.txt3 dd p{font-size:18px;line-height:32px;color:#8a8a8a;font-family: "Microsoft Yahei";}
+.txt3 dd{margin-left:20px;}
+.btns{margin-top:20px;margin-bottom:35px;}
+.bg{width:100%;height:396px;background:#f5f5f5;position:absolute;top:180px;}
+.cont4 em{display:block;width:395px;height:187px;background:url(../images/i4.png) no-repeat;position:absolute;right:10px;bottom:-72px;}
+.dlss{position:absolute;z-index:222;width:980px;margin:0 10px;top:62px}
+.dlss dl{float:left;width:258px;}
+.dlss dt{width:100%;padding:38px 0px 30px 0px;background:#fff;border:1px solid #f6f6f6;}
+.dlss dt  span{display:block;text-align:center;}
+.dlss dt p{font-size:26px;color:#6f6f6f;text-align:center;    font-family: "Microsoft Yahei";margin-top:20px;}
+.cont4{position:relative;height:606px;}
+.dlss dd{font-size:18px;color:#6f6f6f;line-height:32px;margin-top:20px; font-family: "Microsoft Yahei";}
+.ml{margin-left:103px;}
+dl.dlLast{float:right;}
+.last{margin-top:104px;}
+.last dd p{font-size:30px;margin:16px 0;text-align:center;color:#6f6f6f}
+.last .btn {margin:0;}
+.last .btn a{margin:30px auto 0px auto;}
+.last dd{margin-top:82px;}
+
+
+
+
+
