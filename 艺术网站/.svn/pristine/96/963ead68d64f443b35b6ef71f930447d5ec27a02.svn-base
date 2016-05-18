@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<title>作品集培训详情页</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css">
+<link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+<link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="css/style.css" type="text/css">
+<link rel="stylesheet" href="css/responsive.css" type="text/css">
+<link rel="stylesheet" href="css/xh_css.css" type="text/css">
+<link rel="stylesheet" href="css/wdq_css.css">
+<link rel="stylesheet" href="css/common.css">
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="favicon.ico">
+<script src="js/jquery-1.11.3.min.js"></script>
+<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+<![endif]-->
+</head>
+
+    <body class="blog-single">
+		<!-- HEADER S -->
+		<script type="text/javascript" src="js/head.js"></script>
+		<!-- HEADER E--> 
+
+    <!-- BREADCRUMBS-->
+    <div class="full-width page-headers">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb22">
+                    <div class="breadcrumbs">
+                        <a href="index.html">首页</a>
+                        <span class="sep">＞</span>
+                        <a href="blog.html">作品集培训</a>
+                        <span class="sep">＞</span>
+                        <span class="current">服装设计初级作品集课程</span>
+                    </div>
+                </div>
+				<div class="col-md-12">
+					<div class="col-md-6 mb22 xh_mb22">
+						<img src="images/service3.png" class="img-responsive" alt="">
+					</div>
+					<div class="col-md-6 mb22 a">
+						<div class="wdq_box">
+							<p class="peixun">
+								<span><i class="fa fa-institution"></i>作品集培训</span>
+								<span><i class="fa fa-graduation-cap"></i>研究生</span>
+								<span><i class="fa  fa-cube"></i>设计类</span>
+							</p>
+							<p class="peixun2">
+								ReelArt - VIP艺术名校直录计划
+							</p>
+							<p class="peixun peixun3 xh_peixun3">
+								<span><i class="fa fa-dollar"></i>限时优惠</span>
+								<span>最高优惠2000元；两人同报名减500元</span>
+							</p>
+							<p class="peixun peixun3 xh_peixun3">
+								<span><i class="fa  fa-hand-o-right"></i>服务承诺</span>
+								<span>[极致体验][升学保障][自我提升]</span>
+							</p>
+							<a href="javascript:;" class="btn btn-danger xh_comment xh_comment_btn">线上报名</a>
+						</div>
+						
+					</div>
+				</div>
+                <div class="col-md-8 mb22 xh_color">
+                	<div style="background:#fff;">
+                		<div class="shihe">
+	                		<h3><i class="fa fa-user"></i>适合人群</h3>
+											<p>计划申请海外艺术院校的高中生、大学生；计划全面提升艺术／设计等专业能力的学生与成人；出国留学／转学／跨专业申请艺术专业的同学</p>
+	                	</div>
+	                	<div class="shihe">
+	                		<h3><i class="fa fa-cube"></i>独特理念</h3>
+											<p>［创新 赋能 破限］ 为申请海外艺术名校的学生打造最为贴心的创意课程和升学服务，全面提高艺术生创意思维能和批判性思考能力，加速适应海外院校生活。</p>
+	                	</div>
+	                	<div class="shihe">
+	                		<h3><i class="fa  fa-thumbs-up"></i>课程特色</h3>
+											<p>ReelArt－VIP艺术名校直录计划是由睿艺空间海内外艺术导师全力打造的高端作品集培训课程，课程体系分为“艺术课程体系ReelArt Curriculum” “活动实践体系ReelArt Events” ”学习服务体系ReelArt Services“ “创新突破体系ReelArt Innovation”，一站式全方位提升艺术／设计／时尚／媒体等专业方向学生的艺术创作能力，收获顶级名校offer，开启你全新的艺术留学之旅。</p>
+	                	</div>
+	                	<div class="shihe">
+	                		<h3><i class="fa fa-tags"></i>授课形式</h3>
+											<p>Studio1V1面授辅导｜网络1V1远程辅导｜工作室全天候实践｜精品小班集训 | 海外名师点评</p>
+	                	</div>
+	                	<div class="shihe">
+	                		<h3><i class="fa fa-group"></i>授课师资</h3>
+											<p>海外艺术导师评估组｜艺术导师组｜教学服务老师 ｜教学总监Mentor</p>
+	                	</div>
+	                	<div class="shihe">
+	                		<h3><i class="fa fa-paw"></i>相关案例</h3>
+	                		<ul>
+	                			<li class="li1">
+	                				<img src="images/u58.png" alt="">
+	                				<span>李同学<br />纽约时装设计学院</span>
+	                			</li>
+	                			<li>
+	                				<img src="images/u58.png" alt="">
+	                				<span>李同学<br />纽约时装设计学院</span>
+	                			</li>
+	                			<li>
+	                				<img src="images/u58.png" alt="">
+	                				<span>李同学<br />纽约时装设计学院</span>
+	                			</li>
+	                			<li>
+	                				<img src="images/u58.png" alt="">
+	                				<span>李同学<br />纽约时装设计学院</span>
+	                			</li>
+	                		</ul>
+	                		<p class="more">
+	                			<a href="###">更多案例》</a>
+	                		</p>
+	                	</div>
+                	</div>
+                	
+                </div>
+                <div class="col-md-4 mb22">
+                	<div style="background:#fff;">
+                		<h3>相关课程</h3>
+	                	<ol>
+	                		<li>
+	                			<img src="images/u118.png" class="img-responsive" alt="">
+	                			<p>ReelArt - VIP艺术名校直录计划</p>
+	                		</li>
+	                		<li>
+	                			<img src="images/u118.png" class="img-responsive" alt="">
+	                			<p>ReelArt - VIP艺术名校直录计划</p>
+	                		</li>
+	                		<li>
+	                			<img src="images/u118.png" class="img-responsive" alt="">
+	                			<p>ReelArt - VIP艺术名校直录计划</p>
+	                		</li>
+	                	</ol>
+	                	<p class="more more2">
+	              			<a href="###">更多课程》</a>
+	              		</p>
+                	</div>
+                	<ul class="clearfix xh_down xh_down2">
+						<li><a href="#"><i class="fa fa-comments"></i><p>睿艺微信</p></a></li>
+						<li class="Li_2"><a href="#"><i class="fa fa-qrcode"></i><p>睿艺微博</p></a></li>
+						<li><a href="#"><i class="fa fa-facebook-square"></i><p>FACEBOOK</p></a></li>
+					</ul>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- BREADCRUMBS --> 
+
+    <!-- FOOTER -->
+		<script type="text/javascript" src="js/foot.js"></script>
+		<!-- FOOTER -->
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/counter.animation.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/jquery.cycle2.js"></script>
+
+    </body>
+</html>

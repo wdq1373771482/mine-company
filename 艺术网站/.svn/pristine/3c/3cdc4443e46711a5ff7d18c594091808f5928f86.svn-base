@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>院校评估</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+		<link rel="stylesheet" href="css/xh_css.css" type="text/css">
+		<link rel="stylesheet" href="css/common.css">
+		<link rel="stylesheet" href="css/gywm.css">
+		
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->       
+		<div class="container xh_gywm mt20">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="col-md-3 block">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="javascript:;"><img src="images/u2.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article class="block">
+                                <ul class="xh_gyList">
+                                	<li><a href="#">
+										<p>艺术课程体系</p>
+										<p>ReelArt Curriculum</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作兴趣与探索</p>
+										<p>Curriculum Discovery</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作基础与夯实</p>
+										<p>Curriculum Foundation</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作研究与演变</p>
+										<p>Curriculum Research</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作发展与进阶</p>
+										<p>Curriculum Development</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作实现与展示</p>
+										<p>Curriculum Finalization</p>
+									</a></li>
+									<li><a href="#">
+										<p>项目课程与制作</p>
+										<p>Curriculum Project</p>
+									</a></li>
+									<li><a href="#">
+										<p>项目评估与测试</p>
+										<p>Curriculum Test</p>
+									</a></li>
+									<li><a href="#">
+										<p>项目展示与沟通</p>
+										<p>Curriculum Presentation</p>
+									</a></li>
+                                </ul>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-3">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="javascript:;"><img src="images/u2.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <ul class="xh_gyList">
+                                	<li><a href="#">
+										<p>活动实践体系</p>
+										<p>ReelArt Events</p>
+									</a></li>
+									<li><a href="#">
+										<p>学术讲座与研讨</p>
+										<p>Event Lecture</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作观察与写生</p>
+										<p>Event Sketch</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作体验与旅行</p>
+										<p>Event Outdoor</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作手工与实践</p>
+										<p>Event Craft</p>
+									</a></li>
+									<li><a href="#">
+										<p>创作技术与软件</p>
+										<p>Event Skill</p>
+									</a></li>
+									<li><a href="#">
+										<p>Proposal实践与训练</p>
+										<p>Event Proposal</p>
+									</a></li>
+									<li><a href="#">
+										<p>Critic实践与训练</p>
+										<p>Event Critic</p>
+									</a></li>
+									<li><a href="#">
+										<p>Presentation实践与训练</p>
+										<p>Event Presentation</p>
+									</a></li>
+                                </ul>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-3">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="javascript:;"><img src="images/u2.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                               <ul class="xh_gyList">
+                                	<li><a href="#">
+										<p>创新突破体系</p>
+										<p>ReelArt Innovation</p>
+									</a></li>
+									<li><a href="#">
+										<p>极限设计工作坊</p>
+										<p>Innovation Design&Limit </p>
+									</a></li>
+									<li><a href="#">
+										<p>科技艺术工作坊</p>
+										<p>Innovation Art&Technology </p>
+									</a></li>
+									<li><a href="#">
+										<p>商业艺术工作坊</p>
+										<p>Innovation Art&Bussiness </p>
+									</a></li>
+									<li><a href="#">
+										<p>情绪艺术工作坊</p>
+										<p>Innovation Art&Mood </p>
+									</a></li>
+									<li><a href="#">
+										<p>艺术社交工作坊</p>
+										<p>Innovation Art&Social </p>
+									</a></li>
+									<li><a href="#">
+										<p>艺术公益工作坊</p>
+										<p>Innovation Art&Thinking </p>
+									</a></li>
+									<li><a href="#">
+										<p>艺术创业工作坊</p>
+										<p>Innovation Art&Startup </p>
+									</a></li>
+									<li><a href="#">
+										<p>艺术管理工作坊</p>
+										<p>Innovation Art&Management </p>
+									</a></li>
+                                </ul>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-3">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="javascript:;"><img src="images/u2.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <ul class="xh_gyList">
+                                	<li><a href="#">
+										<p>学习服务体系</p>
+										<p>ReelArt Services</p>
+									</a></li>
+									<li><a href="#">
+										<p>健康管理服务</p>
+										<p>Service Health</p>
+									</a></li>
+									<li><a href="#">
+										<p>时间管理服务</p>
+										<p>Service Time</p>
+									</a></li>
+									<li><a href="#">
+										<p>作品管理服务</p>
+										<p>Service Work</p>
+									</a></li>
+									<li><a href="#">
+										<p>情绪疏导服务</p>
+										<p>Service Sentiment</p>
+									</a></li>
+									<li><a href="#">
+										<p>阅读管理服务</p>
+										<p>Service Reading</p>
+									</a></li>
+									<li><a href="#">
+										<p>习惯养成服务</p>
+										<p>Service Habit</p>
+									</a></li>
+									<li><a href="#">
+										<p>模拟申请服务</p>
+										<p>Service Miniature</p>
+									</a></li>
+									<li><a href="#">
+										<p>学习空间服务</p>
+										<p>Service Space</p>
+									</a></li>
+                                </ul>
+                            </article>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+        <!-- 列表 -->
+		<!-- 地图切换 -->
+		<div class="white map">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="tc">联系我们 Contact us</h2>
+					</div>
+					<div class="col-md-2">
+						<ul>
+							<li class="cur">北京·苹果社区</li>
+							<li>北京·国贸</li>
+							<li>北京·中关村</li>
+							<li>上海</li>
+							<li>广州</li>
+						</ul>
+					</div>
+					<div class="col-md-10">
+						<div class="con_1">
+							<div class="col-md-5">
+								<div class="cont1" id="cont1"></div>
+							</div>
+							<div class="col-md-7">
+							</div>
+							
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		 
+		
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+		<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.4"></script>
+		<script type="text/javascript" src="js/gywm.js"></script>
+
+    </body>
+</html>

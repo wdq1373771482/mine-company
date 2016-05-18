@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+        <title>成功案例详情页</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <!-- <script src="js/pace.js"></script> -->
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/green.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+        <link rel="stylesheet" href="css/pace-minimal.css">
+		<link rel="stylesheet" href="css/xh_css.css" type="text/css">
+		<link rel="stylesheet" href="css/common.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+		
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body class="blog-single">
+		<!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->    
+        <!-- BREADCRUMBS-->
+        <div class="full-width page-headers">
+            <div class="container">
+                <div class="row mb30">
+                    <div class="col-md-12 mb22">
+                        <div class="breadcrumbs">
+                            <a href="index.html">首页</a>
+                            <span class="sep">＞</span>
+                            <a href="blog.html">成功案例 </a>
+                            <span class="sep">＞</span>
+                            <span class="current">李同学</span>
+                        </div>
+                    </div>
+					<div class="col-md-8 comment-box xh_pxcomments xh_pxcommentss">
+						<div class="row properties-list">
+							<div class="col-md-12 xh_zpj xh_zpj_cgxq">
+								<div class="item">
+									<figure>
+										<img src="images/u66.png" alt="" class="img-responsive">
+									</figure>
+									<div class="item-data">
+										<div class="item-header clearfix">
+											<h3>李同学</h3>
+											<div class="px_list">
+												<p><strong>申请国家</strong>美国</p>
+												<p><strong>录取专业</strong>视觉传达专业</p>
+												<p><strong>课程学位</strong>本科</p>
+												<p><strong>毕业院校</strong>北京二中国际部</p>
+												<p><strong>学习时间</strong>6个月</p>
+												<p><strong>艺术梦想</strong>不要设定你的边界，因为你永远无法预知自己的可能性……</p>
+											</div>
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							<div class="col-md-12 xh_lbt">
+								<div class="xh_zpj_list clearfix">
+									<div class="col-md-4 xh_offer">
+										<h3>offer展示</h3>
+										<p class="offer_pic"><img src="images/u78.jpg" alt="" /></p>
+									</div>
+									<div class="col-md-8">
+										<h3>录取院校</h3>
+										 <!-- 焦点图 S -->
+										<div class="flexslider flexslider3" id="slider3">
+											<ul class="slides clearfix">
+												<li>
+													<img src="images/u76.png" class="img-responsive" alt="Slider Image" />
+													<p>纽约时装设计学院</p>
+												</li>
+												<li>
+													<img src="images/u76.png" class="img-responsive" alt="Slider Image" />
+													<p>纽约时装设计学院</p>
+												</li>
+												<li>
+													<img src="images/u76.png" class="img-responsive" alt="Slider Image" />
+													<p>纽约时装设计学院</p>
+												</li>
+											</ul>
+										</div> 
+										<!-- 焦点图 E-->
+									</div>
+								</div>
+							</div>
+							<div class="col-md-12 xh_lbt xh_lbt_zp">
+								<h3>作品集展示</h3>
+									<div class="col-md-3">
+										<img src="images/u66.png" alt="" />
+									</div>
+									<div class="col-md-3">
+										<img src="images/u66.png" alt="" />
+									</div>
+									<div class="col-md-3">
+										<img src="images/u66.png" alt="" />
+									</div>
+									<div class="col-md-3">
+										<img src="images/u66.png" alt="" />
+									</div>
+							</div>
+						</div>
+                    </div>
+
+                    <div class="col-md-4">
+						<div class="accordion xh_zxList">
+							<h3>
+								<p>作品集评估</p>
+								<p>Portfolio Assessment</p>
+							</h3>
+							<div>
+								<p>让您有针对性的了解理想国外艺术院校作品集如何准备，您是否能被录取。</p>
+								<p class="tc mt20">已有<span>251</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							<h3>
+								<p>院校评估</p>
+								<p>Academy Assessment</p>
+							</h3>
+							<div>
+								<p>申请理想国外艺术院校需要满足什么条件，如何规划和准备，难度有多大？</p>
+								<p class="tc mt20">已有<span>313</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							<h3>
+								<p>综合评估</p>
+								<p>Comprehensive Assessment</p>
+							</h3>
+							<div>
+								<p>对学生的综合素质进行评估，帮助学生快速选择理想院校，实现艺术理想！</p>
+								<p class="tc mt20">已有<span>151</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							
+						</div>
+                        <div class="add-comment xh_add-commentss">
+							<div class="xh_down1 px_right px_right2">
+								<h4>相关案例</h4>
+								<div class="post post1 clearfix">
+									<figure>
+										<a href="#"><img src="images/u92.png" alt="" class="img-responsive"></a>
+									</figure>
+									<article>
+										<span class="name">李老师</span>
+										<span>视觉传达专业 <em>本科</em></span>
+									</article>
+								</div>
+								<div class="post post1 clearfix">
+									<figure>
+										<a href="#"><img src="images/u92.png" alt="" class="img-responsive"></a>
+									</figure>
+									<article>
+										<span class="name">李老师</span>
+										<span>视觉传达专业 <em>本科</em></span>
+									</article>
+								</div>
+								<div class="post post1 clearfix">
+									<figure>
+										<a href="#"><img src="images/u92.png" alt="" class="img-responsive"></a>
+									</figure>
+									<article>
+										<span class="name">李老师</span>
+										<span>视觉传达专业 <em>本科</em></span>
+									</article>
+								</div>
+								<p class="loadMore"><a href="#" class="fr">更多案例>></a></p>
+							</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- BREADCRUMBS -->       
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/counter.animation.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/jquery.cycle2.js"></script>
+
+    </body>
+</html>

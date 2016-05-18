@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>在线评估</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/green.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+        <link rel="stylesheet" href="css/pace-minimal.css">
+        <link rel="stylesheet" href="css/xh_css.css" type="text/css">
+        <link rel="stylesheet" href="css/common.css">
+
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->       
+        <!-- 列表 -->
+		<div class="container mb30">
+            <div class="row">
+				<h2 class="succ_al">在线评估</h2>
+				<div class="col-md-12 post34">
+					<div class="col-md-4 col-sm-6 post3">
+						<div class="xh_zxList">
+							<h3>
+								<p>作品集评估</p>
+								<p>Portfolio Assessment</p>
+							</h3>
+							<div>
+								<p>让您有针对性的了解理想国外艺术院校作品集如何准备，您是否能被录取。</p>
+								<p class="tc mt20">已有<span>251</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 post3">
+						<div class="xh_zxList">
+							<h3>
+								<p>院校评估</p>
+								<p>Academy Assessment</p>
+							</h3>
+							<div>
+								<p>申请理想国外艺术院校需要满足什么条件，如何规划和准备，难度有多大？</p>
+								<p class="tc mt20">已有<span>313</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 post3">
+						<div class="xh_zxList">
+							<h3>
+								<p>综合评估</p>
+								<p>Comprehensive Assessment</p>
+							</h3>
+							<div>
+								<p>对学生的综合素质进行评估，帮助学生快速选择理想院校，实现艺术理想！</p>
+								<p class="tc mt20">已有<span>151</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <!-- 列表 -->
+		<div class="full-width-white white">
+			<div class="container mb30">
+				<div class="row">
+					<div class="col-md-4">
+						<p class="xh_tit2"><i class="fa fa-star-o"></i>评估状态</p>
+						<ul class="xh_pglist">
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>院校评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>综合评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>作品集评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>作品集评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>院校评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>院校评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>作品集评估</em>中</li>
+							<li><span>2015-12-04</span><span class="xh_names">李同学</span>申请<em>综合评估</em>中</li>
+						</ul>
+					</div>
+					<div class="col-md-8 xh_listPg">
+						<p class="xh_tit2 xh_tit3"><i class="fa fa-star-o"></i>评估案列</p>
+						<div class="col-md-12 pl0">
+							<div class="col-md-5 first_list">
+								<div class="item-data">
+									<div class="item-header clearfix">
+										<div class="px_list">
+											<p class="xu_tuu"><strong>李同学</strong><em><img src="images/u144.png" alt="" /></em></p>
+											<p><strong>申请方向</strong>本科生 意大利 服装设计</p>
+											<p><strong>评估导师</strong><em>章静</em><em>2015-05-16</em></p>
+											<p class="xu_tuu"><strong>查看评估</strong><em><img src="images/u140.png" alt="" /></em></p>
+											<p class="xh_xing"><strong>服务评分</strong>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-5 fr">
+								<div class="item-data">
+									<div class="item-header clearfix">
+										<div class="px_list">
+											<p class="xu_tuu"><strong>李同学</strong><em><img src="images/u144.png" alt="" /></em></p>
+											<p><strong>申请方向</strong>本科生 意大利 服装设计</p>
+											<p><strong>评估导师</strong><em>章静</em><em>2015-05-16</em></p>
+											<p class="xu_tuu"><strong>查看评估</strong><em><img src="images/u140.png" alt="" /></em></p>
+											<p class="xh_xing"><strong>服务评分</strong>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-5 last_list">
+								<div class="item-data">
+									<div class="item-header clearfix">
+										<div class="px_list">
+											<p class="xu_tuu"><strong>李同学</strong><em><img src="images/u144.png" alt="" /></em></p>
+											<p><strong>申请方向</strong>本科生 意大利 服装设计</p>
+											<p><strong>评估导师</strong><em>章静</em><em>2015-05-16</em></p>
+											<p class="xu_tuu"><strong>查看评估</strong><em><img src="images/u140.png" alt="" /></em></p>
+											<p class="xh_xing"><strong>服务评分</strong>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-5 last_list fr">
+								<div class="item-data">
+									<div class="item-header clearfix">
+										<div class="px_list">
+											<p class="xu_tuu"><strong>李同学</strong><em><img src="images/u144.png" alt="" /></em></p>
+											<p><strong>申请方向</strong>本科生 意大利 服装设计</p>
+											<p><strong>评估导师</strong><em>章静</em><em>2015-05-16</em></p>
+											<p class="xu_tuu"><strong>查看评估</strong><em><img src="images/u140.png" alt="" /></em></p>
+											<p class="xh_xing"><strong>服务评分</strong>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+												<i class="fa fa-star-o"></i>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container mb30">
+			<div class="row">
+				<p class="xh_tit2 xh_tit3"><i class="fa fa-star-o"></i>评估导师</p>
+				<div class="col-md-12 col-md-12-23">
+					<div class="col-md-2 xh_col-md-2">
+						<div class="item-data">
+							<div class="item-header clearfix">
+								<div class="px_list">
+									<p class="xu_tuu1"><img src="images/u33.png" alt="" /></p>
+									<p class="xh_name2">韩新宇</p>
+									<p>帕森设计学院</p>
+									<p>Professional field</p>
+									<p class="xh_btn">
+										<a href="#" class="btn btn1">去评估</a>
+										<a href="#" class="btn btn2">+关注</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2 xh_col-md-2">
+						<div class="item-data">
+							<div class="item-header clearfix">
+								<div class="px_list">
+									<p class="xu_tuu1"><img src="images/u33.png" alt="" /></p>
+									<p class="xh_name2">韩新宇</p>
+									<p>帕森设计学院</p>
+									<p>Professional field</p>
+									<p class="xh_btn">
+										<a href="#" class="btn btn1">去评估</a>
+										<a href="#" class="btn btn2">+关注</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2 xh_col-md-2">
+						<div class="item-data">
+							<div class="item-header clearfix">
+								<div class="px_list">
+									<p class="xu_tuu1"><img src="images/u33.png" alt="" /></p>
+									<p class="xh_name2">韩新宇</p>
+									<p>帕森设计学院</p>
+									<p>Professional field</p>
+									<p class="xh_btn">
+										<a href="#" class="btn btn1">去评估</a>
+										<a href="#" class="btn btn2">+关注</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2 xh_col-md-2">
+						<div class="item-data">
+							<div class="item-header clearfix">
+								<div class="px_list">
+									<p class="xu_tuu1"><img src="images/u33.png" alt="" /></p>
+									<p class="xh_name2">韩新宇</p>
+									<p>帕森设计学院</p>
+									<p>Professional field</p>
+									<p class="xh_btn">
+										<a href="#" class="btn btn1">去评估</a>
+										<a href="#" class="btn btn2">+关注</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2 xh_col-md-2">
+						<div class="item-data">
+							<div class="item-header clearfix">
+								<div class="px_list">
+									<p class="xu_tuu1"><img src="images/u33.png" alt="" /></p>
+									<p class="xh_name2">韩新宇</p>
+									<p>帕森设计学院</p>
+									<p>Professional field</p>
+									<p class="xh_btn">
+										<a href="#" class="btn btn1">去评估</a>
+										<a href="#" class="btn btn2">+关注</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2 xh_col-md-2">
+						<div class="item-data">
+							<div class="item-header clearfix">
+								<div class="px_list">
+									<p class="xu_tuu1"><img src="images/u33.png" alt="" /></p>
+									<p class="xh_name2">韩新宇</p>
+									<p>帕森设计学院</p>
+									<p>Professional field</p>
+									<p class="xh_btn">
+										<a href="#" class="btn btn1">去评估</a>
+										<a href="#" class="btn btn2">+关注</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			<p class="loadMore"><a href="#" class="fr">更多导师》</a></p>
+			</div>
+		</div>
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/counter.animation.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/jquery.cycle2.js"></script>
+
+
+    </body>
+</html>

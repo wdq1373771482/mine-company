@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>成功案例</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+       <!--  <script src="js/pace.js"></script> -->
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+		<link rel="stylesheet" href="css/xh_css.css" type="text/css">
+       <link rel="stylesheet" href="css/common.css">
+
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->       
+        <!-- 列表 -->
+        <div class="container">
+            <div class="row">
+			<h2 class="succ_al">成功案例</h2>
+                <div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-4 col-sm-6">
+                    <div class="item">
+                        <figure>
+                            <img src="images/1.png" alt="" class="img-responsive">
+                        </figure>
+                        <div class="item-detail blog-posts">
+							<div class="post post1 clearfix">
+								<figure>
+									<a href="#"><img src="images/post3.png" alt="" class="img-responsive"></a>
+								</figure>
+								<article>
+									<span class="name">李同学</span>
+									<span>申请国家：美国</span>
+									<span>录取专业：视觉传达专业</span>
+									<span>课程学位：本科</span>
+									<span>毕业院校：北京二中国际部</span>
+									<span>学习时间：6个月</span>
+									<span class="spanLast"><em>录取院校：</em><div class="schList">
+										<p>纽约时装设计学院</p>
+										<p>纽约视觉艺术学院</p>
+										<p>马里兰艺术学院</p>
+										<p>旧金山艺术学院</p>
+									</div></span>
+								</article>
+							</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 列表 -->
+		<div class="container">
+		  <div class="row">
+			<div class="col-md-12">
+			  <div class="pagination">
+				<a href="#" class="prev">首页</a>
+				<a href="#">1</a>
+				<span>2</span>
+				<a href="#">3</a>
+				<a href="#">4</a>
+				<a href="#">5</a>
+				<a href="#">6</a>
+				<a href="#" class="next">末页</a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+    </body>
+</html>

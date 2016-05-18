@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+        <title>艺术资讯详情页</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <!-- <script src="js/pace.js"></script> -->
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/green.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+        <link rel="stylesheet" href="css/pace-minimal.css">
+		<link rel="stylesheet" href="css/xh_css.css" type="text/css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+		
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body class="blog-single">
+		<!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->    
+        <!-- BREADCRUMBS-->
+        <div class="full-width page-headers">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 mb22">
+                        <div class="breadcrumbs">
+                            <a href="index.html">首页</a>
+                            <span class="sep">＞</span>
+                            <a href="blog.html">艺术资讯</a>
+                            <span class="sep">＞</span>
+                            <span class="current">Ac Weekly | 看华裔设计师王大仁与巴黎世家的爱恨情仇！</span>
+                        </div>
+                    </div>
+					<div class="col-md-8 comment-box">
+                        
+						<div class="xh_title ">
+							<h3>Ac Weekly | 看华裔设计师王大仁与巴黎世家的爱恨情仇！</h3>
+							 <p class="single-post-meta xh_tit_p">
+								<span><i class="fa fa-calendar"></i>8 June 2015</span>
+								<span class="sep">|</span>
+								<span><i class="fa fa-user"></i>Jay Jones</span>
+							</p>
+							<div class="xh_txt">
+								<p> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+								  <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+								  <p> Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
+								  <p class="xh_pic"><img src="images/1.png" alt="" /></p>
+								  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+
+eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+
+voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+</p>
+							</div>
+						</div>
+                        <ul>
+                            <li>
+                                <div class="comment-meta">
+                                    <img src="images/avatar3.png" alt="Avatar" class="avatar">
+                                    <span><i class="fa fa-user"></i>Jay Jones</span>
+                                    <span class="sep">|</span>
+                                    <span><i class="fa fa-calendar"></i>8 June 2015</span>
+                                    <span class="like"><i class="fa fa-heart"></i>25</span>
+                                </div>
+                                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+                                <a href="#" class="reply">Reply</a>
+                            </li>
+                            <li>
+                                <div class="comment-meta">
+                                    <img src="images/avatar2.png" alt="Avatar" class="avatar">
+                                    <span><i class="fa fa-user"></i>Jay Jones</span>
+                                    <span class="sep">|</span>
+                                    <span><i class="fa fa-calendar"></i>8 June 2015</span>
+                                    <span class="like"><i class="fa fa-heart"></i>25</span>
+                                </div>
+                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                <a href="#" class="reply">Reply</a>
+                                <ul class="children">
+                                    <li>
+                                        <div class="comment-meta">
+                                            <img src="images/avatar1.png" alt="Avatar" class="avatar">
+                                            <span><i class="fa fa-user"></i>Jay Jones</span>
+                                            <span class="sep">|</span>
+                                            <span><i class="fa fa-calendar"></i>8 June 2015</span>
+                                            <span class="like"><i class="fa fa-heart"></i>25</span>
+                                        </div>
+                                        <p>Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                        <a href="#" class="reply">Reply</a>
+                                        <ul class="children">
+                                            <li>
+                                                <div class="comment-meta">
+                                                    <img src="images/avatar3.png" alt="Avatar" class="avatar">
+                                                    <span><i class="fa fa-user"></i>Jay Jones</span>
+                                                    <span class="sep">|</span>
+                                                    <span><i class="fa fa-calendar"></i>8 June 2015</span>
+                                                    <span class="like"><i class="fa fa-heart"></i>25</span>
+                                                </div>
+                                                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+                                                <a href="#" class="reply">Reply</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="comment-meta">
+                                            <img src="images/avatar1.png" alt="Avatar" class="avatar">
+                                            <span><i class="fa fa-user"></i>Jay Jones</span>
+                                            <span class="sep">|</span>
+                                            <span><i class="fa fa-calendar"></i>8 June 2015</span>
+                                            <span class="like"><i class="fa fa-heart"></i>25</span>
+                                        </div>
+                                        <p>Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                        <a href="#" class="reply">Reply</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+						<div class="xh_pl">
+							<p class="xh_touxiang"><img src="images/avatar2.png" alt="" /></p>
+							<textarea name="" id="textarea" class="xh_textarea" cols="30" rows="10"></textarea>
+							<a href="#" class="btn btn-danger xh_comment">评论</a>
+						</div>
+                    </div>
+
+                    <div class="col-md-4">
+						<div class="accordion xh_zxList">
+							<h3>
+								<p>作品集评估</p>
+								<p>Portfolio Assessment</p>
+							</h3>
+							<div>
+								<p>让您有针对性的了解理想国外艺术院校作品集如何准备，您是否能被录取。</p>
+								<p class="tc mt20">已有<span>251</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							<h3>
+								<p>院校评估</p>
+								<p>Academy Assessment</p>
+							</h3>
+							<div>
+								<p>申请理想国外艺术院校需要满足什么条件，如何规划和准备，难度有多大？</p>
+								<p class="tc mt20">已有<span>313</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							<h3>
+								<p>综合评估</p>
+								<p>Comprehensive Assessment</p>
+							</h3>
+							<div>
+								<p>对学生的综合素质进行评估，帮助学生快速选择理想院校，实现艺术理想！</p>
+								<p class="tc mt20">已有<span>151</span>人评估</p>
+								<button class="btn btn-danger">立即评估</button>
+							</div>
+							
+						</div>
+                        <div class="add-comment xh_add-comments">
+							<div class="xh_down1">
+								<h4>课程排行榜</h4>
+								<ul>
+									<li><a href="#"><span>1</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>2</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>3</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>4</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>5</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>6</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>7</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>8</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>9</span>服装设计初级作品集课程</a></li>
+									<li><a href="#"><span>10</span>服装设计初级作品集课程</a></li>
+								</ul>
+							</div>
+                        </div>
+						<ul class="clearfix xh_down xh_down2">
+							<li><a href="#"><i class="fa fa-comments"></i><p>睿艺微信</p></a></li>
+							<li class="Li_2"><a href="#"><i class="fa fa-qrcode"></i><p>睿艺微博</p></a></li>
+							<li><a href="#"><i class="fa fa-facebook-square"></i><p>FACEBOOK</p></a></li>
+						</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- BREADCRUMBS -->       
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/counter.animation.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/jquery.cycle2.js"></script>
+
+    </body>
+</html>

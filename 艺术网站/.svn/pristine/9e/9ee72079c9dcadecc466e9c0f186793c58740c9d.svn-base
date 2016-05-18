@@ -1,0 +1,165 @@
+
+/* 首页底部 */
+.xh_down li{padding:10px 20px;background:#fff;}
+.xh_down li a,.xh_down li a:hover,.xh_down li a:visited{color:#000;display:block;text-decoration:none;}
+.xh_down li a img{margin:0 auto;display:block;}
+.xh_down li a p{line-height:30px;text-align:center;}
+.xh_downs p{margin:20px 0;}
+.xh_aList a,.xh_downs p{color:#F2F2F2;font-size:14px;color:#F2F2F2;}
+.xh_aList a{margin:0 10px;}
+.xh_aList a:first-child,.saoma li:first-child{margin-left:0;}
+.address_p span{float:left;display:block}
+.addresss{line-height:30px;text-align:left;}
+.saoma li i,.xh_down2 li i{font-size:36px;display:block;text-align:center;margin-right:0!important;color:#666;}
+.copy-right img{max-width:100%;height:auto;}
+.xh_down_di{padding-left:123px;} 
+.team-single figure img{max-width:100%!important;display:block;margin:0 auto;}
+
+
+.succ_al{margin:20px 0;font-size:26px;color:#6b6b6b;font-family:"微软雅黑";padding:0 15px;font-weight:normal;}
+
+@media(min-width:768px){
+	.posts1 .post article{padding:40px 15px 0px 15px}
+}
+@media(max-width:768px){
+	.xh_form input,.post3 .filter .selectBox{width:64%!important;}
+	.post3 .filter .selectBox-dropdown .selectBox-arrow{top:14px;right:-2px;}
+	.xh_form p{margin:20px 0;}
+	.post3 .filter .selectBox.location{margin-bottom:0!important;}
+	.xh_topSpan{width:85%;}
+	.xh_sc i.fa-upload{width:15%;}
+	.xh_picss{margin-bottom:30px;}
+	.flexslider3 li{margin:15px 10px;}
+	.address_p{width:64%!important;margin:0 auto!important;}
+	.address_p span{float:none;}
+	.address_p,.addresss{text-align:center!important;}
+	.xh_setHeight .item {max-height:710px;}
+}
+@media only screen and (max-width: 991px) and (min-width: 769px){
+	.xh_form label{width:98px!important;}
+	.post3 .filter .selectBox.location{margin-bottom:0!important;}
+}
+@media(max-width:1200px){
+	.xh_down_di{padding-left:28px;} 
+	.mtop{margin-top:20px;}
+	.teach_name{padding-top:14px!important;}
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px)
+{
+	.px_right article {width: 182px!important;}
+	.btn1{margin-right:5px;}
+	.btn2{margin-left:5px;}
+	.xh_listPg .col-md-5{padding: 0px 40px 5px;}
+	.wdq_box{padding-bottom:1px;}
+	.peixun{padding:20px 20px 10px 20px!important}
+	.peixun3{
+		padding: 7.5px 24px!important;
+	}
+	.xh_comment{margin:13px auto;}
+	.xh_add-commentss .post figure, .xh_add-commentss .post figure img {
+		border-radius: 0!important;
+		width: 96px!important;
+		height: auto!important;
+	}
+	.px_right2 article{width:137px!important;margin:10px 0 0 0px;}
+	.xh_zpj_cgxq .item-data{width:384px!important;}
+	.xh_lbt_zp img{width:140px;}
+	.px_right div {
+		margin: 15px 0!important;
+	}
+	.xh_ds .teach_name{padding-top:35px!important}
+	.xh_ds .inp{margin-top:0;}
+}
+@media only screen and (max-width: 1000px) and (min-width:768px){
+	.post1 article{width:225px!important;}
+	.px_right article {width: 182px!important;}
+	.xh_form label{width:75px;}
+	.post3 .filter .selectBox,.xh_form input{width:164px;}
+	.xh_topSpan{width:90%;}
+	.xh_sc i.fa-upload{width:10%;}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px){
+	.ds_list{margin-top:30px;padding-left:0;padding-right:0;}
+	.post.xh_lists,.home-postss .post{display:block;}
+}
+@media(max-width:1000px){
+	header .right-side { margin-top: 5px; margin-left: 20px; }
+	header .nav > li.active > a:before { display: none; }
+	header .navbar-toggle { display: block; margin: 0 0 27px; }
+	header .collapse { display: none; }
+	header .navbar { float: none; clear: both; margin: 0 !important; width: 100%; }
+	header .navbar { position: absolute; top: 80px; left: 0; background: #fff; width: 100%; z-index: 999; }
+	header .navbar .navbar-nav { margin: 0; padding: 0 0 20px; width: 100%; }
+	header .navbar li { margin: 0; padding: 0; float: none; }
+	header .navbar li a { padding: 12px 25px !important; display: block; }
+	header .navbar .dropdown-menu { position: static; width: 100%; padding: 0; margin: 0; left: 0; }
+	header .navbar-nav > li:last-child { margin-right: 0; }
+	header .navbar { margin-left: 0 !important; }
+	.properties-list .item .item-data{width:100%;margin-top:20px;}
+	.px_list{text-align:left;}
+	.px_right div{width:100%;}
+	.px_right article{width:auto!important;}
+	.xh_zpj figure,.xh_zpj figure > img{width:100%!important;}
+	.xh_zpj figure > img{height:auto;}
+	.navbar-toggle{display:block;}
+	.xu_tuu1 img{max-width:100%;height:auto;}
+	.xh_listPg .col-md-5{float:none;}
+	.xh_down_di{margin-top:0;padding-left:0;} 
+	.xh_mb22 img{width:100%!important;}
+	.xh_zpj_cgxq figure img{margin:0 auto;}
+	.xh_zpj_cgxq .item-data{width:auto!important;}
+	.address_p{width:60%;margin:0 auto!important;}
+	.mt80{margin-top:30px;}
+	.xh_comments_zpjpx{padding-bottom:20px;}
+}
+@media(max-width:640px){
+	.xh_form label {
+		width: 100%;
+		text-align: center;
+		margin: 10px 0;
+	}
+	.xh_form input,.post3 .filter .selectBox{width:97%!important;}
+	.xh_topSpan em{padding-left:10px;}
+}
+@media only screen and (min-width:530px) and (max-width:560px){
+	.xh_lists li{margin:8px;}
+	.xh_topSpan em{font-size:18px;}
+}
+@media(max-width:530px){
+	.xh_lists li{float:none;}
+	.xh_lists li{width:auto!important;}
+	.xh_sc{width:88%;}
+}
+@media(max-width:480px){
+	.xh_form input,.post3 .filter .selectBox{width:93%!important;}
+	.xh_js{display:none;}
+	.post3 article{float:none!important;text-align:center;}
+}
+@media(max-width:390px){
+	footer ul li:last-child {margin-right:auto!important;}
+	.xh_down li,.xh_down2 li{padding: 10px 20px;background: #fff;max-width: 100%;min-width:215px;margin-right: auto;}
+	.xh_down2 li{width:100%!important;}
+	li.Li_2{margin:10px 0!important;}
+	footer ul li {display:block;margin: 21px 10px;}
+	footer ul li:last-child{width:auto;}
+	i.xh_lxyx{font-size:16px!important;padding:0 10px!important;}
+	.xh_pg input{width:62%;}
+	.xh_topSpan{width:78%}
+	.xh_topSpan em{font-size:18px;}
+	.xh_sc i.fa-upload{width:22%;}
+	.xh_pglist li{line-height:40px;}
+	.saoma li:first-child{margin-left:10px;}
+}
+@media(min-width:390px){
+	.saoma li:last-child{width:88px;padding:10px;}
+	.filter2{margin-top:-74px!important;}
+}
+@media(max-width:320px){
+	.flex-direction-nav a{
+		top:62%!important;
+	}
+	.xh_pg input{width:40%;}
+	.xh_pg input{padding-left:4px;}
+	.flexslider3 .flex-direction-nav a{top:30%!important}
+	.flexslider4 .flex-direction-nav a{top:40%!important;height:57px!important;background-size:100% auto!important;}
+}

@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>艺术资讯</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+       <!--  <script src="js/pace.js"></script> -->
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery.selectBox.css" type="text/css">
+        <link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+        <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/green.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/responsive.css" type="text/css">
+        <link rel="stylesheet" href="css/pace-minimal.css">
+		<link rel="stylesheet" href="css/xh_css.css" type="text/css">
+
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700,500' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico">
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <!-- HEADER S -->
+        <script type="text/javascript" src="js/head.js"></script>
+        <!-- HEADER E-->       
+         <!-- 广告图 -->
+        <div class="full-width-white">
+            <img src="images/banner-history.png" class="img-responsive" alt="Slider Image" />
+        </div>
+        <!-- 广告图 -->
+        <!-- 列表 -->
+        <div class="full-width home-postss blog-posts">
+            <div class="container">
+                <div class="row team-posts">
+					<div class="col-md-12 col-md-12_zx">
+                        <div class="post clearfix xh_lists">
+                           <ul>
+                           	<li class="first"><a href="javascript:;">资讯类型</a></li>
+                           	<li><a href="javascript:;">作品集培训</a></li>
+                           	<li><a href="javascript:;">艺术申请</a></li>
+                           	<li><a href="javascript:;">语言学习</a></li>
+							<li><a href="javascript:;">睿艺公告</a></li>
+                           </ul>
+                        </div>
+						 <div class="post clearfix xh_lists">
+                           <ul>
+                           	<li class="first"><a href="javascript:;">申请阶段</a></li>
+                           	<li><a href="javascript:;">本科</a></li>
+                           	<li><a href="javascript:;">研究生</a></li>
+                           </ul>
+                        </div>
+						<div class="post clearfix xh_lists">
+                           <ul>
+                           	<li class="first"><a href="javascript:;">专业分类</a></li>
+                           	<li><a href="javascript:;">设计类</a></li>
+                           	<li><a href="javascript:;">纯艺术</a></li>
+                           	<li><a href="javascript:;">影视/动画</a></li>
+							<li><a href="javascript:;">音乐类</a></li>
+                           </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+                   <div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+					<div class="col-md-6">
+                        <div class="post clearfix">
+                            <figure>
+                                <a href="#"><img src="images/team1.png" alt="Team" class="img-responsive"></a>
+                            </figure>
+                            <article>
+                                <span class=""><i class="fa fa-calendar"></i>8 June 2015</span>
+                                <h3><a href="blog-post.html">Pratt Institute导师与你分享关于服装设计的那些事儿！</a></h3>
+                                <p>喜欢服装设计，梦想成为服装设计师？ 想了解世界顶级艺术院校的服装设计超前理念？ 12月5日周六下午3点 普瑞特艺术学院服装设计导师与你分享关于服装设计的那些事儿 你想知道的，统统告诉你！</p>
+                                <a href="#"><i class="fa fa-comment"></i>28</a>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 列表 -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="pagination">
+						<a href="#" class="prev">首页</a>
+						<a href="#" class="cur">1</a>
+						<a href="#">2</a>
+						<a href="#">3</a>
+						<a href="#">4</a>
+						<a href="#">5</a>
+						<a href="#" class="next">末页</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- 广告图 -->
+        <div class="full-width-white mb30">
+            <img src="images/banner-history.png" class="img-responsive" alt="Slider Image" />
+        </div>
+        <!-- 广告图 -->
+        <!-- FOOTER -->
+        <script type="text/javascript" src="js/foot.js"></script>
+        <!-- FOOTER -->
+
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/jquery.selectBox.min.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/counter.animation.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/jquery.cycle2.js"></script>
+
+    </body>
+</html>

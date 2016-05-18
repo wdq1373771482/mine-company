@@ -1,0 +1,22 @@
+[
+	{
+		src:'u33.png',
+		name:'李同学'
+	},
+	{
+		src:'u58.png',
+		name:'李同学2'
+	},
+	{
+		src:'u66.png',
+		name:'李同学3'
+	},
+	{
+		src:'u92.png',
+		name:'李同学4'
+	},
+	{
+		src:'u118.png',
+		name:'李同学5'
+	}
+];
