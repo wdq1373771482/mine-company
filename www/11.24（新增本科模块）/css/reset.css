@@ -1,0 +1,28 @@
+@charset "utf-8";
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{color: #666; font-family:微软雅黑,Arial,Verdana,宋体; font-size: 12px; text-align: left; min-width: 1210px;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none; overflow: auto;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+a{text-decoration: none;}
+
+/*==========================Reset_End===========================*/
+/*"微软雅黑","宋体",*/
+.style-red{color: #c81623;}
+.slider-nav{position: absolute; height: 9px; bottom: 10px;}
+.slider-nav ul{line-height: 1;}
+.slider-nav li{display: inline-block; width: 9px; height: 9px; margin: 0 2px; background: #3e3e3e; border-radius: 50%; text-align: center; color: #fff; overflow: hidden; cursor: pointer;}
+.slider-nav .slider-selected{background: #b61b1f; color: #fff;}
+.slider-page a{position: absolute; top: 50%; margin-top: -31px; z-index: 1; display: block; width: 28px; height: 62px; line-height: 62px; background: rgba(0,0,0,.2); color: #fff; text-align: center; font-size: 22px; font-weight: 400; font-family: simsun; display: none;}
+.slider-prev{left: 0;}
+.slider-next{right: 0;}
+.brands{background: #f7f7f7; padding: 13px 0 13px 0; margin-top: 10px;}
+.brands ul{height: 40px; overflow: hidden;}
+.brands li{float: left; width: 120px; height: 40px; border-left: 1px dotted #ccc; text-align: center;}
+.brands li.fore1{border-left: none;}
+i{font-style: normal;}
+.m,.mb,.mc,.p-detail,.p-img,.p-market,.p-name,.p-price,.sm,.smb,.smc,.smt{overflow: hidden;}

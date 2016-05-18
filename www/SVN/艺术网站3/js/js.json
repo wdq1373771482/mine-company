@@ -1,0 +1,27 @@
+[
+			{
+				src:'images/1.jpg',
+				name:'李同学'
+				
+			},
+			{
+				src:'images/2.jpg',
+				name:'李同学2'
+				
+			},
+			{
+				src:'images/5.jpg',
+				name:'李同学3'
+
+			},
+			{
+				src:'images/6.jpg',
+				name:'李同学4'
+				
+			},
+			{
+				src:'images/9.jpg',
+				name:'李同学5'
+				
+			}
+		]
